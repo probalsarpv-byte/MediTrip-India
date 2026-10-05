@@ -1,5 +1,68 @@
 [
- {"id":"H001","name":"Sample Medical Centre Kolkata","city":"Kolkata","state":"West Bengal","specialties":["Oncology","Cardiology","Neurology"],"languages":["Bengali","English","Hindi"],"internationalDesk":true,"accreditation":["Demo"],"costLevel":2,"airportKm":18,"verified":"2026-10-01","status":"verified","phone":"+91 00000 00001","whatsapp":"910000000001","website":"https://example.com","address":"Kolkata, West Bengal, India","mapQuery":"Kolkata West Bengal India","image":null,"about":"Demo hospital profile for V1. Replace with verified real-world data before public launch."},
- {"id":"H002","name":"Sample Health Institute Chennai","city":"Chennai","state":"Tamil Nadu","specialties":["Cardiology","Transplant","Oncology"],"languages":["English","Tamil","Hindi"],"internationalDesk":true,"accreditation":["Demo"],"costLevel":3,"airportKm":14,"verified":"2026-09-28","status":"verified","phone":"+91 00000 00002","whatsapp":"910000000002","website":"https://example.com","address":"Chennai, Tamil Nadu, India","mapQuery":"Chennai Tamil Nadu India","image":null,"about":"Demo hospital profile for V1. Replace with verified real-world data before public launch."},
- {"id":"H003","name":"Sample Care Hospital Hyderabad","city":"Hyderabad","state":"Telangana","specialties":["Orthopaedics","Nephrology","Gastroenterology"],"languages":["English","Telugu","Hindi"],"internationalDesk":true,"accreditation":["Demo"],"costLevel":2,"airportKm":27,"verified":"2026-09-20","status":"review","phone":"+91 00000 00003","whatsapp":"910000000003","website":"https://example.com","address":"Hyderabad, Telangana, India","mapQuery":"Hyderabad Telangana India","image":null,"about":"Demo hospital profile for V1. Replace with verified real-world data before public launch."}
+  {
+    "id": "H001",
+    "name": "Sample Medical Centre Kolkata",
+    "city": "Kolkata",
+    "specialties": [
+      "Oncology",
+      "Cardiology",
+      "Neurology"
+    ],
+    "languages": [
+      "Bengali",
+      "English",
+      "Hindi"
+    ],
+    "internationalDesk": true,
+    "costLevel": 2,
+    "airportKm": 18,
+    "verified": "2026-10-01",
+    "status": "verified",
+    "about": "Demo hospital only. Replace with verified production data.",
+    "mapQuery": "Kolkata West Bengal India"
+  },
+  {
+    "id": "H002",
+    "name": "Sample Health Institute Chennai",
+    "city": "Chennai",
+    "specialties": [
+      "Cardiology",
+      "Transplant",
+      "Oncology"
+    ],
+    "languages": [
+      "English",
+      "Tamil",
+      "Hindi"
+    ],
+    "internationalDesk": true,
+    "costLevel": 3,
+    "airportKm": 14,
+    "verified": "2026-09-28",
+    "status": "verified",
+    "about": "Demo hospital only. Replace with verified production data.",
+    "mapQuery": "Chennai Tamil Nadu India"
+  },
+  {
+    "id": "H003",
+    "name": "Sample Care Hospital Hyderabad",
+    "city": "Hyderabad",
+    "specialties": [
+      "Orthopaedics",
+      "Nephrology",
+      "Gastroenterology"
+    ],
+    "languages": [
+      "English",
+      "Telugu",
+      "Hindi"
+    ],
+    "internationalDesk": true,
+    "costLevel": 2,
+    "airportKm": 27,
+    "verified": "2026-09-20",
+    "status": "review",
+    "about": "Demo hospital only. Replace with verified production data.",
+    "mapQuery": "Hyderabad Telangana India"
+  }
 ]

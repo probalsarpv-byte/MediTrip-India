@@ -1,7 +1,7 @@
 [
- {"name":"Kolkata","bestFor":["Oncology","Cardiology","Neurology"],"languagePriority":["Bengali","Hindi","English"],"travelScore":5,"budgetScore":4},
- {"name":"Chennai","bestFor":["Cardiology","Transplant","Oncology"],"languagePriority":["Tamil","English","Hindi"],"travelScore":3,"budgetScore":3},
- {"name":"Hyderabad","bestFor":["Nephrology","Orthopaedics","Gastroenterology"],"languagePriority":["Telugu","Hindi","English"],"travelScore":3,"budgetScore":4},
- {"name":"Delhi NCR","bestFor":["Oncology","Transplant","Neurosurgery"],"languagePriority":["Hindi","English"],"travelScore":2,"budgetScore":2},
- {"name":"Bengaluru","bestFor":["Neurology","Cardiology","Orthopaedics"],"languagePriority":["English","Kannada","Hindi"],"travelScore":2,"budgetScore":2}
+  "Kolkata",
+  "Chennai",
+  "Hyderabad",
+  "Delhi NCR",
+  "Bengaluru"
 ]
