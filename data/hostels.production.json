@@ -1,0 +1,165 @@
+[
+  {
+    "id": "HOST-KOL-001",
+    "name": "Hotel Polo Floatel",
+    "city": "Kolkata",
+    "nearHospitalIds": [
+      "H-KOL-001",
+      "H-KOL-002"
+    ],
+    "type": "hotel",
+    "priceRangeINR": "2500-6000",
+    "distanceNote": "~3-6 km EM Bypass",
+    "phone": null,
+    "bookingNote": "Book via MakeMyTrip / hotel site",
+    "languages": [
+      "English",
+      "Hindi",
+      "Bengali"
+    ],
+    "verificationStatus": "directory_listing",
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "HOST-KOL-002",
+    "name": "FabHotel / OYO near EM Bypass",
+    "city": "Kolkata",
+    "nearHospitalIds": [
+      "H-KOL-001",
+      "H-KOL-002"
+    ],
+    "type": "budget_stay",
+    "priceRangeINR": "1200-2500",
+    "distanceNote": "Within 2-5 km",
+    "phone": null,
+    "bookingNote": "Budget options near Anandapur / Phoolbagan",
+    "languages": [
+      "English",
+      "Hindi",
+      "Bengali"
+    ],
+    "verificationStatus": "directory_listing",
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "HOST-CHN-001",
+    "name": "Treebo / FabHotel Greams Road area",
+    "city": "Chennai",
+    "nearHospitalIds": [
+      "H-CHN-001"
+    ],
+    "type": "budget_stay",
+    "priceRangeINR": "1500-3500",
+    "distanceNote": "Walking / short auto to Greams Road",
+    "phone": null,
+    "bookingNote": "Many options around Thousand Lights",
+    "languages": [
+      "English",
+      "Tamil",
+      "Hindi"
+    ],
+    "verificationStatus": "directory_listing",
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "HOST-CHN-002",
+    "name": "Guest houses near MIOT Manapakkam",
+    "city": "Chennai",
+    "nearHospitalIds": [
+      "H-CHN-003"
+    ],
+    "type": "guest_house",
+    "priceRangeINR": "1000-2800",
+    "distanceNote": "1-4 km from MIOT",
+    "phone": null,
+    "bookingNote": "Ask hospital international desk for partner stays",
+    "languages": [
+      "English",
+      "Tamil"
+    ],
+    "verificationStatus": "directory_listing",
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "HOST-HYD-001",
+    "name": "Hotels near Hitec City / Gachibowli",
+    "city": "Hyderabad",
+    "nearHospitalIds": [
+      "H-HYD-001",
+      "H-HYD-003"
+    ],
+    "type": "hotel",
+    "priceRangeINR": "2000-7000",
+    "distanceNote": "2-8 km",
+    "phone": null,
+    "bookingNote": "Yashoda / AIG international desks often assist",
+    "languages": [
+      "English",
+      "Telugu",
+      "Hindi"
+    ],
+    "verificationStatus": "directory_listing",
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "HOST-NCR-001",
+    "name": "Medanta / FMRI partner guest houses",
+    "city": "Gurugram",
+    "nearHospitalIds": [
+      "H-NCR-001",
+      "H-NCR-002",
+      "H-NCR-005"
+    ],
+    "type": "guest_house",
+    "priceRangeINR": "1500-4500",
+    "distanceNote": "Hospital campus or nearby",
+    "phone": null,
+    "bookingNote": "Request via hospital international patient desk",
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "verificationStatus": "directory_listing",
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "HOST-NCR-002",
+    "name": "Budget hotels Saket / Press Enclave",
+    "city": "New Delhi",
+    "nearHospitalIds": [
+      "H-NCR-003"
+    ],
+    "type": "budget_stay",
+    "priceRangeINR": "1800-4000",
+    "distanceNote": "1-3 km from Max Saket",
+    "phone": null,
+    "bookingNote": "Many OYO / Treebo options",
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "verificationStatus": "directory_listing",
+    "lastVerified": "2026-10-05"
+  },
+  {
+    "id": "HOST-BLR-001",
+    "name": "Hotels near Old Airport Road / Hebbal",
+    "city": "Bengaluru",
+    "nearHospitalIds": [
+      "H-BLR-001",
+      "H-BLR-002"
+    ],
+    "type": "hotel",
+    "priceRangeINR": "2000-6000",
+    "distanceNote": "2-7 km",
+    "phone": null,
+    "bookingNote": "Manipal / Aster international desks help with stays",
+    "languages": [
+      "English",
+      "Kannada",
+      "Hindi"
+    ],
+    "verificationStatus": "directory_listing",
+    "lastVerified": "2026-10-05"
+  }
+]

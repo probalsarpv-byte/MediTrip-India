@@ -35,7 +35,8 @@
     "image": {
       "status": "needs_license_review",
       "sourcePage": "https://www.apollohospitals.com/kolkata",
-      "isIllustrative": false
+      "isIllustrative": false,
+      "url": "assets/hospital-cover.svg"
     }
   },
   {
@@ -44,10 +45,10 @@
     "city": "Kolkata",
     "state": "West Bengal",
     "country": "India",
-    "address": "730, Eastern Metropolitan Bypass, Anandapur, Kolkata, West Bengal",
-    "phone": null,
+    "address": "730, Eastern Metropolitan Bypass, Anandapur, Kolkata, West Bengal 700107",
+    "phone": "033-6628 4444",
     "internationalSupport": true,
-    "internationalContact": null,
+    "internationalContact": "ips@fortishealthcare.com",
     "specialties": [
       "Urology",
       "GI & Bariatric Surgery",
@@ -76,7 +77,8 @@
     "image": {
       "status": "needs_license_review",
       "sourcePage": "https://www.fortishealthcare.com/location/fortis-hospital-anandapur-kolkata",
-      "isIllustrative": false
+      "isIllustrative": false,
+      "url": "assets/hospital-cover.svg"
     }
   },
   {
@@ -103,7 +105,7 @@
       "JCI",
       "NABH"
     ],
-    "beds": null,
+    "beds": 560,
     "website": "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai",
     "appOrPortal": "Apollo digital booking / patient services",
     "verificationStatus": "verified_official",
@@ -117,7 +119,8 @@
     "image": {
       "status": "needs_license_review",
       "sourcePage": "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai",
-      "isIllustrative": false
+      "isIllustrative": false,
+      "url": "assets/hospital-cover.svg"
     }
   },
   {
@@ -153,7 +156,8 @@
     "image": {
       "status": "needs_license_review",
       "sourcePage": "https://mgmhealthcare.in/",
-      "isIllustrative": false
+      "isIllustrative": false,
+      "url": "assets/hospital-cover.svg"
     }
   },
   {
@@ -192,7 +196,8 @@
     "image": {
       "status": "needs_license_review",
       "sourcePage": "https://www.miotinternational.com/",
-      "isIllustrative": false
+      "isIllustrative": false,
+      "url": "assets/hospital-cover.svg"
     }
   },
   {
@@ -226,7 +231,8 @@
     "image": {
       "status": "needs_license_review",
       "sourcePage": "https://www.kauveryhospital.com/our-locations/chennai/",
-      "isIllustrative": false
+      "isIllustrative": false,
+      "url": "assets/hospital-cover.svg"
     }
   },
   {
@@ -238,7 +244,7 @@
     "address": "Survey No. 41/14, JNTU to Hitech City Main Rd, Khanamet Village, Serilingampally, Hyderabad, Telangana",
     "phone": "040 6723 2348",
     "internationalSupport": true,
-    "internationalContact": null,
+    "internationalContact": "+91 80659 06200",
     "specialties": [
       "Cardiology",
       "Cardiac Surgery",
@@ -250,7 +256,7 @@
       "Orthopaedics"
     ],
     "accreditation": [],
-    "beds": null,
+    "beds": 600,
     "website": "https://www.yashodahospitals.com/locations/hitec-city/",
     "appOrPortal": "Online appointment / video consultation",
     "verificationStatus": "verified_official",
@@ -262,7 +268,8 @@
     "image": {
       "status": "needs_license_review",
       "sourcePage": "https://www.yashodahospitals.com/locations/hitec-city/",
-      "isIllustrative": false
+      "isIllustrative": false,
+      "url": "assets/hospital-cover.svg"
     }
   },
   {
@@ -299,7 +306,8 @@
     "image": {
       "status": "needs_license_review",
       "sourcePage": "https://www.carehospitals.com/hospitals/hyderabad/care-hospital-banjara-hills",
-      "isIllustrative": false
+      "isIllustrative": false,
+      "url": "assets/hospital-cover.svg"
     }
   },
   {
@@ -328,7 +336,7 @@
       "NABL",
       "ISO 9001"
     ],
-    "beds": null,
+    "beds": 800,
     "website": "https://aighospitals.com/",
     "appOrPortal": "AIG Mitr App",
     "verificationStatus": "verified_official",
@@ -340,7 +348,8 @@
     "image": {
       "status": "needs_license_review",
       "sourcePage": "https://aighospitals.com/",
-      "isIllustrative": false
+      "isIllustrative": false,
+      "url": "assets/hospital-cover.svg"
     }
   },
   {
@@ -382,7 +391,8 @@
     "image": {
       "status": "needs_license_review",
       "sourcePage": "https://www.medanta.org/hospitals-near-me/gurugram-hospital",
-      "isIllustrative": false
+      "isIllustrative": false,
+      "url": "assets/hospital-cover.svg"
     }
   },
   {
@@ -391,10 +401,10 @@
     "city": "Gurugram",
     "state": "Haryana",
     "country": "India",
-    "address": "Gurugram, Haryana, India",
-    "phone": null,
+    "address": "Sector 44, Opposite HUDA City Centre, Gurugram, Haryana 122002",
+    "phone": "0124-4962200",
     "internationalSupport": true,
-    "internationalContact": null,
+    "internationalContact": "assist.fmri@fortishealthcare.com",
     "specialties": [
       "Oncology",
       "Cardiology",
@@ -422,7 +432,8 @@
     "image": {
       "status": "needs_license_review",
       "sourcePage": "https://www.fortishealthcare.com/location/fortis-memorial-research-institute-gurgaon",
-      "isIllustrative": false
+      "isIllustrative": false,
+      "url": "assets/hospital-cover.svg"
     }
   },
   {
@@ -463,7 +474,8 @@
     "image": {
       "status": "needs_license_review",
       "sourcePage": "https://www.maxhealthcare.in/hospital-network/max-super-speciality-hospital-saket",
-      "isIllustrative": false
+      "isIllustrative": false,
+      "url": "assets/hospital-cover.svg"
     }
   },
   {
@@ -499,7 +511,8 @@
     "image": {
       "status": "needs_license_review",
       "sourcePage": "https://www.maxhealthcare.in/international/en/hospital/blk-max-super-speciality-hospital",
-      "isIllustrative": false
+      "isIllustrative": false,
+      "url": "assets/hospital-cover.svg"
     }
   },
   {
@@ -525,7 +538,7 @@
       "JCI",
       "NABH"
     ],
-    "beds": null,
+    "beds": 750,
     "website": "https://www.artemishospitals.com/",
     "appOrPortal": "ArtemisPHR App",
     "verificationStatus": "verified_official",
@@ -538,7 +551,8 @@
     "image": {
       "status": "needs_license_review",
       "sourcePage": "https://www.artemishospitals.com/",
-      "isIllustrative": false
+      "isIllustrative": false,
+      "url": "assets/hospital-cover.svg"
     }
   },
   {
@@ -580,7 +594,8 @@
     "image": {
       "status": "needs_license_review",
       "sourcePage": "https://www.manipalhospitals.com/oldairportroad/hospitals/",
-      "isIllustrative": false
+      "isIllustrative": false,
+      "url": "assets/hospital-cover.svg"
     }
   },
   {
@@ -617,7 +632,8 @@
     "image": {
       "status": "needs_license_review",
       "sourcePage": "https://www.asterhospitals.in/hospitals/aster-cmi-bangalore",
-      "isIllustrative": false
+      "isIllustrative": false,
+      "url": "assets/hospital-cover.svg"
     }
   },
   {
@@ -627,16 +643,19 @@
     "state": "Karnataka",
     "country": "India",
     "address": "258/A, Bommasandra Industrial Area, Anekal Taluk, Hosur Road, Bangalore, Karnataka 560099",
-    "phone": null,
+    "phone": "080-7122 2222",
     "internationalSupport": true,
-    "internationalContact": null,
+    "internationalContact": "international@narayanahealth.org",
     "specialties": [
       "Cardiac Sciences",
       "Cardiac Surgery",
       "Critical Care"
     ],
-    "accreditation": [],
-    "beds": null,
+    "accreditation": [
+      "JCI",
+      "NABH"
+    ],
+    "beds": 606,
     "website": "https://www.narayanahealth.org/hospitals-clinics/bangalore",
     "appOrPortal": "Narayana Health digital patient services",
     "verificationStatus": "verified_official",
@@ -648,7 +667,81 @@
     "image": {
       "status": "needs_license_review",
       "sourcePage": "https://www.narayanahealth.org/hospitals-clinics/bangalore",
-      "isIllustrative": false
+      "isIllustrative": false,
+      "url": "assets/hospital-cover.svg"
+    }
+  },
+  {
+    "id": "H-CHN-005",
+    "name": "Apollo Proton Cancer Centre, Chennai",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "address": "4/661, Dr. Vikram Sarabhai Instronic Estate 7th St, Phase II, Vandalur–Kelambakkam Road, Chennai 600126",
+    "phone": "044 7177 1000",
+    "internationalSupport": true,
+    "internationalContact": null,
+    "specialties": [
+      "Proton Therapy",
+      "Oncology",
+      "Radiation Oncology",
+      "Surgical Oncology",
+      "Medical Oncology"
+    ],
+    "accreditation": [
+      "JCI",
+      "NABH"
+    ],
+    "beds": 150,
+    "website": "https://www.apollohospitals.com/chennai/apollo-proton-cancer-centre",
+    "appOrPortal": "Apollo digital booking",
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_APOLLO_CHN"
+    ],
+    "secondarySources": [],
+    "image": {
+      "status": "illustrative",
+      "isIllustrative": true,
+      "url": "assets/hospital-cover.svg"
+    }
+  },
+  {
+    "id": "H-NCR-006",
+    "name": "Indraprastha Apollo Hospitals, New Delhi",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "country": "India",
+    "address": "Sarita Vihar, Delhi Mathura Road, New Delhi 110076",
+    "phone": "011 2692 5858",
+    "internationalSupport": true,
+    "internationalContact": null,
+    "specialties": [
+      "Cardiac Sciences",
+      "Oncology",
+      "Transplants",
+      "Neurosciences",
+      "Orthopaedics",
+      "Gastroenterology"
+    ],
+    "accreditation": [
+      "JCI",
+      "NABH"
+    ],
+    "beds": 710,
+    "website": "https://www.apollohospitals.com/delhi",
+    "appOrPortal": "Apollo digital booking",
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_APOLLO_CHN"
+    ],
+    "secondarySources": [],
+    "image": {
+      "status": "illustrative",
+      "isIllustrative": true,
+      "url": "assets/hospital-cover.svg"
     }
   }
 ]

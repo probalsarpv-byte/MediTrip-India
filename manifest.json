@@ -1,9 +1,32 @@
 {
   "name": "MediTrip India",
   "short_name": "MediTrip",
+  "id": "./",
   "start_url": "./",
+  "scope": "./",
   "display": "standalone",
+  "orientation": "portrait-primary",
   "background_color": "#f5f8fd",
-  "theme_color": "#eff6ff",
-  "description": "Medical travel companion for India"
+  "theme_color": "#0ea5e9",
+  "description": "Verified medical travel companion for treatment in India",
+  "icons": [
+    {
+      "src": "assets/images/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/images/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/images/icon-maskable.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
 }

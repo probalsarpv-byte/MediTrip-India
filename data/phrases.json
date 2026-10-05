@@ -16,5 +16,89 @@
     "bn": "জরুরি সাহায্য দরকার। রোগীর শ্বাস নিতে কষ্ট হচ্ছে।",
     "en": "We need emergency help. The patient is having difficulty breathing.",
     "hi": "हमें आपातकालीन मदद चाहिए। मरीज को सांस लेने में दिक्कत हो रही है।"
+  },
+  {
+    "cat": "Consultation",
+    "bn": "আমার এই রিপোর্টগুলো দেখুন।",
+    "en": "Please look at these reports.",
+    "hi": "कृपया ये रिपोर्ट देखें।"
+  },
+  {
+    "cat": "Consultation",
+    "bn": "অপারেশনের খরচ কত হবে?",
+    "en": "How much will the surgery cost?",
+    "hi": "ऑपरेशन का खर्च कितना होगा?"
+  },
+  {
+    "cat": "Consultation",
+    "bn": "আমার কি অপারেশন দরকার?",
+    "en": "Do I need surgery?",
+    "hi": "क्या मुझे सर्जरी की जरूरत है?"
+  },
+  {
+    "cat": "Reception",
+    "bn": "আমি আন্তর্জাতিক রোগী। সাহায্য করুন।",
+    "en": "I am an international patient. Please help.",
+    "hi": "मैं अंतरराष्ट्रीय मरीज हूँ। कृपया मदद करें।"
+  },
+  {
+    "cat": "Reception",
+    "bn": "মেডিকেল ভিসা আছে।",
+    "en": "I have a medical visa.",
+    "hi": "मेरे पास मेडिकल वीजा है।"
+  },
+  {
+    "cat": "Payment",
+    "bn": "ক্যাশলেস / ইন্স্যুরেন্স নেই। নিজে পে করব।",
+    "en": "No cashless insurance. I will pay myself.",
+    "hi": "कैशलेस इंश्योरेंस नहीं है। खुद पेमेंट करूंगा/करूंगी।"
+  },
+  {
+    "cat": "Payment",
+    "bn": "বিলের কপি দিন।",
+    "en": "Please give a copy of the bill.",
+    "hi": "कृपया बिल की कॉपी दें।"
+  },
+  {
+    "cat": "Visa",
+    "bn": "মেডিকেল ভিসা এক্সটেনশন লাগবে।",
+    "en": "I need a medical visa extension.",
+    "hi": "मुझे मेडिकल वीजा एक्सटेंशन चाहिए।"
+  },
+  {
+    "cat": "Visa",
+    "bn": "হাসপাতাল থেকে আমন্ত্রণ পত্র চাই।",
+    "en": "I need an invitation letter from the hospital.",
+    "hi": "मुझे अस्पताल से निमंत्रण पत्र चाहिए।"
+  },
+  {
+    "cat": "Emergency",
+    "bn": "রোগীর জ্ঞান নেই। দ্রুত সাহায্য করুন।",
+    "en": "The patient is unconscious. Please help quickly.",
+    "hi": "मरीज बेहोश है। जल्दी मदद करें।"
+  },
+  {
+    "cat": "Emergency",
+    "bn": "বুক ব্যথা এবং ঘাম হচ্ছে।",
+    "en": "Chest pain and sweating.",
+    "hi": "सीने में दर्द और पसीना आ रहा है।"
+  },
+  {
+    "cat": "Pharmacy",
+    "bn": "এই ওষুধগুলো কোথায় পাব?",
+    "en": "Where can I get these medicines?",
+    "hi": "ये दवाइयाँ कहाँ मिलेंगी?"
+  },
+  {
+    "cat": "Stay",
+    "bn": "হাসপাতালের কাছে সস্তা হোটেল আছে?",
+    "en": "Are there affordable hotels near the hospital?",
+    "hi": "अस्पताल के पास सस्ते होटल हैं?"
+  },
+  {
+    "cat": "Stay",
+    "bn": "একজন অ্যাটেনডেন্ট থাকবে।",
+    "en": "One attendant will stay with the patient.",
+    "hi": "एक अटेंडेंट मरीज के साथ रहेगा।"
   }
 ]

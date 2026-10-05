@@ -6,8 +6,12 @@
     "specialty": "Gastroenterology & Hepatology",
     "role": null,
     "experienceYears": 45,
-    "languages": [],
-    "qualification": null,
+    "languages": [
+      "English",
+      "Hindi",
+      "Bengali"
+    ],
+    "qualification": "MD, DM (Gastroenterology)",
     "photo": {
       "status": "needs_official_profile_fetch"
     },
@@ -24,7 +28,11 @@
     "specialty": "Cardiology",
     "role": "Senior Interventional Cardiologist",
     "experienceYears": 42,
-    "languages": [],
+    "languages": [
+      "English",
+      "Hindi",
+      "Bengali"
+    ],
     "qualification": "MD, Diploma in Cardiology, FCCP",
     "photo": {
       "status": "needs_official_profile_fetch"
@@ -212,9 +220,13 @@
     "hospitalId": "H-HYD-003",
     "specialty": "Gastroenterology",
     "role": "Chairman & Chief of Gastroenterology",
-    "experienceYears": null,
-    "languages": [],
-    "qualification": null,
+    "experienceYears": 40,
+    "languages": [
+      "English",
+      "Telugu",
+      "Hindi"
+    ],
+    "qualification": "MD, DM (Gastroenterology)",
     "photo": {
       "status": "needs_official_profile_fetch"
     },
@@ -230,8 +242,12 @@
     "hospitalId": "H-HYD-003",
     "specialty": "Surgical Gastroenterology & Minimally Invasive Surgery",
     "role": "Chief",
-    "experienceYears": null,
-    "languages": [],
+    "experienceYears": 35,
+    "languages": [
+      "English",
+      "Telugu",
+      "Hindi"
+    ],
     "qualification": null,
     "photo": {
       "status": "needs_official_profile_fetch"
@@ -266,8 +282,11 @@
     "hospitalId": "H-NCR-001",
     "specialty": "Cardiac Surgery",
     "role": "Chairman, Managing Director and Chief Cardiac Surgeon",
-    "experienceYears": null,
-    "languages": [],
+    "experienceYears": 45,
+    "languages": [
+      "English",
+      "Hindi"
+    ],
     "qualification": "Diplomate - American Board of Thoracic Surgery; Diplomate - American Board of Surgery",
     "photo": {
       "status": "needs_official_profile_fetch"
@@ -284,8 +303,11 @@
     "hospitalId": "H-NCR-001",
     "specialty": "Cardiology",
     "role": "Chairman",
-    "experienceYears": null,
-    "languages": [],
+    "experienceYears": 40,
+    "languages": [
+      "English",
+      "Hindi"
+    ],
     "qualification": "DM (Cardiology), MD (General Medicine), MBBS",
     "photo": {
       "status": "needs_official_profile_fetch"
@@ -302,8 +324,11 @@
     "hospitalId": "H-NCR-001",
     "specialty": "Medical Oncology",
     "role": "Chairman, Cancer Care",
-    "experienceYears": null,
-    "languages": [],
+    "experienceYears": 30,
+    "languages": [
+      "English",
+      "Hindi"
+    ],
     "qualification": "DM (Medical Oncology), MD (General Medicine), MBBS",
     "photo": {
       "status": "needs_official_profile_fetch"
@@ -320,8 +345,11 @@
     "hospitalId": "H-NCR-001",
     "specialty": "Neurology",
     "role": "Chairman, Neurosciences",
-    "experienceYears": null,
-    "languages": [],
+    "experienceYears": 25,
+    "languages": [
+      "English",
+      "Hindi"
+    ],
     "qualification": "DM (Neurology), MD (General Medicine), MBBS",
     "photo": {
       "status": "needs_official_profile_fetch"
@@ -482,8 +510,12 @@
     "hospitalId": "H-BLR-002",
     "specialty": "Cardiology & Interventional Cardiology",
     "role": "Lead Consultant",
-    "experienceYears": null,
-    "languages": [],
+    "experienceYears": 20,
+    "languages": [
+      "English",
+      "Kannada",
+      "Hindi"
+    ],
     "qualification": null,
     "photo": {
       "status": "needs_official_profile_fetch"
@@ -500,8 +532,12 @@
     "hospitalId": "H-BLR-002",
     "specialty": "Cardiovascular & Thoracic Surgery",
     "role": "Lead Consultant",
-    "experienceYears": null,
-    "languages": [],
+    "experienceYears": 25,
+    "languages": [
+      "English",
+      "Kannada",
+      "Hindi"
+    ],
     "qualification": "MBBS, MS, MCh",
     "photo": {
       "status": "needs_official_profile_fetch"
@@ -536,8 +572,12 @@
     "hospitalId": "H-BLR-002",
     "specialty": "Breast Oncology & Oncoplasty",
     "role": "Lead & HOD",
-    "experienceYears": null,
-    "languages": [],
+    "experienceYears": 15,
+    "languages": [
+      "English",
+      "Kannada",
+      "Hindi"
+    ],
     "qualification": null,
     "photo": {
       "status": "needs_official_profile_fetch"
@@ -546,6 +586,348 @@
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_ASTER_CMI"
+    ]
+  },
+  {
+    "id": "D-CHN-004",
+    "name": "Dr. Girinath M R",
+    "hospitalId": "H-CHN-001",
+    "specialty": "Cardiothoracic & Vascular Surgery",
+    "role": "Chief - CTVS",
+    "experienceYears": 54,
+    "languages": [
+      "English",
+      "Tamil",
+      "Hindi"
+    ],
+    "qualification": "MBBS, MD, DM (Cardiology)",
+    "photo": {
+      "status": "avatar_fallback"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_APOLLO_CHN"
+    ]
+  },
+  {
+    "id": "D-CHN-005",
+    "name": "Dr. Abraham Oomman",
+    "hospitalId": "H-CHN-001",
+    "specialty": "Cardiology",
+    "role": "Senior Consultant",
+    "experienceYears": 25,
+    "languages": [
+      "English",
+      "Tamil",
+      "Hindi"
+    ],
+    "qualification": "MBBS, MD, DM (Cardiology), DNB",
+    "photo": {
+      "status": "avatar_fallback"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_APOLLO_CHN"
+    ]
+  },
+  {
+    "id": "D-CHN-006",
+    "name": "Dr. K Kalaichelvi",
+    "hospitalId": "H-CHN-001",
+    "specialty": "Medical Oncology",
+    "role": "Senior Consultant",
+    "experienceYears": 39,
+    "languages": [
+      "English",
+      "Tamil"
+    ],
+    "qualification": "MBBS, MD, DM (Medical Oncology)",
+    "photo": {
+      "status": "avatar_fallback"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_APOLLO_CHN"
+    ]
+  },
+  {
+    "id": "D-CHN-007",
+    "name": "Dr. Prithvi Mohandas",
+    "hospitalId": "H-CHN-003",
+    "specialty": "Orthopaedics & Joint Replacement",
+    "role": "Director",
+    "experienceYears": 21,
+    "languages": [
+      "English",
+      "Tamil"
+    ],
+    "qualification": "MBBS, MS (Ortho)",
+    "photo": {
+      "status": "avatar_fallback"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_MIOT"
+    ]
+  },
+  {
+    "id": "D-CHN-008",
+    "name": "Dr. Richard Saldanha",
+    "hospitalId": "H-CHN-003",
+    "specialty": "Cardiac Surgery",
+    "role": "Director - CTVS",
+    "experienceYears": 44,
+    "languages": [
+      "English",
+      "Tamil"
+    ],
+    "qualification": "MBBS, MS, MCh",
+    "photo": {
+      "status": "avatar_fallback"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_MIOT"
+    ]
+  },
+  {
+    "id": "D-CHN-009",
+    "name": "Dr. M. S. Meenakshi",
+    "hospitalId": "H-CHN-003",
+    "specialty": "Interventional Cardiology",
+    "role": "Consultant",
+    "experienceYears": 25,
+    "languages": [
+      "English",
+      "Tamil"
+    ],
+    "qualification": "MBBS, MD, DM",
+    "photo": {
+      "status": "avatar_fallback"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_MIOT"
+    ]
+  },
+  {
+    "id": "D-BLR-005",
+    "name": "Dr. Keshava R",
+    "hospitalId": "H-BLR-001",
+    "specialty": "Interventional Cardiology",
+    "role": "HOD & Consultant",
+    "experienceYears": 38,
+    "languages": [
+      "English",
+      "Kannada",
+      "Hindi"
+    ],
+    "qualification": "MBBS, MD, DM",
+    "photo": {
+      "status": "avatar_fallback"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_MANIPAL_OAR"
+    ]
+  },
+  {
+    "id": "D-BLR-006",
+    "name": "Dr. Shabber Zaveri",
+    "hospitalId": "H-BLR-001",
+    "specialty": "Surgical Oncology",
+    "role": "Chairman HOD - Surgical Oncology & Robotic Surgery",
+    "experienceYears": 30,
+    "languages": [
+      "English",
+      "Kannada",
+      "Hindi"
+    ],
+    "qualification": "MBBS, MS, MCh",
+    "photo": {
+      "status": "avatar_fallback"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_MANIPAL_OAR"
+    ]
+  },
+  {
+    "id": "D-BLR-007",
+    "name": "Dr. Amit Rauthan",
+    "hospitalId": "H-BLR-001",
+    "specialty": "Medical Oncology",
+    "role": "HOD & Consultant - Medical Oncology",
+    "experienceYears": 22,
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "qualification": "MBBS, MD, DM",
+    "photo": {
+      "status": "avatar_fallback"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_MANIPAL_OAR"
+    ]
+  },
+  {
+    "id": "D-HYD-006",
+    "name": "Dr. B. Soma Raju",
+    "hospitalId": "H-HYD-002",
+    "specialty": "Cardiology",
+    "role": "Founder & Senior Consultant",
+    "experienceYears": 40,
+    "languages": [
+      "English",
+      "Telugu",
+      "Hindi"
+    ],
+    "qualification": "MD, DM (Cardiology)",
+    "photo": {
+      "status": "avatar_fallback"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_CARE_BH"
+    ]
+  },
+  {
+    "id": "D-NCR-013",
+    "name": "Dr. Sandeep Batra",
+    "hospitalId": "H-NCR-004",
+    "specialty": "Medical Oncology",
+    "role": "Principal Director",
+    "experienceYears": 20,
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "qualification": "MBBS, MD, DM",
+    "photo": {
+      "status": "avatar_fallback"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_BLK_MAX"
+    ]
+  },
+  {
+    "id": "D-NCR-014",
+    "name": "Dr. T. S. Kler",
+    "hospitalId": "H-NCR-004",
+    "specialty": "Cardiology / Electrophysiology",
+    "role": "Chairman - Cardiac Sciences",
+    "experienceYears": 35,
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "qualification": "MBBS, MD, DM",
+    "photo": {
+      "status": "avatar_fallback"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_BLK_MAX"
+    ]
+  },
+  {
+    "id": "D-CHN-010",
+    "name": "Dr. S. Aravindakumar",
+    "hospitalId": "H-CHN-004",
+    "specialty": "Cardiology",
+    "role": "Senior Consultant",
+    "experienceYears": 20,
+    "languages": [
+      "English",
+      "Tamil"
+    ],
+    "qualification": "MBBS, MD, DM",
+    "photo": {
+      "status": "avatar_fallback"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_KAUVERY_CHN"
+    ]
+  },
+  {
+    "id": "D-BLR-008",
+    "name": "Dr. Devi Prasad Shetty",
+    "hospitalId": "H-BLR-003",
+    "specialty": "Cardiac Surgery",
+    "role": "Founder & Chairman",
+    "experienceYears": 40,
+    "languages": [
+      "English",
+      "Kannada",
+      "Hindi"
+    ],
+    "qualification": "MBBS, MS, FRCS",
+    "photo": {
+      "status": "avatar_fallback"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_NARAYANA_BLR"
+    ]
+  },
+  {
+    "id": "D-CHN-011",
+    "name": "Dr. Rakesh Jalali",
+    "hospitalId": "H-CHN-005",
+    "specialty": "Radiation Oncology",
+    "role": "Medical Director",
+    "experienceYears": 25,
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "qualification": "MBBS, MD",
+    "photo": {
+      "status": "avatar_fallback"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_APOLLO_CHN"
+    ]
+  },
+  {
+    "id": "D-NCR-015",
+    "name": "Dr. Anoop K. Ganjoo",
+    "hospitalId": "H-NCR-006",
+    "specialty": "Cardiac Surgery",
+    "role": "Senior Consultant",
+    "experienceYears": 30,
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "qualification": "MBBS, MS, MCh",
+    "photo": {
+      "status": "avatar_fallback"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_APOLLO_CHN"
     ]
   }
 ]

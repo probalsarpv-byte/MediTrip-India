@@ -1,0 +1,2447 @@
+{
+  "version": "production-db-v1.2",
+  "generated": "2026-10-05",
+  "hospitals": [
+    {
+      "id": "H-KOL-001",
+      "name": "Apollo Multispeciality Hospitals, EM Bypass, Kolkata",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "country": "India",
+      "address": "58, Canal Circular Rd, Kadapara, Phoolbagan, Kankurgachi, Kolkata, West Bengal 700054",
+      "phone": "033 4420 2122",
+      "internationalSupport": true,
+      "internationalContact": null,
+      "specialties": [
+        "Cardiac Sciences",
+        "Oncology",
+        "Neurosciences",
+        "Gastroenterology",
+        "Orthopaedics",
+        "Transplants",
+        "Nephrology",
+        "Urology"
+      ],
+      "accreditation": [
+        "JCI"
+      ],
+      "beds": 750,
+      "website": "https://www.apollohospitals.com/kolkata",
+      "appOrPortal": "Apollo digital booking / patient services",
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_APOLLO_KOL",
+        "SRC_APOLLO_KOL_CONTACT"
+      ],
+      "secondarySources": [],
+      "image": {
+        "status": "needs_license_review",
+        "sourcePage": "https://www.apollohospitals.com/kolkata",
+        "isIllustrative": false,
+        "url": "assets/hospital-cover.svg"
+      }
+    },
+    {
+      "id": "H-KOL-002",
+      "name": "Fortis Hospital Anandapur, Kolkata",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "country": "India",
+      "address": "730, Eastern Metropolitan Bypass, Anandapur, Kolkata, West Bengal 700107",
+      "phone": "033-6628 4444",
+      "internationalSupport": true,
+      "internationalContact": "ips@fortishealthcare.com",
+      "specialties": [
+        "Urology",
+        "GI & Bariatric Surgery",
+        "Orthopaedics",
+        "Neurology",
+        "Cardiology",
+        "Nephrology",
+        "Pulmonology",
+        "Critical Care"
+      ],
+      "accreditation": [
+        "NABH",
+        "NABL"
+      ],
+      "beds": 320,
+      "website": "https://www.fortishealthcare.com/location/fortis-hospital-anandapur-kolkata",
+      "appOrPortal": "Fortis online booking",
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_FORTIS_KOL"
+      ],
+      "secondarySources": [
+        "SRC_PRACTO_FORTIS_KOL"
+      ],
+      "image": {
+        "status": "needs_license_review",
+        "sourcePage": "https://www.fortishealthcare.com/location/fortis-hospital-anandapur-kolkata",
+        "isIllustrative": false,
+        "url": "assets/hospital-cover.svg"
+      }
+    },
+    {
+      "id": "H-CHN-001",
+      "name": "Apollo Hospitals, Greams Road, Chennai",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "address": "21, Greams Rd, Thousand Lights West, Chennai, Tamil Nadu 600006",
+      "phone": "08069049756",
+      "internationalSupport": true,
+      "internationalContact": null,
+      "specialties": [
+        "Cardiac Sciences",
+        "Oncology",
+        "Neurology",
+        "Nephrology",
+        "Gastroenterology & Hepatology",
+        "Orthopaedics",
+        "Urology",
+        "Transplants"
+      ],
+      "accreditation": [
+        "JCI",
+        "NABH"
+      ],
+      "beds": 560,
+      "website": "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai",
+      "appOrPortal": "Apollo digital booking / patient services",
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_APOLLO_CHN"
+      ],
+      "secondarySources": [
+        "SRC_PRACTO_APOLLO_CHN"
+      ],
+      "image": {
+        "status": "needs_license_review",
+        "sourcePage": "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai",
+        "isIllustrative": false,
+        "url": "assets/hospital-cover.svg"
+      }
+    },
+    {
+      "id": "H-CHN-002",
+      "name": "MGM Healthcare",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "address": "No 72, Old No 54, Nelson Manickam Road, Aminjikarai, Chennai 600029",
+      "phone": "+91 44 4524 2407",
+      "internationalSupport": true,
+      "internationalContact": null,
+      "specialties": [
+        "Cardiac Sciences",
+        "Heart & Lung Transplantation",
+        "Liver Care",
+        "Gastro Sciences",
+        "Neurology",
+        "Neurosurgery",
+        "Orthopaedics",
+        "Oncology"
+      ],
+      "accreditation": [],
+      "beds": 400,
+      "website": "https://mgmhealthcare.in/",
+      "appOrPortal": "Patient portal / video consultation",
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_MGM"
+      ],
+      "secondarySources": [],
+      "image": {
+        "status": "needs_license_review",
+        "sourcePage": "https://mgmhealthcare.in/",
+        "isIllustrative": false,
+        "url": "assets/hospital-cover.svg"
+      }
+    },
+    {
+      "id": "H-CHN-003",
+      "name": "MIOT International",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "address": "4/112, Mount Poonamallee Road, Manapakkam, Chennai 600089",
+      "phone": "+91 44 42002288",
+      "internationalSupport": true,
+      "internationalContact": null,
+      "specialties": [
+        "Orthopaedics",
+        "Cardiac Sciences",
+        "Transplants",
+        "Oncology",
+        "Neurology",
+        "Gastroenterology",
+        "Nephrology"
+      ],
+      "accreditation": [
+        "NABH",
+        "NABL"
+      ],
+      "beds": 1000,
+      "website": "https://www.miotinternational.com/",
+      "appOrPortal": "International Patient Care",
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_MIOT",
+        "SRC_MIOT_ACC"
+      ],
+      "secondarySources": [],
+      "image": {
+        "status": "needs_license_review",
+        "sourcePage": "https://www.miotinternational.com/",
+        "isIllustrative": false,
+        "url": "assets/hospital-cover.svg"
+      }
+    },
+    {
+      "id": "H-CHN-004",
+      "name": "Kauvery Hospital, Chennai",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "address": "No.199, Luz Church Road, Mylapore, Chennai, Tamil Nadu, India",
+      "phone": "044 4000 6000",
+      "internationalSupport": true,
+      "internationalContact": null,
+      "specialties": [
+        "Cardiology",
+        "Neurology",
+        "Orthopaedics",
+        "Gastroenterology",
+        "Nephrology",
+        "Critical Care"
+      ],
+      "accreditation": [],
+      "beds": 300,
+      "website": "https://www.kauveryhospital.com/our-locations/chennai/",
+      "appOrPortal": "Online appointment services",
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_KAUVERY_CHN"
+      ],
+      "secondarySources": [],
+      "image": {
+        "status": "needs_license_review",
+        "sourcePage": "https://www.kauveryhospital.com/our-locations/chennai/",
+        "isIllustrative": false,
+        "url": "assets/hospital-cover.svg"
+      }
+    },
+    {
+      "id": "H-HYD-001",
+      "name": "Yashoda Hospitals, Hitec City",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "address": "Survey No. 41/14, JNTU to Hitech City Main Rd, Khanamet Village, Serilingampally, Hyderabad, Telangana",
+      "phone": "040 6723 2348",
+      "internationalSupport": true,
+      "internationalContact": "+91 80659 06200",
+      "specialties": [
+        "Cardiology",
+        "Cardiac Surgery",
+        "Oncology",
+        "Neurology",
+        "Neurosurgery",
+        "Nephrology",
+        "Transplants",
+        "Orthopaedics"
+      ],
+      "accreditation": [],
+      "beds": 600,
+      "website": "https://www.yashodahospitals.com/locations/hitec-city/",
+      "appOrPortal": "Online appointment / video consultation",
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_YASHODA_HTC"
+      ],
+      "secondarySources": [],
+      "image": {
+        "status": "needs_license_review",
+        "sourcePage": "https://www.yashodahospitals.com/locations/hitec-city/",
+        "isIllustrative": false,
+        "url": "assets/hospital-cover.svg"
+      }
+    },
+    {
+      "id": "H-HYD-002",
+      "name": "CARE Hospitals, Banjara Hills",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "address": "Road No.1, Banjara Hills, Hyderabad, Telangana 500034",
+      "phone": "+91-40-68106529",
+      "internationalSupport": true,
+      "internationalContact": null,
+      "specialties": [
+        "Cardiac Sciences",
+        "Gastro Sciences",
+        "Nephrology",
+        "Neurosciences",
+        "Oncology",
+        "Orthopaedics",
+        "Transplants",
+        "Urology"
+      ],
+      "accreditation": [],
+      "beds": 435,
+      "website": "https://www.carehospitals.com/hospitals/hyderabad/care-hospital-banjara-hills",
+      "appOrPortal": "Online appointment / second opinion",
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_CARE_BH",
+        "SRC_CARE_SPEC"
+      ],
+      "secondarySources": [],
+      "image": {
+        "status": "needs_license_review",
+        "sourcePage": "https://www.carehospitals.com/hospitals/hyderabad/care-hospital-banjara-hills",
+        "isIllustrative": false,
+        "url": "assets/hospital-cover.svg"
+      }
+    },
+    {
+      "id": "H-HYD-003",
+      "name": "AIG Hospitals, Gachibowli",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "address": "1-66/AIG/2 to 5, Mindspace Road, Gachibowli, Hyderabad, Telangana 500032",
+      "phone": "+91 40 4244 4222",
+      "internationalSupport": true,
+      "internationalContact": null,
+      "specialties": [
+        "Gastroenterology",
+        "Liver Sciences",
+        "Organ Transplant",
+        "Oncology",
+        "Cardiac Sciences",
+        "Renal Sciences",
+        "Pulmonary Sciences",
+        "Emergency & Critical Care"
+      ],
+      "accreditation": [
+        "NABH",
+        "JCI",
+        "NABL",
+        "ISO 9001"
+      ],
+      "beds": 800,
+      "website": "https://aighospitals.com/",
+      "appOrPortal": "AIG Mitr App",
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_AIG"
+      ],
+      "secondarySources": [],
+      "image": {
+        "status": "needs_license_review",
+        "sourcePage": "https://aighospitals.com/",
+        "isIllustrative": false,
+        "url": "assets/hospital-cover.svg"
+      }
+    },
+    {
+      "id": "H-NCR-001",
+      "name": "Medanta – The Medicity, Gurugram",
+      "city": "Gurugram",
+      "state": "Haryana",
+      "country": "India",
+      "address": "CH Baktawar Singh Road, Sector 38, Gurugram, Haryana 122001",
+      "phone": "+91-880-000-1068",
+      "internationalSupport": true,
+      "internationalContact": null,
+      "specialties": [
+        "Cardiac Care",
+        "Cancer Care",
+        "Neurosciences",
+        "Gastrosciences",
+        "Orthopaedics",
+        "Renal Care",
+        "Liver Transplant",
+        "Lung Transplant",
+        "Bone Marrow Transplant"
+      ],
+      "accreditation": [
+        "JCI",
+        "NABH",
+        "NABL"
+      ],
+      "beds": 1440,
+      "website": "https://www.medanta.org/hospitals-near-me/gurugram-hospital",
+      "appOrPortal": "Telemedicine / digital patient services",
+      "verificationStatus": "verified_official_plus_nabh",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_MEDANTA",
+        "SRC_MEDANTA_NABH"
+      ],
+      "secondarySources": [],
+      "image": {
+        "status": "needs_license_review",
+        "sourcePage": "https://www.medanta.org/hospitals-near-me/gurugram-hospital",
+        "isIllustrative": false,
+        "url": "assets/hospital-cover.svg"
+      }
+    },
+    {
+      "id": "H-NCR-002",
+      "name": "Fortis Memorial Research Institute, Gurugram",
+      "city": "Gurugram",
+      "state": "Haryana",
+      "country": "India",
+      "address": "Sector 44, Opposite HUDA City Centre, Gurugram, Haryana 122002",
+      "phone": "0124-4962200",
+      "internationalSupport": true,
+      "internationalContact": "assist.fmri@fortishealthcare.com",
+      "specialties": [
+        "Oncology",
+        "Cardiology",
+        "Cardiac Surgery",
+        "Transplants",
+        "Neurology",
+        "Neurosurgery",
+        "Urology",
+        "Orthopaedics",
+        "Gastroenterology"
+      ],
+      "accreditation": [
+        "JCI",
+        "NABH"
+      ],
+      "beds": 330,
+      "website": "https://www.fortishealthcare.com/location/fortis-memorial-research-institute-gurgaon",
+      "appOrPortal": "Fortis online booking",
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_FMRI"
+      ],
+      "secondarySources": [],
+      "image": {
+        "status": "needs_license_review",
+        "sourcePage": "https://www.fortishealthcare.com/location/fortis-memorial-research-institute-gurgaon",
+        "isIllustrative": false,
+        "url": "assets/hospital-cover.svg"
+      }
+    },
+    {
+      "id": "H-NCR-003",
+      "name": "Max Super Speciality Hospital, Saket",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "address": "1,2, Press Enclave Road, Saket Institutional Area, Saket, New Delhi, Delhi 110017",
+      "phone": "011-26515050",
+      "internationalSupport": true,
+      "internationalContact": "int.query@maxhealthcare.com",
+      "specialties": [
+        "Cancer Care",
+        "Cardiac Sciences",
+        "Neurology",
+        "Neurosurgery",
+        "Nephrology",
+        "Kidney Transplant",
+        "Gastroenterology",
+        "Liver Transplant",
+        "Orthopaedics"
+      ],
+      "accreditation": [
+        "JCI",
+        "NABH"
+      ],
+      "beds": 514,
+      "website": "https://www.maxhealthcare.in/hospital-network/max-super-speciality-hospital-saket",
+      "appOrPortal": "Max online appointment / video consultation",
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_MAX_SAKET",
+        "SRC_MAX_CONTACT"
+      ],
+      "secondarySources": [],
+      "image": {
+        "status": "needs_license_review",
+        "sourcePage": "https://www.maxhealthcare.in/hospital-network/max-super-speciality-hospital-saket",
+        "isIllustrative": false,
+        "url": "assets/hospital-cover.svg"
+      }
+    },
+    {
+      "id": "H-NCR-004",
+      "name": "BLK-Max Super Speciality Hospital",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "address": "Pusa Rd, Radha Soami Satsang, Rajendra Place, New Delhi, Delhi 110005",
+      "phone": "011-30403040",
+      "internationalSupport": true,
+      "internationalContact": "int.query@maxhealthcare.com",
+      "specialties": [
+        "Cancer Care",
+        "Cardiac Sciences",
+        "Gastroenterology",
+        "Neurology",
+        "Orthopaedics",
+        "Kidney Transplant",
+        "Bariatric Surgery"
+      ],
+      "accreditation": [],
+      "beds": 539,
+      "website": "https://www.maxhealthcare.in/international/en/hospital/blk-max-super-speciality-hospital",
+      "appOrPortal": "Max international patient services",
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_BLK_MAX",
+        "SRC_MAX_CONTACT"
+      ],
+      "secondarySources": [],
+      "image": {
+        "status": "needs_license_review",
+        "sourcePage": "https://www.maxhealthcare.in/international/en/hospital/blk-max-super-speciality-hospital",
+        "isIllustrative": false,
+        "url": "assets/hospital-cover.svg"
+      }
+    },
+    {
+      "id": "H-NCR-005",
+      "name": "Artemis Hospital, Gurugram",
+      "city": "Gurugram",
+      "state": "Haryana",
+      "country": "India",
+      "address": "Sector 51, Gurugram, Haryana 122001",
+      "phone": "+91-124-4511111",
+      "internationalSupport": true,
+      "internationalContact": "+91 9711209940",
+      "specialties": [
+        "Heart Centre",
+        "Cancer Centre",
+        "Neurosciences",
+        "Orthopaedics",
+        "Transplants",
+        "Gastrosciences",
+        "Pulmonology & Critical Care"
+      ],
+      "accreditation": [
+        "JCI",
+        "NABH"
+      ],
+      "beds": 750,
+      "website": "https://www.artemishospitals.com/",
+      "appOrPortal": "ArtemisPHR App",
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_ARTEMIS",
+        "SRC_ARTEMIS_CONTACT"
+      ],
+      "secondarySources": [],
+      "image": {
+        "status": "needs_license_review",
+        "sourcePage": "https://www.artemishospitals.com/",
+        "isIllustrative": false,
+        "url": "assets/hospital-cover.svg"
+      }
+    },
+    {
+      "id": "H-BLR-001",
+      "name": "Manipal Hospital, Old Airport Road",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "address": "98, HAL Old Airport Road, Kodihalli, Bengaluru, Karnataka 560017",
+      "phone": "1800 102 5555",
+      "internationalSupport": true,
+      "internationalContact": null,
+      "specialties": [
+        "Cancer Care",
+        "Cardiology",
+        "CTVS",
+        "Gastrointestinal Science",
+        "Liver Transplant",
+        "Nephrology",
+        "Neurology",
+        "Neurosurgery",
+        "Orthopaedics",
+        "Urology"
+      ],
+      "accreditation": [
+        "NABH",
+        "NABL"
+      ],
+      "beds": 650,
+      "website": "https://www.manipalhospitals.com/oldairportroad/hospitals/",
+      "appOrPortal": "Manipal online appointment / patient services",
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_MANIPAL_OAR",
+        "SRC_MANIPAL_ABOUT"
+      ],
+      "secondarySources": [],
+      "image": {
+        "status": "needs_license_review",
+        "sourcePage": "https://www.manipalhospitals.com/oldairportroad/hospitals/",
+        "isIllustrative": false,
+        "url": "assets/hospital-cover.svg"
+      }
+    },
+    {
+      "id": "H-BLR-002",
+      "name": "Aster CMI Hospital",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "address": "No. 43/2, New Airport Road, NH 44, Sahakar Nagar, Hebbal, Bengaluru, Karnataka 560092",
+      "phone": "080-4342-0100",
+      "internationalSupport": true,
+      "internationalContact": null,
+      "specialties": [
+        "Cardiology",
+        "Cardiac Surgery",
+        "Medical Oncology",
+        "Surgical Oncology",
+        "Neurology",
+        "Neurosurgery",
+        "Nephrology",
+        "Urology",
+        "Liver Transplant"
+      ],
+      "accreditation": [],
+      "beds": 500,
+      "website": "https://www.asterhospitals.in/hospitals/aster-cmi-bangalore",
+      "appOrPortal": "Aster online appointment / patient services",
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_ASTER_CMI"
+      ],
+      "secondarySources": [],
+      "image": {
+        "status": "needs_license_review",
+        "sourcePage": "https://www.asterhospitals.in/hospitals/aster-cmi-bangalore",
+        "isIllustrative": false,
+        "url": "assets/hospital-cover.svg"
+      }
+    },
+    {
+      "id": "H-BLR-003",
+      "name": "Narayana Institute of Cardiac Sciences, Bangalore",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "address": "258/A, Bommasandra Industrial Area, Anekal Taluk, Hosur Road, Bangalore, Karnataka 560099",
+      "phone": "080-7122 2222",
+      "internationalSupport": true,
+      "internationalContact": "international@narayanahealth.org",
+      "specialties": [
+        "Cardiac Sciences",
+        "Cardiac Surgery",
+        "Critical Care"
+      ],
+      "accreditation": [
+        "JCI",
+        "NABH"
+      ],
+      "beds": 606,
+      "website": "https://www.narayanahealth.org/hospitals-clinics/bangalore",
+      "appOrPortal": "Narayana Health digital patient services",
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_NARAYANA_BLR"
+      ],
+      "secondarySources": [],
+      "image": {
+        "status": "needs_license_review",
+        "sourcePage": "https://www.narayanahealth.org/hospitals-clinics/bangalore",
+        "isIllustrative": false,
+        "url": "assets/hospital-cover.svg"
+      }
+    },
+    {
+      "id": "H-CHN-005",
+      "name": "Apollo Proton Cancer Centre, Chennai",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "address": "4/661, Dr. Vikram Sarabhai Instronic Estate 7th St, Phase II, Vandalur–Kelambakkam Road, Chennai 600126",
+      "phone": "044 7177 1000",
+      "internationalSupport": true,
+      "internationalContact": null,
+      "specialties": [
+        "Proton Therapy",
+        "Oncology",
+        "Radiation Oncology",
+        "Surgical Oncology",
+        "Medical Oncology"
+      ],
+      "accreditation": [
+        "JCI",
+        "NABH"
+      ],
+      "beds": 150,
+      "website": "https://www.apollohospitals.com/chennai/apollo-proton-cancer-centre",
+      "appOrPortal": "Apollo digital booking",
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_APOLLO_CHN"
+      ],
+      "secondarySources": [],
+      "image": {
+        "status": "illustrative",
+        "isIllustrative": true,
+        "url": "assets/hospital-cover.svg"
+      }
+    },
+    {
+      "id": "H-NCR-006",
+      "name": "Indraprastha Apollo Hospitals, New Delhi",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "address": "Sarita Vihar, Delhi Mathura Road, New Delhi 110076",
+      "phone": "011 2692 5858",
+      "internationalSupport": true,
+      "internationalContact": null,
+      "specialties": [
+        "Cardiac Sciences",
+        "Oncology",
+        "Transplants",
+        "Neurosciences",
+        "Orthopaedics",
+        "Gastroenterology"
+      ],
+      "accreditation": [
+        "JCI",
+        "NABH"
+      ],
+      "beds": 710,
+      "website": "https://www.apollohospitals.com/delhi",
+      "appOrPortal": "Apollo digital booking",
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_APOLLO_CHN"
+      ],
+      "secondarySources": [],
+      "image": {
+        "status": "illustrative",
+        "isIllustrative": true,
+        "url": "assets/hospital-cover.svg"
+      }
+    }
+  ],
+  "doctors": [
+    {
+      "id": "D-KOL-001",
+      "name": "Dr Mahesh Goenka",
+      "hospitalId": "H-KOL-001",
+      "specialty": "Gastroenterology & Hepatology",
+      "role": null,
+      "experienceYears": 45,
+      "languages": [
+        "English",
+        "Hindi",
+        "Bengali"
+      ],
+      "qualification": "MD, DM (Gastroenterology)",
+      "photo": {
+        "status": "needs_official_profile_fetch"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_APOLLO_KOL_DOC"
+      ]
+    },
+    {
+      "id": "D-KOL-002",
+      "name": "Dr A K Bardhan",
+      "hospitalId": "H-KOL-001",
+      "specialty": "Cardiology",
+      "role": "Senior Interventional Cardiologist",
+      "experienceYears": 42,
+      "languages": [
+        "English",
+        "Hindi",
+        "Bengali"
+      ],
+      "qualification": "MD, Diploma in Cardiology, FCCP",
+      "photo": {
+        "status": "needs_official_profile_fetch"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_APOLLO_KOL_DOC"
+      ]
+    },
+    {
+      "id": "D-KOL-003",
+      "name": "Dr Bivas Biswas",
+      "hospitalId": "H-KOL-001",
+      "specialty": "Medical Oncology",
+      "role": "Senior Consultant Medical Oncology",
+      "experienceYears": null,
+      "languages": [],
+      "qualification": "MBBS, MD (Paediatrics), DM (Medical Oncology)",
+      "photo": {
+        "status": "needs_official_profile_fetch"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_APOLLO_KOL"
+      ]
+    },
+    {
+      "id": "D-KOL-004",
+      "name": "Dr Sandip Ganguly",
+      "hospitalId": "H-KOL-001",
+      "specialty": "Medical Oncology",
+      "role": "Senior Consultant Medical Oncology",
+      "experienceYears": null,
+      "languages": [],
+      "qualification": "MBBS, MD (General Medicine), DM (Medical Oncology)",
+      "photo": {
+        "status": "needs_official_profile_fetch"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_APOLLO_KOL"
+      ]
+    },
+    {
+      "id": "D-KOL-005",
+      "name": "Dr Raj Kalyan Gopala Krishna",
+      "hospitalId": "H-KOL-002",
+      "specialty": "Urology",
+      "role": "Director",
+      "experienceYears": null,
+      "languages": [],
+      "qualification": null,
+      "photo": {
+        "status": "needs_official_profile_fetch"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_FORTIS_KOL"
+      ]
+    },
+    {
+      "id": "D-KOL-006",
+      "name": "Dr Ronen Roy",
+      "hospitalId": "H-KOL-002",
+      "specialty": "Orthopaedics",
+      "role": "Director",
+      "experienceYears": null,
+      "languages": [],
+      "qualification": null,
+      "photo": {
+        "status": "needs_official_profile_fetch"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_FORTIS_KOL"
+      ]
+    },
+    {
+      "id": "D-CHN-001",
+      "name": "Dr Kailash A Jain",
+      "hospitalId": "H-CHN-002",
+      "specialty": "Cardiac Surgery / Cardiology",
+      "role": "Director & Clinical Lead, Cardiothoracic & Vascular Surgery",
+      "experienceYears": null,
+      "languages": [],
+      "qualification": null,
+      "photo": {
+        "status": "needs_official_profile_fetch"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_MGM_DOC"
+      ]
+    },
+    {
+      "id": "D-CHN-002",
+      "name": "Dr A B Gopalamurugan",
+      "hospitalId": "H-CHN-002",
+      "specialty": "Interventional Cardiology & Electrophysiology",
+      "role": "Senior Consultant / Director TAVR, Endovascular & Device Therapy",
+      "experienceYears": null,
+      "languages": [],
+      "qualification": null,
+      "photo": {
+        "status": "needs_official_profile_fetch"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_MGM_DOC"
+      ]
+    },
+    {
+      "id": "D-CHN-003",
+      "name": "Dr Madan Mohan B",
+      "hospitalId": "H-CHN-002",
+      "specialty": "Interventional Cardiology",
+      "role": "Senior Consultant",
+      "experienceYears": null,
+      "languages": [],
+      "qualification": null,
+      "photo": {
+        "status": "needs_official_profile_fetch"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_MGM_DOC"
+      ]
+    },
+    {
+      "id": "D-HYD-001",
+      "name": "Dr Bhishma Chowdary Donepudi",
+      "hospitalId": "H-HYD-001",
+      "specialty": "Interventional Cardiology",
+      "role": "Consultant Interventional Cardiologist",
+      "experienceYears": 16,
+      "languages": [
+        "Telugu",
+        "Hindi",
+        "English"
+      ],
+      "qualification": "MD, DM Cardiology, FSCAI",
+      "photo": {
+        "status": "needs_official_profile_fetch"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_YASHODA_CARD"
+      ]
+    },
+    {
+      "id": "D-HYD-002",
+      "name": "Dr Damodhar Reddy Gouni",
+      "hospitalId": "H-HYD-001",
+      "specialty": "Interventional Cardiology",
+      "role": "Consultant Interventional Cardiologist",
+      "experienceYears": 11,
+      "languages": [
+        "English",
+        "Telugu",
+        "Hindi",
+        "Malayalam"
+      ],
+      "qualification": "MBBS, MD (General Medicine), DM (Cardiology)",
+      "photo": {
+        "status": "needs_official_profile_fetch"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_YASHODA_CARD"
+      ]
+    },
+    {
+      "id": "D-HYD-003",
+      "name": "Dr D Nageshwar Reddy",
+      "hospitalId": "H-HYD-003",
+      "specialty": "Gastroenterology",
+      "role": "Chairman & Chief of Gastroenterology",
+      "experienceYears": 40,
+      "languages": [
+        "English",
+        "Telugu",
+        "Hindi"
+      ],
+      "qualification": "MD, DM (Gastroenterology)",
+      "photo": {
+        "status": "needs_official_profile_fetch"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_AIG_DOC"
+      ]
+    },
+    {
+      "id": "D-HYD-004",
+      "name": "Dr G. V. Rao",
+      "hospitalId": "H-HYD-003",
+      "specialty": "Surgical Gastroenterology & Minimally Invasive Surgery",
+      "role": "Chief",
+      "experienceYears": 35,
+      "languages": [
+        "English",
+        "Telugu",
+        "Hindi"
+      ],
+      "qualification": null,
+      "photo": {
+        "status": "needs_official_profile_fetch"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_AIG_DOC"
+      ]
+    },
+    {
+      "id": "D-HYD-005",
+      "name": "Dr C Narasimhan",
+      "hospitalId": "H-HYD-003",
+      "specialty": "Cardiology / Electrophysiology",
+      "role": "Head of Electrophysiology & Senior Consultant Cardiology",
+      "experienceYears": null,
+      "languages": [],
+      "qualification": null,
+      "photo": {
+        "status": "needs_official_profile_fetch"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_AIG_DOC"
+      ]
+    },
+    {
+      "id": "D-NCR-001",
+      "name": "Dr Naresh Trehan",
+      "hospitalId": "H-NCR-001",
+      "specialty": "Cardiac Surgery",
+      "role": "Chairman, Managing Director and Chief Cardiac Surgeon",
+      "experienceYears": 45,
+      "languages": [
+        "English",
+        "Hindi"
+      ],
+      "qualification": "Diplomate - American Board of Thoracic Surgery; Diplomate - American Board of Surgery",
+      "photo": {
+        "status": "needs_official_profile_fetch"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_MEDANTA_CARD"
+      ]
+    },
+    {
+      "id": "D-NCR-002",
+      "name": "Dr R. R. Kasliwal",
+      "hospitalId": "H-NCR-001",
+      "specialty": "Cardiology",
+      "role": "Chairman",
+      "experienceYears": 40,
+      "languages": [
+        "English",
+        "Hindi"
+      ],
+      "qualification": "DM (Cardiology), MD (General Medicine), MBBS",
+      "photo": {
+        "status": "needs_official_profile_fetch"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_MEDANTA_CARD"
+      ]
+    },
+    {
+      "id": "D-NCR-003",
+      "name": "Dr Ashok Kumar Vaid",
+      "hospitalId": "H-NCR-001",
+      "specialty": "Medical Oncology",
+      "role": "Chairman, Cancer Care",
+      "experienceYears": 30,
+      "languages": [
+        "English",
+        "Hindi"
+      ],
+      "qualification": "DM (Medical Oncology), MD (General Medicine), MBBS",
+      "photo": {
+        "status": "needs_official_profile_fetch"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_MEDANTA_ONC"
+      ]
+    },
+    {
+      "id": "D-NCR-004",
+      "name": "Dr Arun Garg",
+      "hospitalId": "H-NCR-001",
+      "specialty": "Neurology",
+      "role": "Chairman, Neurosciences",
+      "experienceYears": 25,
+      "languages": [
+        "English",
+        "Hindi"
+      ],
+      "qualification": "DM (Neurology), MD (General Medicine), MBBS",
+      "photo": {
+        "status": "needs_official_profile_fetch"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_MEDANTA_NEURO"
+      ]
+    },
+    {
+      "id": "D-NCR-005",
+      "name": "Dr Atul Kumar Mittal",
+      "hospitalId": "H-NCR-002",
+      "specialty": "ENT",
+      "role": "Chairman",
+      "experienceYears": null,
+      "languages": [],
+      "qualification": null,
+      "photo": {
+        "status": "needs_official_profile_fetch"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_FMRI"
+      ]
+    },
+    {
+      "id": "D-NCR-006",
+      "name": "Dr Biswajyoti Hazarika",
+      "hospitalId": "H-NCR-002",
+      "specialty": "Surgical Oncology",
+      "role": "Principal Director",
+      "experienceYears": null,
+      "languages": [],
+      "qualification": null,
+      "photo": {
+        "status": "needs_official_profile_fetch"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_FMRI"
+      ]
+    },
+    {
+      "id": "D-NCR-007",
+      "name": "Dr Sahil Kohli",
+      "hospitalId": "H-NCR-002",
+      "specialty": "Neurology",
+      "role": "Additional Director",
+      "experienceYears": null,
+      "languages": [],
+      "qualification": null,
+      "photo": {
+        "status": "needs_official_profile_fetch"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_FMRI"
+      ]
+    },
+    {
+      "id": "D-NCR-008",
+      "name": "Dr Balbir Singh",
+      "hospitalId": "H-NCR-003",
+      "specialty": "Cardiology / Interventional Cardiology / Electrophysiology",
+      "role": null,
+      "experienceYears": null,
+      "languages": [],
+      "qualification": null,
+      "photo": {
+        "status": "needs_official_profile_fetch"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_MAX_SAKET"
+      ]
+    },
+    {
+      "id": "D-NCR-009",
+      "name": "Dr (Prof) SVS Deo",
+      "hospitalId": "H-NCR-003",
+      "specialty": "Surgical Oncology",
+      "role": "Chairman – Surgical Oncology",
+      "experienceYears": 35,
+      "languages": [],
+      "qualification": null,
+      "photo": {
+        "status": "needs_official_profile_fetch"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_MAX_SAKET"
+      ]
+    },
+    {
+      "id": "D-NCR-010",
+      "name": "Dr (Col) Joy Dev Mukherji",
+      "hospitalId": "H-NCR-003",
+      "specialty": "Neurology",
+      "role": null,
+      "experienceYears": null,
+      "languages": [],
+      "qualification": null,
+      "photo": {
+        "status": "needs_official_profile_fetch"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_MAX_SAKET"
+      ]
+    },
+    {
+      "id": "D-NCR-011",
+      "name": "Dr Parveen Yadav",
+      "hospitalId": "H-NCR-005",
+      "specialty": "Oncology",
+      "role": null,
+      "experienceYears": null,
+      "languages": [],
+      "qualification": null,
+      "photo": {
+        "status": "needs_official_profile_fetch"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_ARTEMIS_ONC"
+      ]
+    },
+    {
+      "id": "D-NCR-012",
+      "name": "Dr Lalit Kumar",
+      "hospitalId": "H-NCR-005",
+      "specialty": "Oncology",
+      "role": null,
+      "experienceYears": null,
+      "languages": [],
+      "qualification": null,
+      "photo": {
+        "status": "needs_official_profile_fetch"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_ARTEMIS_ONC"
+      ]
+    },
+    {
+      "id": "D-BLR-001",
+      "name": "Prof. Dr. Nagamalesh U M",
+      "hospitalId": "H-BLR-002",
+      "specialty": "Cardiology & Interventional Cardiology",
+      "role": "Lead Consultant",
+      "experienceYears": 20,
+      "languages": [
+        "English",
+        "Kannada",
+        "Hindi"
+      ],
+      "qualification": null,
+      "photo": {
+        "status": "needs_official_profile_fetch"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_ASTER_CARD"
+      ]
+    },
+    {
+      "id": "D-BLR-002",
+      "name": "Dr Ganeshakrishnan Iyer",
+      "hospitalId": "H-BLR-002",
+      "specialty": "Cardiovascular & Thoracic Surgery",
+      "role": "Lead Consultant",
+      "experienceYears": 25,
+      "languages": [
+        "English",
+        "Kannada",
+        "Hindi"
+      ],
+      "qualification": "MBBS, MS, MCh",
+      "photo": {
+        "status": "needs_official_profile_fetch"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_ASTER_CARD"
+      ]
+    },
+    {
+      "id": "D-BLR-003",
+      "name": "Dr Nikhil C. Hiremath",
+      "hospitalId": "H-BLR-002",
+      "specialty": "Neurology",
+      "role": "Consultant",
+      "experienceYears": null,
+      "languages": [],
+      "qualification": null,
+      "photo": {
+        "status": "needs_official_profile_fetch"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_ASTER_CMI"
+      ]
+    },
+    {
+      "id": "D-BLR-004",
+      "name": "Dr Poovamma C U",
+      "hospitalId": "H-BLR-002",
+      "specialty": "Breast Oncology & Oncoplasty",
+      "role": "Lead & HOD",
+      "experienceYears": 15,
+      "languages": [
+        "English",
+        "Kannada",
+        "Hindi"
+      ],
+      "qualification": null,
+      "photo": {
+        "status": "needs_official_profile_fetch"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_ASTER_CMI"
+      ]
+    },
+    {
+      "id": "D-CHN-004",
+      "name": "Dr. Girinath M R",
+      "hospitalId": "H-CHN-001",
+      "specialty": "Cardiothoracic & Vascular Surgery",
+      "role": "Chief - CTVS",
+      "experienceYears": 54,
+      "languages": [
+        "English",
+        "Tamil",
+        "Hindi"
+      ],
+      "qualification": "MBBS, MD, DM (Cardiology)",
+      "photo": {
+        "status": "avatar_fallback"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_APOLLO_CHN"
+      ]
+    },
+    {
+      "id": "D-CHN-005",
+      "name": "Dr. Abraham Oomman",
+      "hospitalId": "H-CHN-001",
+      "specialty": "Cardiology",
+      "role": "Senior Consultant",
+      "experienceYears": 25,
+      "languages": [
+        "English",
+        "Tamil",
+        "Hindi"
+      ],
+      "qualification": "MBBS, MD, DM (Cardiology), DNB",
+      "photo": {
+        "status": "avatar_fallback"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_APOLLO_CHN"
+      ]
+    },
+    {
+      "id": "D-CHN-006",
+      "name": "Dr. K Kalaichelvi",
+      "hospitalId": "H-CHN-001",
+      "specialty": "Medical Oncology",
+      "role": "Senior Consultant",
+      "experienceYears": 39,
+      "languages": [
+        "English",
+        "Tamil"
+      ],
+      "qualification": "MBBS, MD, DM (Medical Oncology)",
+      "photo": {
+        "status": "avatar_fallback"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_APOLLO_CHN"
+      ]
+    },
+    {
+      "id": "D-CHN-007",
+      "name": "Dr. Prithvi Mohandas",
+      "hospitalId": "H-CHN-003",
+      "specialty": "Orthopaedics & Joint Replacement",
+      "role": "Director",
+      "experienceYears": 21,
+      "languages": [
+        "English",
+        "Tamil"
+      ],
+      "qualification": "MBBS, MS (Ortho)",
+      "photo": {
+        "status": "avatar_fallback"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_MIOT"
+      ]
+    },
+    {
+      "id": "D-CHN-008",
+      "name": "Dr. Richard Saldanha",
+      "hospitalId": "H-CHN-003",
+      "specialty": "Cardiac Surgery",
+      "role": "Director - CTVS",
+      "experienceYears": 44,
+      "languages": [
+        "English",
+        "Tamil"
+      ],
+      "qualification": "MBBS, MS, MCh",
+      "photo": {
+        "status": "avatar_fallback"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_MIOT"
+      ]
+    },
+    {
+      "id": "D-CHN-009",
+      "name": "Dr. M. S. Meenakshi",
+      "hospitalId": "H-CHN-003",
+      "specialty": "Interventional Cardiology",
+      "role": "Consultant",
+      "experienceYears": 25,
+      "languages": [
+        "English",
+        "Tamil"
+      ],
+      "qualification": "MBBS, MD, DM",
+      "photo": {
+        "status": "avatar_fallback"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_MIOT"
+      ]
+    },
+    {
+      "id": "D-BLR-005",
+      "name": "Dr. Keshava R",
+      "hospitalId": "H-BLR-001",
+      "specialty": "Interventional Cardiology",
+      "role": "HOD & Consultant",
+      "experienceYears": 38,
+      "languages": [
+        "English",
+        "Kannada",
+        "Hindi"
+      ],
+      "qualification": "MBBS, MD, DM",
+      "photo": {
+        "status": "avatar_fallback"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_MANIPAL_OAR"
+      ]
+    },
+    {
+      "id": "D-BLR-006",
+      "name": "Dr. Shabber Zaveri",
+      "hospitalId": "H-BLR-001",
+      "specialty": "Surgical Oncology",
+      "role": "Chairman HOD - Surgical Oncology & Robotic Surgery",
+      "experienceYears": 30,
+      "languages": [
+        "English",
+        "Kannada",
+        "Hindi"
+      ],
+      "qualification": "MBBS, MS, MCh",
+      "photo": {
+        "status": "avatar_fallback"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_MANIPAL_OAR"
+      ]
+    },
+    {
+      "id": "D-BLR-007",
+      "name": "Dr. Amit Rauthan",
+      "hospitalId": "H-BLR-001",
+      "specialty": "Medical Oncology",
+      "role": "HOD & Consultant - Medical Oncology",
+      "experienceYears": 22,
+      "languages": [
+        "English",
+        "Hindi"
+      ],
+      "qualification": "MBBS, MD, DM",
+      "photo": {
+        "status": "avatar_fallback"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_MANIPAL_OAR"
+      ]
+    },
+    {
+      "id": "D-HYD-006",
+      "name": "Dr. B. Soma Raju",
+      "hospitalId": "H-HYD-002",
+      "specialty": "Cardiology",
+      "role": "Founder & Senior Consultant",
+      "experienceYears": 40,
+      "languages": [
+        "English",
+        "Telugu",
+        "Hindi"
+      ],
+      "qualification": "MD, DM (Cardiology)",
+      "photo": {
+        "status": "avatar_fallback"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_CARE_BH"
+      ]
+    },
+    {
+      "id": "D-NCR-013",
+      "name": "Dr. Sandeep Batra",
+      "hospitalId": "H-NCR-004",
+      "specialty": "Medical Oncology",
+      "role": "Principal Director",
+      "experienceYears": 20,
+      "languages": [
+        "English",
+        "Hindi"
+      ],
+      "qualification": "MBBS, MD, DM",
+      "photo": {
+        "status": "avatar_fallback"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_BLK_MAX"
+      ]
+    },
+    {
+      "id": "D-NCR-014",
+      "name": "Dr. T. S. Kler",
+      "hospitalId": "H-NCR-004",
+      "specialty": "Cardiology / Electrophysiology",
+      "role": "Chairman - Cardiac Sciences",
+      "experienceYears": 35,
+      "languages": [
+        "English",
+        "Hindi"
+      ],
+      "qualification": "MBBS, MD, DM",
+      "photo": {
+        "status": "avatar_fallback"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_BLK_MAX"
+      ]
+    },
+    {
+      "id": "D-CHN-010",
+      "name": "Dr. S. Aravindakumar",
+      "hospitalId": "H-CHN-004",
+      "specialty": "Cardiology",
+      "role": "Senior Consultant",
+      "experienceYears": 20,
+      "languages": [
+        "English",
+        "Tamil"
+      ],
+      "qualification": "MBBS, MD, DM",
+      "photo": {
+        "status": "avatar_fallback"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_KAUVERY_CHN"
+      ]
+    },
+    {
+      "id": "D-BLR-008",
+      "name": "Dr. Devi Prasad Shetty",
+      "hospitalId": "H-BLR-003",
+      "specialty": "Cardiac Surgery",
+      "role": "Founder & Chairman",
+      "experienceYears": 40,
+      "languages": [
+        "English",
+        "Kannada",
+        "Hindi"
+      ],
+      "qualification": "MBBS, MS, FRCS",
+      "photo": {
+        "status": "avatar_fallback"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_NARAYANA_BLR"
+      ]
+    },
+    {
+      "id": "D-CHN-011",
+      "name": "Dr. Rakesh Jalali",
+      "hospitalId": "H-CHN-005",
+      "specialty": "Radiation Oncology",
+      "role": "Medical Director",
+      "experienceYears": 25,
+      "languages": [
+        "English",
+        "Hindi"
+      ],
+      "qualification": "MBBS, MD",
+      "photo": {
+        "status": "avatar_fallback"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_APOLLO_CHN"
+      ]
+    },
+    {
+      "id": "D-NCR-015",
+      "name": "Dr. Anoop K. Ganjoo",
+      "hospitalId": "H-NCR-006",
+      "specialty": "Cardiac Surgery",
+      "role": "Senior Consultant",
+      "experienceYears": 30,
+      "languages": [
+        "English",
+        "Hindi"
+      ],
+      "qualification": "MBBS, MS, MCh",
+      "photo": {
+        "status": "avatar_fallback"
+      },
+      "verificationStatus": "verified_official",
+      "lastVerified": "2026-10-05",
+      "sources": [
+        "SRC_APOLLO_CHN"
+      ]
+    }
+  ],
+  "treatments": [
+    {
+      "id": "T-ONC-001",
+      "name": "Breast Cancer Evaluation & Treatment",
+      "specialty": "Oncology",
+      "keywords": [
+        "breast cancer",
+        "medical oncology",
+        "surgical oncology",
+        "radiation oncology"
+      ],
+      "costStatus": "needs_hospital_quote",
+      "sourcePolicy": "official hospital estimate only"
+    },
+    {
+      "id": "T-ONC-002",
+      "name": "Lung Cancer Evaluation & Treatment",
+      "specialty": "Oncology",
+      "keywords": [
+        "lung cancer",
+        "thoracic oncology"
+      ],
+      "costStatus": "needs_hospital_quote",
+      "sourcePolicy": "official hospital estimate only"
+    },
+    {
+      "id": "T-ONC-003",
+      "name": "Bone Marrow Transplant Evaluation",
+      "specialty": "Haematology / Oncology",
+      "keywords": [
+        "BMT",
+        "bone marrow transplant"
+      ],
+      "costStatus": "needs_hospital_quote",
+      "sourcePolicy": "official hospital estimate only"
+    },
+    {
+      "id": "T-CARD-001",
+      "name": "Coronary Angiography / Angioplasty",
+      "specialty": "Cardiology",
+      "keywords": [
+        "angiography",
+        "angioplasty",
+        "PCI"
+      ],
+      "costStatus": "needs_hospital_quote",
+      "sourcePolicy": "official hospital estimate only"
+    },
+    {
+      "id": "T-CARD-002",
+      "name": "CABG / Bypass Surgery",
+      "specialty": "Cardiac Surgery",
+      "keywords": [
+        "CABG",
+        "bypass"
+      ],
+      "costStatus": "needs_hospital_quote",
+      "sourcePolicy": "official hospital estimate only"
+    },
+    {
+      "id": "T-CARD-003",
+      "name": "TAVR / TAVI Evaluation",
+      "specialty": "Cardiology",
+      "keywords": [
+        "TAVR",
+        "TAVI"
+      ],
+      "costStatus": "needs_hospital_quote",
+      "sourcePolicy": "official hospital estimate only"
+    },
+    {
+      "id": "T-NEURO-001",
+      "name": "Stroke / Neurovascular Evaluation",
+      "specialty": "Neurology / Neurosurgery",
+      "keywords": [
+        "stroke",
+        "neurovascular"
+      ],
+      "costStatus": "needs_hospital_quote",
+      "sourcePolicy": "official hospital estimate only"
+    },
+    {
+      "id": "T-NEURO-002",
+      "name": "Brain Tumour Surgery Evaluation",
+      "specialty": "Neurosurgery / Oncology",
+      "keywords": [
+        "brain tumor",
+        "neurosurgery"
+      ],
+      "costStatus": "needs_hospital_quote",
+      "sourcePolicy": "official hospital estimate only"
+    },
+    {
+      "id": "T-RENAL-001",
+      "name": "Kidney Transplant Evaluation",
+      "specialty": "Nephrology / Transplant",
+      "keywords": [
+        "kidney transplant",
+        "renal transplant"
+      ],
+      "costStatus": "needs_hospital_quote",
+      "sourcePolicy": "official hospital estimate only"
+    },
+    {
+      "id": "T-LIVER-001",
+      "name": "Liver Transplant Evaluation",
+      "specialty": "Hepatology / Transplant",
+      "keywords": [
+        "liver transplant",
+        "hepatology"
+      ],
+      "costStatus": "needs_hospital_quote",
+      "sourcePolicy": "official hospital estimate only"
+    },
+    {
+      "id": "T-ORTHO-001",
+      "name": "Total Knee Replacement",
+      "specialty": "Orthopaedics",
+      "keywords": [
+        "TKR",
+        "knee replacement"
+      ],
+      "costStatus": "needs_hospital_quote",
+      "sourcePolicy": "official hospital estimate only"
+    },
+    {
+      "id": "T-ORTHO-002",
+      "name": "Total Hip Replacement",
+      "specialty": "Orthopaedics",
+      "keywords": [
+        "THR",
+        "hip replacement"
+      ],
+      "costStatus": "needs_hospital_quote",
+      "sourcePolicy": "official hospital estimate only"
+    },
+    {
+      "id": "T-GI-001",
+      "name": "Advanced Gastroenterology / Endoscopy",
+      "specialty": "Gastroenterology",
+      "keywords": [
+        "endoscopy",
+        "EUS",
+        "ERCP"
+      ],
+      "costStatus": "needs_hospital_quote",
+      "sourcePolicy": "official hospital estimate only"
+    },
+    {
+      "id": "T-GI-002",
+      "name": "GI Cancer Surgery",
+      "specialty": "Surgical Gastroenterology / Oncology",
+      "keywords": [
+        "GI oncology",
+        "colorectal",
+        "HPB"
+      ],
+      "costStatus": "needs_hospital_quote",
+      "sourcePolicy": "official hospital estimate only"
+    },
+    {
+      "id": "T-URO-001",
+      "name": "Urology / Uro-oncology Evaluation",
+      "specialty": "Urology",
+      "keywords": [
+        "urology",
+        "prostate",
+        "kidney cancer"
+      ],
+      "costStatus": "needs_hospital_quote",
+      "sourcePolicy": "official hospital estimate only"
+    }
+  ],
+  "cities": [
+    {
+      "id": "CITY-KOL",
+      "name": "Kolkata",
+      "state": "West Bengal",
+      "country": "India",
+      "priorityForBangladesh": "very_high",
+      "languagePriority": [
+        "Bengali",
+        "Hindi",
+        "English"
+      ]
+    },
+    {
+      "id": "CITY-CHN",
+      "name": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "priorityForBangladesh": "high",
+      "languagePriority": [
+        "Tamil",
+        "English",
+        "Hindi"
+      ]
+    },
+    {
+      "id": "CITY-HYD",
+      "name": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "priorityForBangladesh": "high",
+      "languagePriority": [
+        "Telugu",
+        "Hindi",
+        "English"
+      ]
+    },
+    {
+      "id": "CITY-NCR",
+      "name": "Delhi NCR",
+      "state": "Delhi/Haryana",
+      "country": "India",
+      "priorityForBangladesh": "high",
+      "languagePriority": [
+        "Hindi",
+        "English"
+      ]
+    },
+    {
+      "id": "CITY-BLR",
+      "name": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "priorityForBangladesh": "high",
+      "languagePriority": [
+        "English",
+        "Kannada",
+        "Hindi"
+      ]
+    }
+  ],
+  "hostels": [
+    {
+      "id": "HOST-KOL-001",
+      "name": "Hotel Polo Floatel",
+      "city": "Kolkata",
+      "nearHospitalIds": [
+        "H-KOL-001",
+        "H-KOL-002"
+      ],
+      "type": "hotel",
+      "priceRangeINR": "2500-6000",
+      "distanceNote": "~3-6 km EM Bypass",
+      "phone": null,
+      "bookingNote": "Book via MakeMyTrip / hotel site",
+      "languages": [
+        "English",
+        "Hindi",
+        "Bengali"
+      ],
+      "verificationStatus": "directory_listing",
+      "lastVerified": "2026-10-05"
+    },
+    {
+      "id": "HOST-KOL-002",
+      "name": "FabHotel / OYO near EM Bypass",
+      "city": "Kolkata",
+      "nearHospitalIds": [
+        "H-KOL-001",
+        "H-KOL-002"
+      ],
+      "type": "budget_stay",
+      "priceRangeINR": "1200-2500",
+      "distanceNote": "Within 2-5 km",
+      "phone": null,
+      "bookingNote": "Budget options near Anandapur / Phoolbagan",
+      "languages": [
+        "English",
+        "Hindi",
+        "Bengali"
+      ],
+      "verificationStatus": "directory_listing",
+      "lastVerified": "2026-10-05"
+    },
+    {
+      "id": "HOST-CHN-001",
+      "name": "Treebo / FabHotel Greams Road area",
+      "city": "Chennai",
+      "nearHospitalIds": [
+        "H-CHN-001"
+      ],
+      "type": "budget_stay",
+      "priceRangeINR": "1500-3500",
+      "distanceNote": "Walking / short auto to Greams Road",
+      "phone": null,
+      "bookingNote": "Many options around Thousand Lights",
+      "languages": [
+        "English",
+        "Tamil",
+        "Hindi"
+      ],
+      "verificationStatus": "directory_listing",
+      "lastVerified": "2026-10-05"
+    },
+    {
+      "id": "HOST-CHN-002",
+      "name": "Guest houses near MIOT Manapakkam",
+      "city": "Chennai",
+      "nearHospitalIds": [
+        "H-CHN-003"
+      ],
+      "type": "guest_house",
+      "priceRangeINR": "1000-2800",
+      "distanceNote": "1-4 km from MIOT",
+      "phone": null,
+      "bookingNote": "Ask hospital international desk for partner stays",
+      "languages": [
+        "English",
+        "Tamil"
+      ],
+      "verificationStatus": "directory_listing",
+      "lastVerified": "2026-10-05"
+    },
+    {
+      "id": "HOST-HYD-001",
+      "name": "Hotels near Hitec City / Gachibowli",
+      "city": "Hyderabad",
+      "nearHospitalIds": [
+        "H-HYD-001",
+        "H-HYD-003"
+      ],
+      "type": "hotel",
+      "priceRangeINR": "2000-7000",
+      "distanceNote": "2-8 km",
+      "phone": null,
+      "bookingNote": "Yashoda / AIG international desks often assist",
+      "languages": [
+        "English",
+        "Telugu",
+        "Hindi"
+      ],
+      "verificationStatus": "directory_listing",
+      "lastVerified": "2026-10-05"
+    },
+    {
+      "id": "HOST-NCR-001",
+      "name": "Medanta / FMRI partner guest houses",
+      "city": "Gurugram",
+      "nearHospitalIds": [
+        "H-NCR-001",
+        "H-NCR-002",
+        "H-NCR-005"
+      ],
+      "type": "guest_house",
+      "priceRangeINR": "1500-4500",
+      "distanceNote": "Hospital campus or nearby",
+      "phone": null,
+      "bookingNote": "Request via hospital international patient desk",
+      "languages": [
+        "English",
+        "Hindi"
+      ],
+      "verificationStatus": "directory_listing",
+      "lastVerified": "2026-10-05"
+    },
+    {
+      "id": "HOST-NCR-002",
+      "name": "Budget hotels Saket / Press Enclave",
+      "city": "New Delhi",
+      "nearHospitalIds": [
+        "H-NCR-003"
+      ],
+      "type": "budget_stay",
+      "priceRangeINR": "1800-4000",
+      "distanceNote": "1-3 km from Max Saket",
+      "phone": null,
+      "bookingNote": "Many OYO / Treebo options",
+      "languages": [
+        "English",
+        "Hindi"
+      ],
+      "verificationStatus": "directory_listing",
+      "lastVerified": "2026-10-05"
+    },
+    {
+      "id": "HOST-BLR-001",
+      "name": "Hotels near Old Airport Road / Hebbal",
+      "city": "Bengaluru",
+      "nearHospitalIds": [
+        "H-BLR-001",
+        "H-BLR-002"
+      ],
+      "type": "hotel",
+      "priceRangeINR": "2000-6000",
+      "distanceNote": "2-7 km",
+      "phone": null,
+      "bookingNote": "Manipal / Aster international desks help with stays",
+      "languages": [
+        "English",
+        "Kannada",
+        "Hindi"
+      ],
+      "verificationStatus": "directory_listing",
+      "lastVerified": "2026-10-05"
+    }
+  ],
+  "sources": [
+    {
+      "id": "SRC_APOLLO_KOL",
+      "type": "official_hospital",
+      "name": "Apollo Hospitals Kolkata",
+      "url": "https://www.apollohospitals.com/kolkata"
+    },
+    {
+      "id": "SRC_APOLLO_KOL_CONTACT",
+      "type": "official_hospital",
+      "name": "Apollo Kolkata Contact",
+      "url": "https://www.apollohospitals.com/region/kolkata/contact-us/"
+    },
+    {
+      "id": "SRC_APOLLO_KOL_DOC",
+      "type": "official_hospital",
+      "name": "Apollo Kolkata Doctors",
+      "url": "https://www.apollohospitals.com/book-doctor-appointment/kolkata"
+    },
+    {
+      "id": "SRC_FORTIS_KOL",
+      "type": "official_hospital",
+      "name": "Fortis Hospital Anandapur",
+      "url": "https://www.fortishealthcare.com/location/fortis-hospital-anandapur-kolkata"
+    },
+    {
+      "id": "SRC_PRACTO_FORTIS_KOL",
+      "type": "secondary_directory",
+      "name": "Practo Fortis Anandapur",
+      "url": "https://www.practo.com/kolkata/hospital/fortis-hospital-anandapur-1/overview"
+    },
+    {
+      "id": "SRC_APOLLO_CHN",
+      "type": "official_hospital",
+      "name": "Apollo Hospitals Greams Road",
+      "url": "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai"
+    },
+    {
+      "id": "SRC_PRACTO_APOLLO_CHN",
+      "type": "secondary_directory",
+      "name": "Practo Apollo Greams Road",
+      "url": "https://www.practo.com/india/Hospital/apollo-hospitals-greams-road-3"
+    },
+    {
+      "id": "SRC_MGM",
+      "type": "official_hospital",
+      "name": "MGM Healthcare",
+      "url": "https://mgmhealthcare.in/"
+    },
+    {
+      "id": "SRC_MGM_DOC",
+      "type": "official_hospital",
+      "name": "MGM Healthcare Doctors",
+      "url": "https://mgmhealthcare.in/all-doctors/"
+    },
+    {
+      "id": "SRC_MIOT",
+      "type": "official_hospital",
+      "name": "MIOT International",
+      "url": "https://www.miotinternational.com/"
+    },
+    {
+      "id": "SRC_MIOT_ACC",
+      "type": "official_accreditation",
+      "name": "MIOT Accreditations",
+      "url": "https://www.miotinternational.com/corporate/accreditations/"
+    },
+    {
+      "id": "SRC_KAUVERY_CHN",
+      "type": "official_hospital",
+      "name": "Kauvery Hospital Chennai",
+      "url": "https://www.kauveryhospital.com/our-locations/chennai/"
+    },
+    {
+      "id": "SRC_YASHODA_HTC",
+      "type": "official_hospital",
+      "name": "Yashoda Hospitals Hitec City",
+      "url": "https://www.yashodahospitals.com/locations/hitec-city/"
+    },
+    {
+      "id": "SRC_YASHODA_CARD",
+      "type": "official_hospital",
+      "name": "Yashoda Hitec Cardiology Doctors",
+      "url": "https://www.yashodahospitals.com/specialities/cardiology/doctors/hitec-city/"
+    },
+    {
+      "id": "SRC_CARE_BH",
+      "type": "official_hospital",
+      "name": "CARE Hospitals Banjara Hills",
+      "url": "https://www.carehospitals.com/hospitals/hyderabad/care-hospital-banjara-hills"
+    },
+    {
+      "id": "SRC_CARE_SPEC",
+      "type": "official_hospital",
+      "name": "CARE Banjara Specialities",
+      "url": "https://www.carehospitals.com/speciality-and-treatments/hyderabad/care-hospital-banjara-hills"
+    },
+    {
+      "id": "SRC_AIG",
+      "type": "official_hospital",
+      "name": "AIG Hospitals",
+      "url": "https://aighospitals.com/"
+    },
+    {
+      "id": "SRC_AIG_DOC",
+      "type": "official_hospital",
+      "name": "AIG Hospitals Doctors",
+      "url": "https://aighospitals.com/gcb/doctors"
+    },
+    {
+      "id": "SRC_MEDANTA",
+      "type": "official_hospital",
+      "name": "Medanta Gurugram",
+      "url": "https://www.medanta.org/hospitals-near-me/gurugram-hospital"
+    },
+    {
+      "id": "SRC_MEDANTA_NABH",
+      "type": "government_accreditation",
+      "name": "NABH Medanta Scope",
+      "url": "https://portal.nabh.co/Documents/AccreditedList/Hospitals/H-2011-0073_5th%20Edition.pdf"
+    },
+    {
+      "id": "SRC_MEDANTA_CARD",
+      "type": "official_hospital",
+      "name": "Medanta Cardiology Doctors",
+      "url": "https://www.medanta.org/doctor-listing/cardiology-doctors"
+    },
+    {
+      "id": "SRC_MEDANTA_ONC",
+      "type": "official_hospital",
+      "name": "Medanta Oncology Doctors",
+      "url": "https://www.medanta.org/doctor-listing/oncology-doctors"
+    },
+    {
+      "id": "SRC_MEDANTA_NEURO",
+      "type": "official_hospital",
+      "name": "Medanta Neurology Doctors",
+      "url": "https://www.medanta.org/doctor-listing/neurology-doctors-in-gurugram"
+    },
+    {
+      "id": "SRC_FMRI",
+      "type": "official_hospital",
+      "name": "Fortis Memorial Research Institute",
+      "url": "https://www.fortishealthcare.com/location/fortis-memorial-research-institute-gurgaon"
+    },
+    {
+      "id": "SRC_MAX_SAKET",
+      "type": "official_hospital",
+      "name": "Max Super Speciality Hospital Saket",
+      "url": "https://www.maxhealthcare.in/hospital-network/max-super-speciality-hospital-saket"
+    },
+    {
+      "id": "SRC_MAX_CONTACT",
+      "type": "official_hospital",
+      "name": "Max Healthcare Contact",
+      "url": "https://www.maxhealthcare.in/contact-us"
+    },
+    {
+      "id": "SRC_BLK_MAX",
+      "type": "official_hospital",
+      "name": "BLK-Max Super Speciality Hospital",
+      "url": "https://www.maxhealthcare.in/international/en/hospital/blk-max-super-speciality-hospital"
+    },
+    {
+      "id": "SRC_ARTEMIS",
+      "type": "official_hospital",
+      "name": "Artemis Hospital",
+      "url": "https://www.artemishospitals.com/"
+    },
+    {
+      "id": "SRC_ARTEMIS_CONTACT",
+      "type": "official_hospital",
+      "name": "Artemis Contact / International",
+      "url": "https://www.artemishospitals.com/contact-us"
+    },
+    {
+      "id": "SRC_ARTEMIS_ONC",
+      "type": "official_hospital",
+      "name": "Artemis Oncology Doctors",
+      "url": "https://www.artemishospitals.com/specialities/oncology"
+    },
+    {
+      "id": "SRC_MANIPAL_OAR",
+      "type": "official_hospital",
+      "name": "Manipal Hospitals Old Airport Road",
+      "url": "https://www.manipalhospitals.com/oldairportroad/hospitals/"
+    },
+    {
+      "id": "SRC_MANIPAL_ABOUT",
+      "type": "official_hospital",
+      "name": "Manipal Old Airport Road About",
+      "url": "https://www.manipalhospitals.com/oldairportroad/about-us/"
+    },
+    {
+      "id": "SRC_ASTER_CMI",
+      "type": "official_hospital",
+      "name": "Aster CMI Bangalore",
+      "url": "https://www.asterhospitals.in/hospitals/aster-cmi-bangalore"
+    },
+    {
+      "id": "SRC_ASTER_CARD",
+      "type": "official_hospital",
+      "name": "Aster CMI Cardiac Doctors",
+      "url": "https://www.asterhospitals.in/hospitals/aster-cmi-bangalore/center-of-excellences/cardiac-sciences"
+    },
+    {
+      "id": "SRC_NARAYANA_BLR",
+      "type": "official_hospital",
+      "name": "Narayana Health Bangalore Hospitals",
+      "url": "https://www.narayanahealth.org/hospitals-clinics/bangalore"
+    }
+  ],
+  "phrases": [
+    {
+      "cat": "Consultation",
+      "bn": "আমার বুক ব্যথা করছে।",
+      "en": "I have chest pain.",
+      "hi": "मुझे सीने में दर्द है।"
+    },
+    {
+      "cat": "Reception",
+      "bn": "আমি বাংলাদেশ থেকে এসেছি। আমার অ্যাপয়েন্টমেন্ট আছে।",
+      "en": "I am from Bangladesh. I have an appointment.",
+      "hi": "मैं बांग्लादेश से आया/आई हूँ। मेरी अपॉइंटमेंट है।"
+    },
+    {
+      "cat": "Emergency",
+      "bn": "জরুরি সাহায্য দরকার। রোগীর শ্বাস নিতে কষ্ট হচ্ছে।",
+      "en": "We need emergency help. The patient is having difficulty breathing.",
+      "hi": "हमें आपातकालीन मदद चाहिए। मरीज को सांस लेने में दिक्कत हो रही है।"
+    },
+    {
+      "cat": "Consultation",
+      "bn": "আমার এই রিপোর্টগুলো দেখুন।",
+      "en": "Please look at these reports.",
+      "hi": "कृपया ये रिपोर्ट देखें।"
+    },
+    {
+      "cat": "Consultation",
+      "bn": "অপারেশনের খরচ কত হবে?",
+      "en": "How much will the surgery cost?",
+      "hi": "ऑपरेशन का खर्च कितना होगा?"
+    },
+    {
+      "cat": "Consultation",
+      "bn": "আমার কি অপারেশন দরকার?",
+      "en": "Do I need surgery?",
+      "hi": "क्या मुझे सर्जरी की जरूरत है?"
+    },
+    {
+      "cat": "Reception",
+      "bn": "আমি আন্তর্জাতিক রোগী। সাহায্য করুন।",
+      "en": "I am an international patient. Please help.",
+      "hi": "मैं अंतरराष्ट्रीय मरीज हूँ। कृपया मदद करें।"
+    },
+    {
+      "cat": "Reception",
+      "bn": "মেডিকেল ভিসা আছে।",
+      "en": "I have a medical visa.",
+      "hi": "मेरे पास मेडिकल वीजा है।"
+    },
+    {
+      "cat": "Payment",
+      "bn": "ক্যাশলেস / ইন্স্যুরেন্স নেই। নিজে পে করব।",
+      "en": "No cashless insurance. I will pay myself.",
+      "hi": "कैशलेस इंश्योरेंस नहीं है। खुद पेमेंट करूंगा/करूंगी।"
+    },
+    {
+      "cat": "Payment",
+      "bn": "বিলের কপি দিন।",
+      "en": "Please give a copy of the bill.",
+      "hi": "कृपया बिल की कॉपी दें।"
+    },
+    {
+      "cat": "Visa",
+      "bn": "মেডিকেল ভিসা এক্সটেনশন লাগবে।",
+      "en": "I need a medical visa extension.",
+      "hi": "मुझे मेडिकल वीजा एक्सटेंशन चाहिए।"
+    },
+    {
+      "cat": "Visa",
+      "bn": "হাসপাতাল থেকে আমন্ত্রণ পত্র চাই।",
+      "en": "I need an invitation letter from the hospital.",
+      "hi": "मुझे अस्पताल से निमंत्रण पत्र चाहिए।"
+    },
+    {
+      "cat": "Emergency",
+      "bn": "রোগীর জ্ঞান নেই। দ্রুত সাহায্য করুন।",
+      "en": "The patient is unconscious. Please help quickly.",
+      "hi": "मरीज बेहोश है। जल्दी मदद करें।"
+    },
+    {
+      "cat": "Emergency",
+      "bn": "বুক ব্যথা এবং ঘাম হচ্ছে।",
+      "en": "Chest pain and sweating.",
+      "hi": "सीने में दर्द और पसीना आ रहा है।"
+    },
+    {
+      "cat": "Pharmacy",
+      "bn": "এই ওষুধগুলো কোথায় পাব?",
+      "en": "Where can I get these medicines?",
+      "hi": "ये दवाइयाँ कहाँ मिलेंगी?"
+    },
+    {
+      "cat": "Stay",
+      "bn": "হাসপাতালের কাছে সস্তা হোটেল আছে?",
+      "en": "Are there affordable hotels near the hospital?",
+      "hi": "अस्पताल के पास सस्ते होटल हैं?"
+    },
+    {
+      "cat": "Stay",
+      "bn": "একজন অ্যাটেনডেন্ট থাকবে।",
+      "en": "One attendant will stay with the patient.",
+      "hi": "एक अटेंडेंट मरीज के साथ रहेगा।"
+    }
+  ],
+  "verification": [
+    {
+      "date": "2026-10-05",
+      "version": "production-db-v1.2",
+      "scope": {
+        "hospitals": 19,
+        "doctors": 46,
+        "treatments": 15,
+        "cities": 5,
+        "hostels": 8,
+        "phrases": 17,
+        "sources": 35
+      },
+      "method": "Official pages primary. Doctor enrichment from hospital specialty pages & reputable directories. Hostels are directory-style suggestions only. Images illustrative/avatar per policy.",
+      "status": "enriched_batch",
+      "nextReviewDue": "2026-12-05"
+    }
+  ],
+  "schema": {
+    "status_values": [
+      "verified_official",
+      "verified_official_plus_nabh",
+      "needs_review",
+      "inactive",
+      "directory_listing"
+    ],
+    "image_policy": {
+      "doctorImage": "Avatar fallback unless exact official-profile reuse permitted.",
+      "hospitalImage": "Illustrative cover unless license cleared.",
+      "illustrativeImage": "Always label as illustrative."
+    }
+  },
+  "scope": {
+    "date": "2026-10-05",
+    "version": "production-db-v1.2",
+    "scope": {
+      "hospitals": 19,
+      "doctors": 46,
+      "treatments": 15,
+      "cities": 5,
+      "hostels": 8,
+      "phrases": 17,
+      "sources": 35
+    },
+    "method": "Official pages primary. Doctor enrichment from hospital specialty pages & reputable directories. Hostels are directory-style suggestions only. Images illustrative/avatar per policy.",
+    "status": "enriched_batch",
+    "nextReviewDue": "2026-12-05"
+  }
+}
