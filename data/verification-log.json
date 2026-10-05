@@ -1,0 +1,16 @@
+[
+  {
+    "date": "2026-10-05",
+    "version": "production-db-v1",
+    "scope": {
+      "hospitals": 17,
+      "doctors": 30,
+      "treatments": 15,
+      "cities": 5,
+      "sources": 35
+    },
+    "method": "Official hospital pages primary; NABH/QCI used where available; major directories secondary only. No closed app database scraped.",
+    "status": "initial_verified_batch",
+    "nextReviewDue": "2026-12-05"
+  }
+]

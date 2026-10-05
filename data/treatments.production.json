@@ -1,0 +1,173 @@
+[
+  {
+    "id": "T-ONC-001",
+    "name": "Breast Cancer Evaluation & Treatment",
+    "specialty": "Oncology",
+    "keywords": [
+      "breast cancer",
+      "medical oncology",
+      "surgical oncology",
+      "radiation oncology"
+    ],
+    "costStatus": "needs_hospital_quote",
+    "sourcePolicy": "official hospital estimate only"
+  },
+  {
+    "id": "T-ONC-002",
+    "name": "Lung Cancer Evaluation & Treatment",
+    "specialty": "Oncology",
+    "keywords": [
+      "lung cancer",
+      "thoracic oncology"
+    ],
+    "costStatus": "needs_hospital_quote",
+    "sourcePolicy": "official hospital estimate only"
+  },
+  {
+    "id": "T-ONC-003",
+    "name": "Bone Marrow Transplant Evaluation",
+    "specialty": "Haematology / Oncology",
+    "keywords": [
+      "BMT",
+      "bone marrow transplant"
+    ],
+    "costStatus": "needs_hospital_quote",
+    "sourcePolicy": "official hospital estimate only"
+  },
+  {
+    "id": "T-CARD-001",
+    "name": "Coronary Angiography / Angioplasty",
+    "specialty": "Cardiology",
+    "keywords": [
+      "angiography",
+      "angioplasty",
+      "PCI"
+    ],
+    "costStatus": "needs_hospital_quote",
+    "sourcePolicy": "official hospital estimate only"
+  },
+  {
+    "id": "T-CARD-002",
+    "name": "CABG / Bypass Surgery",
+    "specialty": "Cardiac Surgery",
+    "keywords": [
+      "CABG",
+      "bypass"
+    ],
+    "costStatus": "needs_hospital_quote",
+    "sourcePolicy": "official hospital estimate only"
+  },
+  {
+    "id": "T-CARD-003",
+    "name": "TAVR / TAVI Evaluation",
+    "specialty": "Cardiology",
+    "keywords": [
+      "TAVR",
+      "TAVI"
+    ],
+    "costStatus": "needs_hospital_quote",
+    "sourcePolicy": "official hospital estimate only"
+  },
+  {
+    "id": "T-NEURO-001",
+    "name": "Stroke / Neurovascular Evaluation",
+    "specialty": "Neurology / Neurosurgery",
+    "keywords": [
+      "stroke",
+      "neurovascular"
+    ],
+    "costStatus": "needs_hospital_quote",
+    "sourcePolicy": "official hospital estimate only"
+  },
+  {
+    "id": "T-NEURO-002",
+    "name": "Brain Tumour Surgery Evaluation",
+    "specialty": "Neurosurgery / Oncology",
+    "keywords": [
+      "brain tumor",
+      "neurosurgery"
+    ],
+    "costStatus": "needs_hospital_quote",
+    "sourcePolicy": "official hospital estimate only"
+  },
+  {
+    "id": "T-RENAL-001",
+    "name": "Kidney Transplant Evaluation",
+    "specialty": "Nephrology / Transplant",
+    "keywords": [
+      "kidney transplant",
+      "renal transplant"
+    ],
+    "costStatus": "needs_hospital_quote",
+    "sourcePolicy": "official hospital estimate only"
+  },
+  {
+    "id": "T-LIVER-001",
+    "name": "Liver Transplant Evaluation",
+    "specialty": "Hepatology / Transplant",
+    "keywords": [
+      "liver transplant",
+      "hepatology"
+    ],
+    "costStatus": "needs_hospital_quote",
+    "sourcePolicy": "official hospital estimate only"
+  },
+  {
+    "id": "T-ORTHO-001",
+    "name": "Total Knee Replacement",
+    "specialty": "Orthopaedics",
+    "keywords": [
+      "TKR",
+      "knee replacement"
+    ],
+    "costStatus": "needs_hospital_quote",
+    "sourcePolicy": "official hospital estimate only"
+  },
+  {
+    "id": "T-ORTHO-002",
+    "name": "Total Hip Replacement",
+    "specialty": "Orthopaedics",
+    "keywords": [
+      "THR",
+      "hip replacement"
+    ],
+    "costStatus": "needs_hospital_quote",
+    "sourcePolicy": "official hospital estimate only"
+  },
+  {
+    "id": "T-GI-001",
+    "name": "Advanced Gastroenterology / Endoscopy",
+    "specialty": "Gastroenterology",
+    "keywords": [
+      "endoscopy",
+      "EUS",
+      "ERCP"
+    ],
+    "costStatus": "needs_hospital_quote",
+    "sourcePolicy": "official hospital estimate only"
+  },
+  {
+    "id": "T-GI-002",
+    "name": "GI Cancer Surgery",
+    "specialty": "Surgical Gastroenterology / Oncology",
+    "keywords": [
+      "GI oncology",
+      "colorectal",
+      "HPB"
+    ],
+    "costStatus": "needs_hospital_quote",
+    "sourcePolicy": "official hospital estimate only"
+  },
+  {
+    "id": "T-URO-001",
+    "name": "Urology / Uro-oncology Evaluation",
+    "specialty": "Urology",
+    "keywords": [
+      "urology",
+      "prostate",
+      "kidney cancer"
+    ],
+    "costStatus": "needs_hospital_quote",
+    "sourcePolicy": "official hospital estimate only"
+  }
+]

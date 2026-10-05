@@ -1,0 +1,212 @@
+[
+  {
+    "id": "SRC_APOLLO_KOL",
+    "type": "official_hospital",
+    "name": "Apollo Hospitals Kolkata",
+    "url": "https://www.apollohospitals.com/kolkata"
+  },
+  {
+    "id": "SRC_APOLLO_KOL_CONTACT",
+    "type": "official_hospital",
+    "name": "Apollo Kolkata Contact",
+    "url": "https://www.apollohospitals.com/region/kolkata/contact-us/"
+  },
+  {
+    "id": "SRC_APOLLO_KOL_DOC",
+    "type": "official_hospital",
+    "name": "Apollo Kolkata Doctors",
+    "url": "https://www.apollohospitals.com/book-doctor-appointment/kolkata"
+  },
+  {
+    "id": "SRC_FORTIS_KOL",
+    "type": "official_hospital",
+    "name": "Fortis Hospital Anandapur",
+    "url": "https://www.fortishealthcare.com/location/fortis-hospital-anandapur-kolkata"
+  },
+  {
+    "id": "SRC_PRACTO_FORTIS_KOL",
+    "type": "secondary_directory",
+    "name": "Practo Fortis Anandapur",
+    "url": "https://www.practo.com/kolkata/hospital/fortis-hospital-anandapur-1/overview"
+  },
+  {
+    "id": "SRC_APOLLO_CHN",
+    "type": "official_hospital",
+    "name": "Apollo Hospitals Greams Road",
+    "url": "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai"
+  },
+  {
+    "id": "SRC_PRACTO_APOLLO_CHN",
+    "type": "secondary_directory",
+    "name": "Practo Apollo Greams Road",
+    "url": "https://www.practo.com/india/Hospital/apollo-hospitals-greams-road-3"
+  },
+  {
+    "id": "SRC_MGM",
+    "type": "official_hospital",
+    "name": "MGM Healthcare",
+    "url": "https://mgmhealthcare.in/"
+  },
+  {
+    "id": "SRC_MGM_DOC",
+    "type": "official_hospital",
+    "name": "MGM Healthcare Doctors",
+    "url": "https://mgmhealthcare.in/all-doctors/"
+  },
+  {
+    "id": "SRC_MIOT",
+    "type": "official_hospital",
+    "name": "MIOT International",
+    "url": "https://www.miotinternational.com/"
+  },
+  {
+    "id": "SRC_MIOT_ACC",
+    "type": "official_accreditation",
+    "name": "MIOT Accreditations",
+    "url": "https://www.miotinternational.com/corporate/accreditations/"
+  },
+  {
+    "id": "SRC_KAUVERY_CHN",
+    "type": "official_hospital",
+    "name": "Kauvery Hospital Chennai",
+    "url": "https://www.kauveryhospital.com/our-locations/chennai/"
+  },
+  {
+    "id": "SRC_YASHODA_HTC",
+    "type": "official_hospital",
+    "name": "Yashoda Hospitals Hitec City",
+    "url": "https://www.yashodahospitals.com/locations/hitec-city/"
+  },
+  {
+    "id": "SRC_YASHODA_CARD",
+    "type": "official_hospital",
+    "name": "Yashoda Hitec Cardiology Doctors",
+    "url": "https://www.yashodahospitals.com/specialities/cardiology/doctors/hitec-city/"
+  },
+  {
+    "id": "SRC_CARE_BH",
+    "type": "official_hospital",
+    "name": "CARE Hospitals Banjara Hills",
+    "url": "https://www.carehospitals.com/hospitals/hyderabad/care-hospital-banjara-hills"
+  },
+  {
+    "id": "SRC_CARE_SPEC",
+    "type": "official_hospital",
+    "name": "CARE Banjara Specialities",
+    "url": "https://www.carehospitals.com/speciality-and-treatments/hyderabad/care-hospital-banjara-hills"
+  },
+  {
+    "id": "SRC_AIG",
+    "type": "official_hospital",
+    "name": "AIG Hospitals",
+    "url": "https://aighospitals.com/"
+  },
+  {
+    "id": "SRC_AIG_DOC",
+    "type": "official_hospital",
+    "name": "AIG Hospitals Doctors",
+    "url": "https://aighospitals.com/gcb/doctors"
+  },
+  {
+    "id": "SRC_MEDANTA",
+    "type": "official_hospital",
+    "name": "Medanta Gurugram",
+    "url": "https://www.medanta.org/hospitals-near-me/gurugram-hospital"
+  },
+  {
+    "id": "SRC_MEDANTA_NABH",
+    "type": "government_accreditation",
+    "name": "NABH Medanta Scope",
+    "url": "https://portal.nabh.co/Documents/AccreditedList/Hospitals/H-2011-0073_5th%20Edition.pdf"
+  },
+  {
+    "id": "SRC_MEDANTA_CARD",
+    "type": "official_hospital",
+    "name": "Medanta Cardiology Doctors",
+    "url": "https://www.medanta.org/doctor-listing/cardiology-doctors"
+  },
+  {
+    "id": "SRC_MEDANTA_ONC",
+    "type": "official_hospital",
+    "name": "Medanta Oncology Doctors",
+    "url": "https://www.medanta.org/doctor-listing/oncology-doctors"
+  },
+  {
+    "id": "SRC_MEDANTA_NEURO",
+    "type": "official_hospital",
+    "name": "Medanta Neurology Doctors",
+    "url": "https://www.medanta.org/doctor-listing/neurology-doctors-in-gurugram"
+  },
+  {
+    "id": "SRC_FMRI",
+    "type": "official_hospital",
+    "name": "Fortis Memorial Research Institute",
+    "url": "https://www.fortishealthcare.com/location/fortis-memorial-research-institute-gurgaon"
+  },
+  {
+    "id": "SRC_MAX_SAKET",
+    "type": "official_hospital",
+    "name": "Max Super Speciality Hospital Saket",
+    "url": "https://www.maxhealthcare.in/hospital-network/max-super-speciality-hospital-saket"
+  },
+  {
+    "id": "SRC_MAX_CONTACT",
+    "type": "official_hospital",
+    "name": "Max Healthcare Contact",
+    "url": "https://www.maxhealthcare.in/contact-us"
+  },
+  {
+    "id": "SRC_BLK_MAX",
+    "type": "official_hospital",
+    "name": "BLK-Max Super Speciality Hospital",
+    "url": "https://www.maxhealthcare.in/international/en/hospital/blk-max-super-speciality-hospital"
+  },
+  {
+    "id": "SRC_ARTEMIS",
+    "type": "official_hospital",
+    "name": "Artemis Hospital",
+    "url": "https://www.artemishospitals.com/"
+  },
+  {
+    "id": "SRC_ARTEMIS_CONTACT",
+    "type": "official_hospital",
+    "name": "Artemis Contact / International",
+    "url": "https://www.artemishospitals.com/contact-us"
+  },
+  {
+    "id": "SRC_ARTEMIS_ONC",
+    "type": "official_hospital",
+    "name": "Artemis Oncology Doctors",
+    "url": "https://www.artemishospitals.com/specialities/oncology"
+  },
+  {
+    "id": "SRC_MANIPAL_OAR",
+    "type": "official_hospital",
+    "name": "Manipal Hospitals Old Airport Road",
+    "url": "https://www.manipalhospitals.com/oldairportroad/hospitals/"
+  },
+  {
+    "id": "SRC_MANIPAL_ABOUT",
+    "type": "official_hospital",
+    "name": "Manipal Old Airport Road About",
+    "url": "https://www.manipalhospitals.com/oldairportroad/about-us/"
+  },
+  {
+    "id": "SRC_ASTER_CMI",
+    "type": "official_hospital",
+    "name": "Aster CMI Bangalore",
+    "url": "https://www.asterhospitals.in/hospitals/aster-cmi-bangalore"
+  },
+  {
+    "id": "SRC_ASTER_CARD",
+    "type": "official_hospital",
+    "name": "Aster CMI Cardiac Doctors",
+    "url": "https://www.asterhospitals.in/hospitals/aster-cmi-bangalore/center-of-excellences/cardiac-sciences"
+  },
+  {
+    "id": "SRC_NARAYANA_BLR",
+    "type": "official_hospital",
+    "name": "Narayana Health Bangalore Hospitals",
+    "url": "https://www.narayanahealth.org/hospitals-clinics/bangalore"
+  }
+]

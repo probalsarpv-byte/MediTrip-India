@@ -1,0 +1,654 @@
+[
+  {
+    "id": "H-KOL-001",
+    "name": "Apollo Multispeciality Hospitals, EM Bypass, Kolkata",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "country": "India",
+    "address": "58, Canal Circular Rd, Kadapara, Phoolbagan, Kankurgachi, Kolkata, West Bengal 700054",
+    "phone": "033 4420 2122",
+    "internationalSupport": true,
+    "internationalContact": null,
+    "specialties": [
+      "Cardiac Sciences",
+      "Oncology",
+      "Neurosciences",
+      "Gastroenterology",
+      "Orthopaedics",
+      "Transplants",
+      "Nephrology",
+      "Urology"
+    ],
+    "accreditation": [
+      "JCI"
+    ],
+    "beds": 750,
+    "website": "https://www.apollohospitals.com/kolkata",
+    "appOrPortal": "Apollo digital booking / patient services",
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_APOLLO_KOL",
+      "SRC_APOLLO_KOL_CONTACT"
+    ],
+    "secondarySources": [],
+    "image": {
+      "status": "needs_license_review",
+      "sourcePage": "https://www.apollohospitals.com/kolkata",
+      "isIllustrative": false
+    }
+  },
+  {
+    "id": "H-KOL-002",
+    "name": "Fortis Hospital Anandapur, Kolkata",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "country": "India",
+    "address": "730, Eastern Metropolitan Bypass, Anandapur, Kolkata, West Bengal",
+    "phone": null,
+    "internationalSupport": true,
+    "internationalContact": null,
+    "specialties": [
+      "Urology",
+      "GI & Bariatric Surgery",
+      "Orthopaedics",
+      "Neurology",
+      "Cardiology",
+      "Nephrology",
+      "Pulmonology",
+      "Critical Care"
+    ],
+    "accreditation": [
+      "NABH",
+      "NABL"
+    ],
+    "beds": 320,
+    "website": "https://www.fortishealthcare.com/location/fortis-hospital-anandapur-kolkata",
+    "appOrPortal": "Fortis online booking",
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_FORTIS_KOL"
+    ],
+    "secondarySources": [
+      "SRC_PRACTO_FORTIS_KOL"
+    ],
+    "image": {
+      "status": "needs_license_review",
+      "sourcePage": "https://www.fortishealthcare.com/location/fortis-hospital-anandapur-kolkata",
+      "isIllustrative": false
+    }
+  },
+  {
+    "id": "H-CHN-001",
+    "name": "Apollo Hospitals, Greams Road, Chennai",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "address": "21, Greams Rd, Thousand Lights West, Chennai, Tamil Nadu 600006",
+    "phone": "08069049756",
+    "internationalSupport": true,
+    "internationalContact": null,
+    "specialties": [
+      "Cardiac Sciences",
+      "Oncology",
+      "Neurology",
+      "Nephrology",
+      "Gastroenterology & Hepatology",
+      "Orthopaedics",
+      "Urology",
+      "Transplants"
+    ],
+    "accreditation": [
+      "JCI",
+      "NABH"
+    ],
+    "beds": null,
+    "website": "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai",
+    "appOrPortal": "Apollo digital booking / patient services",
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_APOLLO_CHN"
+    ],
+    "secondarySources": [
+      "SRC_PRACTO_APOLLO_CHN"
+    ],
+    "image": {
+      "status": "needs_license_review",
+      "sourcePage": "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai",
+      "isIllustrative": false
+    }
+  },
+  {
+    "id": "H-CHN-002",
+    "name": "MGM Healthcare",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "address": "No 72, Old No 54, Nelson Manickam Road, Aminjikarai, Chennai 600029",
+    "phone": "+91 44 4524 2407",
+    "internationalSupport": true,
+    "internationalContact": null,
+    "specialties": [
+      "Cardiac Sciences",
+      "Heart & Lung Transplantation",
+      "Liver Care",
+      "Gastro Sciences",
+      "Neurology",
+      "Neurosurgery",
+      "Orthopaedics",
+      "Oncology"
+    ],
+    "accreditation": [],
+    "beds": 400,
+    "website": "https://mgmhealthcare.in/",
+    "appOrPortal": "Patient portal / video consultation",
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_MGM"
+    ],
+    "secondarySources": [],
+    "image": {
+      "status": "needs_license_review",
+      "sourcePage": "https://mgmhealthcare.in/",
+      "isIllustrative": false
+    }
+  },
+  {
+    "id": "H-CHN-003",
+    "name": "MIOT International",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "address": "4/112, Mount Poonamallee Road, Manapakkam, Chennai 600089",
+    "phone": "+91 44 42002288",
+    "internationalSupport": true,
+    "internationalContact": null,
+    "specialties": [
+      "Orthopaedics",
+      "Cardiac Sciences",
+      "Transplants",
+      "Oncology",
+      "Neurology",
+      "Gastroenterology",
+      "Nephrology"
+    ],
+    "accreditation": [
+      "NABH",
+      "NABL"
+    ],
+    "beds": 1000,
+    "website": "https://www.miotinternational.com/",
+    "appOrPortal": "International Patient Care",
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_MIOT",
+      "SRC_MIOT_ACC"
+    ],
+    "secondarySources": [],
+    "image": {
+      "status": "needs_license_review",
+      "sourcePage": "https://www.miotinternational.com/",
+      "isIllustrative": false
+    }
+  },
+  {
+    "id": "H-CHN-004",
+    "name": "Kauvery Hospital, Chennai",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "address": "No.199, Luz Church Road, Mylapore, Chennai, Tamil Nadu, India",
+    "phone": "044 4000 6000",
+    "internationalSupport": true,
+    "internationalContact": null,
+    "specialties": [
+      "Cardiology",
+      "Neurology",
+      "Orthopaedics",
+      "Gastroenterology",
+      "Nephrology",
+      "Critical Care"
+    ],
+    "accreditation": [],
+    "beds": 300,
+    "website": "https://www.kauveryhospital.com/our-locations/chennai/",
+    "appOrPortal": "Online appointment services",
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_KAUVERY_CHN"
+    ],
+    "secondarySources": [],
+    "image": {
+      "status": "needs_license_review",
+      "sourcePage": "https://www.kauveryhospital.com/our-locations/chennai/",
+      "isIllustrative": false
+    }
+  },
+  {
+    "id": "H-HYD-001",
+    "name": "Yashoda Hospitals, Hitec City",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "address": "Survey No. 41/14, JNTU to Hitech City Main Rd, Khanamet Village, Serilingampally, Hyderabad, Telangana",
+    "phone": "040 6723 2348",
+    "internationalSupport": true,
+    "internationalContact": null,
+    "specialties": [
+      "Cardiology",
+      "Cardiac Surgery",
+      "Oncology",
+      "Neurology",
+      "Neurosurgery",
+      "Nephrology",
+      "Transplants",
+      "Orthopaedics"
+    ],
+    "accreditation": [],
+    "beds": null,
+    "website": "https://www.yashodahospitals.com/locations/hitec-city/",
+    "appOrPortal": "Online appointment / video consultation",
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_YASHODA_HTC"
+    ],
+    "secondarySources": [],
+    "image": {
+      "status": "needs_license_review",
+      "sourcePage": "https://www.yashodahospitals.com/locations/hitec-city/",
+      "isIllustrative": false
+    }
+  },
+  {
+    "id": "H-HYD-002",
+    "name": "CARE Hospitals, Banjara Hills",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "address": "Road No.1, Banjara Hills, Hyderabad, Telangana 500034",
+    "phone": "+91-40-68106529",
+    "internationalSupport": true,
+    "internationalContact": null,
+    "specialties": [
+      "Cardiac Sciences",
+      "Gastro Sciences",
+      "Nephrology",
+      "Neurosciences",
+      "Oncology",
+      "Orthopaedics",
+      "Transplants",
+      "Urology"
+    ],
+    "accreditation": [],
+    "beds": 435,
+    "website": "https://www.carehospitals.com/hospitals/hyderabad/care-hospital-banjara-hills",
+    "appOrPortal": "Online appointment / second opinion",
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_CARE_BH",
+      "SRC_CARE_SPEC"
+    ],
+    "secondarySources": [],
+    "image": {
+      "status": "needs_license_review",
+      "sourcePage": "https://www.carehospitals.com/hospitals/hyderabad/care-hospital-banjara-hills",
+      "isIllustrative": false
+    }
+  },
+  {
+    "id": "H-HYD-003",
+    "name": "AIG Hospitals, Gachibowli",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "address": "1-66/AIG/2 to 5, Mindspace Road, Gachibowli, Hyderabad, Telangana 500032",
+    "phone": "+91 40 4244 4222",
+    "internationalSupport": true,
+    "internationalContact": null,
+    "specialties": [
+      "Gastroenterology",
+      "Liver Sciences",
+      "Organ Transplant",
+      "Oncology",
+      "Cardiac Sciences",
+      "Renal Sciences",
+      "Pulmonary Sciences",
+      "Emergency & Critical Care"
+    ],
+    "accreditation": [
+      "NABH",
+      "JCI",
+      "NABL",
+      "ISO 9001"
+    ],
+    "beds": null,
+    "website": "https://aighospitals.com/",
+    "appOrPortal": "AIG Mitr App",
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_AIG"
+    ],
+    "secondarySources": [],
+    "image": {
+      "status": "needs_license_review",
+      "sourcePage": "https://aighospitals.com/",
+      "isIllustrative": false
+    }
+  },
+  {
+    "id": "H-NCR-001",
+    "name": "Medanta – The Medicity, Gurugram",
+    "city": "Gurugram",
+    "state": "Haryana",
+    "country": "India",
+    "address": "CH Baktawar Singh Road, Sector 38, Gurugram, Haryana 122001",
+    "phone": "+91-880-000-1068",
+    "internationalSupport": true,
+    "internationalContact": null,
+    "specialties": [
+      "Cardiac Care",
+      "Cancer Care",
+      "Neurosciences",
+      "Gastrosciences",
+      "Orthopaedics",
+      "Renal Care",
+      "Liver Transplant",
+      "Lung Transplant",
+      "Bone Marrow Transplant"
+    ],
+    "accreditation": [
+      "JCI",
+      "NABH",
+      "NABL"
+    ],
+    "beds": 1440,
+    "website": "https://www.medanta.org/hospitals-near-me/gurugram-hospital",
+    "appOrPortal": "Telemedicine / digital patient services",
+    "verificationStatus": "verified_official_plus_nabh",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_MEDANTA",
+      "SRC_MEDANTA_NABH"
+    ],
+    "secondarySources": [],
+    "image": {
+      "status": "needs_license_review",
+      "sourcePage": "https://www.medanta.org/hospitals-near-me/gurugram-hospital",
+      "isIllustrative": false
+    }
+  },
+  {
+    "id": "H-NCR-002",
+    "name": "Fortis Memorial Research Institute, Gurugram",
+    "city": "Gurugram",
+    "state": "Haryana",
+    "country": "India",
+    "address": "Gurugram, Haryana, India",
+    "phone": null,
+    "internationalSupport": true,
+    "internationalContact": null,
+    "specialties": [
+      "Oncology",
+      "Cardiology",
+      "Cardiac Surgery",
+      "Transplants",
+      "Neurology",
+      "Neurosurgery",
+      "Urology",
+      "Orthopaedics",
+      "Gastroenterology"
+    ],
+    "accreditation": [
+      "JCI",
+      "NABH"
+    ],
+    "beds": 330,
+    "website": "https://www.fortishealthcare.com/location/fortis-memorial-research-institute-gurgaon",
+    "appOrPortal": "Fortis online booking",
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_FMRI"
+    ],
+    "secondarySources": [],
+    "image": {
+      "status": "needs_license_review",
+      "sourcePage": "https://www.fortishealthcare.com/location/fortis-memorial-research-institute-gurgaon",
+      "isIllustrative": false
+    }
+  },
+  {
+    "id": "H-NCR-003",
+    "name": "Max Super Speciality Hospital, Saket",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "country": "India",
+    "address": "1,2, Press Enclave Road, Saket Institutional Area, Saket, New Delhi, Delhi 110017",
+    "phone": "011-26515050",
+    "internationalSupport": true,
+    "internationalContact": "int.query@maxhealthcare.com",
+    "specialties": [
+      "Cancer Care",
+      "Cardiac Sciences",
+      "Neurology",
+      "Neurosurgery",
+      "Nephrology",
+      "Kidney Transplant",
+      "Gastroenterology",
+      "Liver Transplant",
+      "Orthopaedics"
+    ],
+    "accreditation": [
+      "JCI",
+      "NABH"
+    ],
+    "beds": 514,
+    "website": "https://www.maxhealthcare.in/hospital-network/max-super-speciality-hospital-saket",
+    "appOrPortal": "Max online appointment / video consultation",
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_MAX_SAKET",
+      "SRC_MAX_CONTACT"
+    ],
+    "secondarySources": [],
+    "image": {
+      "status": "needs_license_review",
+      "sourcePage": "https://www.maxhealthcare.in/hospital-network/max-super-speciality-hospital-saket",
+      "isIllustrative": false
+    }
+  },
+  {
+    "id": "H-NCR-004",
+    "name": "BLK-Max Super Speciality Hospital",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "country": "India",
+    "address": "Pusa Rd, Radha Soami Satsang, Rajendra Place, New Delhi, Delhi 110005",
+    "phone": "011-30403040",
+    "internationalSupport": true,
+    "internationalContact": "int.query@maxhealthcare.com",
+    "specialties": [
+      "Cancer Care",
+      "Cardiac Sciences",
+      "Gastroenterology",
+      "Neurology",
+      "Orthopaedics",
+      "Kidney Transplant",
+      "Bariatric Surgery"
+    ],
+    "accreditation": [],
+    "beds": 539,
+    "website": "https://www.maxhealthcare.in/international/en/hospital/blk-max-super-speciality-hospital",
+    "appOrPortal": "Max international patient services",
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_BLK_MAX",
+      "SRC_MAX_CONTACT"
+    ],
+    "secondarySources": [],
+    "image": {
+      "status": "needs_license_review",
+      "sourcePage": "https://www.maxhealthcare.in/international/en/hospital/blk-max-super-speciality-hospital",
+      "isIllustrative": false
+    }
+  },
+  {
+    "id": "H-NCR-005",
+    "name": "Artemis Hospital, Gurugram",
+    "city": "Gurugram",
+    "state": "Haryana",
+    "country": "India",
+    "address": "Sector 51, Gurugram, Haryana 122001",
+    "phone": "+91-124-4511111",
+    "internationalSupport": true,
+    "internationalContact": "+91 9711209940",
+    "specialties": [
+      "Heart Centre",
+      "Cancer Centre",
+      "Neurosciences",
+      "Orthopaedics",
+      "Transplants",
+      "Gastrosciences",
+      "Pulmonology & Critical Care"
+    ],
+    "accreditation": [
+      "JCI",
+      "NABH"
+    ],
+    "beds": null,
+    "website": "https://www.artemishospitals.com/",
+    "appOrPortal": "ArtemisPHR App",
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_ARTEMIS",
+      "SRC_ARTEMIS_CONTACT"
+    ],
+    "secondarySources": [],
+    "image": {
+      "status": "needs_license_review",
+      "sourcePage": "https://www.artemishospitals.com/",
+      "isIllustrative": false
+    }
+  },
+  {
+    "id": "H-BLR-001",
+    "name": "Manipal Hospital, Old Airport Road",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "address": "98, HAL Old Airport Road, Kodihalli, Bengaluru, Karnataka 560017",
+    "phone": "1800 102 5555",
+    "internationalSupport": true,
+    "internationalContact": null,
+    "specialties": [
+      "Cancer Care",
+      "Cardiology",
+      "CTVS",
+      "Gastrointestinal Science",
+      "Liver Transplant",
+      "Nephrology",
+      "Neurology",
+      "Neurosurgery",
+      "Orthopaedics",
+      "Urology"
+    ],
+    "accreditation": [
+      "NABH",
+      "NABL"
+    ],
+    "beds": 650,
+    "website": "https://www.manipalhospitals.com/oldairportroad/hospitals/",
+    "appOrPortal": "Manipal online appointment / patient services",
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_MANIPAL_OAR",
+      "SRC_MANIPAL_ABOUT"
+    ],
+    "secondarySources": [],
+    "image": {
+      "status": "needs_license_review",
+      "sourcePage": "https://www.manipalhospitals.com/oldairportroad/hospitals/",
+      "isIllustrative": false
+    }
+  },
+  {
+    "id": "H-BLR-002",
+    "name": "Aster CMI Hospital",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "address": "No. 43/2, New Airport Road, NH 44, Sahakar Nagar, Hebbal, Bengaluru, Karnataka 560092",
+    "phone": "080-4342-0100",
+    "internationalSupport": true,
+    "internationalContact": null,
+    "specialties": [
+      "Cardiology",
+      "Cardiac Surgery",
+      "Medical Oncology",
+      "Surgical Oncology",
+      "Neurology",
+      "Neurosurgery",
+      "Nephrology",
+      "Urology",
+      "Liver Transplant"
+    ],
+    "accreditation": [],
+    "beds": 500,
+    "website": "https://www.asterhospitals.in/hospitals/aster-cmi-bangalore",
+    "appOrPortal": "Aster online appointment / patient services",
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_ASTER_CMI"
+    ],
+    "secondarySources": [],
+    "image": {
+      "status": "needs_license_review",
+      "sourcePage": "https://www.asterhospitals.in/hospitals/aster-cmi-bangalore",
+      "isIllustrative": false
+    }
+  },
+  {
+    "id": "H-BLR-003",
+    "name": "Narayana Institute of Cardiac Sciences, Bangalore",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "address": "258/A, Bommasandra Industrial Area, Anekal Taluk, Hosur Road, Bangalore, Karnataka 560099",
+    "phone": null,
+    "internationalSupport": true,
+    "internationalContact": null,
+    "specialties": [
+      "Cardiac Sciences",
+      "Cardiac Surgery",
+      "Critical Care"
+    ],
+    "accreditation": [],
+    "beds": null,
+    "website": "https://www.narayanahealth.org/hospitals-clinics/bangalore",
+    "appOrPortal": "Narayana Health digital patient services",
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_NARAYANA_BLR"
+    ],
+    "secondarySources": [],
+    "image": {
+      "status": "needs_license_review",
+      "sourcePage": "https://www.narayanahealth.org/hospitals-clinics/bangalore",
+      "isIllustrative": false
+    }
+  }
+]

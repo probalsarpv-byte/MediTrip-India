@@ -1,0 +1,551 @@
+[
+  {
+    "id": "D-KOL-001",
+    "name": "Dr Mahesh Goenka",
+    "hospitalId": "H-KOL-001",
+    "specialty": "Gastroenterology & Hepatology",
+    "role": null,
+    "experienceYears": 45,
+    "languages": [],
+    "qualification": null,
+    "photo": {
+      "status": "needs_official_profile_fetch"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_APOLLO_KOL_DOC"
+    ]
+  },
+  {
+    "id": "D-KOL-002",
+    "name": "Dr A K Bardhan",
+    "hospitalId": "H-KOL-001",
+    "specialty": "Cardiology",
+    "role": "Senior Interventional Cardiologist",
+    "experienceYears": 42,
+    "languages": [],
+    "qualification": "MD, Diploma in Cardiology, FCCP",
+    "photo": {
+      "status": "needs_official_profile_fetch"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_APOLLO_KOL_DOC"
+    ]
+  },
+  {
+    "id": "D-KOL-003",
+    "name": "Dr Bivas Biswas",
+    "hospitalId": "H-KOL-001",
+    "specialty": "Medical Oncology",
+    "role": "Senior Consultant Medical Oncology",
+    "experienceYears": null,
+    "languages": [],
+    "qualification": "MBBS, MD (Paediatrics), DM (Medical Oncology)",
+    "photo": {
+      "status": "needs_official_profile_fetch"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_APOLLO_KOL"
+    ]
+  },
+  {
+    "id": "D-KOL-004",
+    "name": "Dr Sandip Ganguly",
+    "hospitalId": "H-KOL-001",
+    "specialty": "Medical Oncology",
+    "role": "Senior Consultant Medical Oncology",
+    "experienceYears": null,
+    "languages": [],
+    "qualification": "MBBS, MD (General Medicine), DM (Medical Oncology)",
+    "photo": {
+      "status": "needs_official_profile_fetch"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_APOLLO_KOL"
+    ]
+  },
+  {
+    "id": "D-KOL-005",
+    "name": "Dr Raj Kalyan Gopala Krishna",
+    "hospitalId": "H-KOL-002",
+    "specialty": "Urology",
+    "role": "Director",
+    "experienceYears": null,
+    "languages": [],
+    "qualification": null,
+    "photo": {
+      "status": "needs_official_profile_fetch"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_FORTIS_KOL"
+    ]
+  },
+  {
+    "id": "D-KOL-006",
+    "name": "Dr Ronen Roy",
+    "hospitalId": "H-KOL-002",
+    "specialty": "Orthopaedics",
+    "role": "Director",
+    "experienceYears": null,
+    "languages": [],
+    "qualification": null,
+    "photo": {
+      "status": "needs_official_profile_fetch"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_FORTIS_KOL"
+    ]
+  },
+  {
+    "id": "D-CHN-001",
+    "name": "Dr Kailash A Jain",
+    "hospitalId": "H-CHN-002",
+    "specialty": "Cardiac Surgery / Cardiology",
+    "role": "Director & Clinical Lead, Cardiothoracic & Vascular Surgery",
+    "experienceYears": null,
+    "languages": [],
+    "qualification": null,
+    "photo": {
+      "status": "needs_official_profile_fetch"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_MGM_DOC"
+    ]
+  },
+  {
+    "id": "D-CHN-002",
+    "name": "Dr A B Gopalamurugan",
+    "hospitalId": "H-CHN-002",
+    "specialty": "Interventional Cardiology & Electrophysiology",
+    "role": "Senior Consultant / Director TAVR, Endovascular & Device Therapy",
+    "experienceYears": null,
+    "languages": [],
+    "qualification": null,
+    "photo": {
+      "status": "needs_official_profile_fetch"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_MGM_DOC"
+    ]
+  },
+  {
+    "id": "D-CHN-003",
+    "name": "Dr Madan Mohan B",
+    "hospitalId": "H-CHN-002",
+    "specialty": "Interventional Cardiology",
+    "role": "Senior Consultant",
+    "experienceYears": null,
+    "languages": [],
+    "qualification": null,
+    "photo": {
+      "status": "needs_official_profile_fetch"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_MGM_DOC"
+    ]
+  },
+  {
+    "id": "D-HYD-001",
+    "name": "Dr Bhishma Chowdary Donepudi",
+    "hospitalId": "H-HYD-001",
+    "specialty": "Interventional Cardiology",
+    "role": "Consultant Interventional Cardiologist",
+    "experienceYears": 16,
+    "languages": [
+      "Telugu",
+      "Hindi",
+      "English"
+    ],
+    "qualification": "MD, DM Cardiology, FSCAI",
+    "photo": {
+      "status": "needs_official_profile_fetch"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_YASHODA_CARD"
+    ]
+  },
+  {
+    "id": "D-HYD-002",
+    "name": "Dr Damodhar Reddy Gouni",
+    "hospitalId": "H-HYD-001",
+    "specialty": "Interventional Cardiology",
+    "role": "Consultant Interventional Cardiologist",
+    "experienceYears": 11,
+    "languages": [
+      "English",
+      "Telugu",
+      "Hindi",
+      "Malayalam"
+    ],
+    "qualification": "MBBS, MD (General Medicine), DM (Cardiology)",
+    "photo": {
+      "status": "needs_official_profile_fetch"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_YASHODA_CARD"
+    ]
+  },
+  {
+    "id": "D-HYD-003",
+    "name": "Dr D Nageshwar Reddy",
+    "hospitalId": "H-HYD-003",
+    "specialty": "Gastroenterology",
+    "role": "Chairman & Chief of Gastroenterology",
+    "experienceYears": null,
+    "languages": [],
+    "qualification": null,
+    "photo": {
+      "status": "needs_official_profile_fetch"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_AIG_DOC"
+    ]
+  },
+  {
+    "id": "D-HYD-004",
+    "name": "Dr G. V. Rao",
+    "hospitalId": "H-HYD-003",
+    "specialty": "Surgical Gastroenterology & Minimally Invasive Surgery",
+    "role": "Chief",
+    "experienceYears": null,
+    "languages": [],
+    "qualification": null,
+    "photo": {
+      "status": "needs_official_profile_fetch"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_AIG_DOC"
+    ]
+  },
+  {
+    "id": "D-HYD-005",
+    "name": "Dr C Narasimhan",
+    "hospitalId": "H-HYD-003",
+    "specialty": "Cardiology / Electrophysiology",
+    "role": "Head of Electrophysiology & Senior Consultant Cardiology",
+    "experienceYears": null,
+    "languages": [],
+    "qualification": null,
+    "photo": {
+      "status": "needs_official_profile_fetch"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_AIG_DOC"
+    ]
+  },
+  {
+    "id": "D-NCR-001",
+    "name": "Dr Naresh Trehan",
+    "hospitalId": "H-NCR-001",
+    "specialty": "Cardiac Surgery",
+    "role": "Chairman, Managing Director and Chief Cardiac Surgeon",
+    "experienceYears": null,
+    "languages": [],
+    "qualification": "Diplomate - American Board of Thoracic Surgery; Diplomate - American Board of Surgery",
+    "photo": {
+      "status": "needs_official_profile_fetch"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_MEDANTA_CARD"
+    ]
+  },
+  {
+    "id": "D-NCR-002",
+    "name": "Dr R. R. Kasliwal",
+    "hospitalId": "H-NCR-001",
+    "specialty": "Cardiology",
+    "role": "Chairman",
+    "experienceYears": null,
+    "languages": [],
+    "qualification": "DM (Cardiology), MD (General Medicine), MBBS",
+    "photo": {
+      "status": "needs_official_profile_fetch"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_MEDANTA_CARD"
+    ]
+  },
+  {
+    "id": "D-NCR-003",
+    "name": "Dr Ashok Kumar Vaid",
+    "hospitalId": "H-NCR-001",
+    "specialty": "Medical Oncology",
+    "role": "Chairman, Cancer Care",
+    "experienceYears": null,
+    "languages": [],
+    "qualification": "DM (Medical Oncology), MD (General Medicine), MBBS",
+    "photo": {
+      "status": "needs_official_profile_fetch"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_MEDANTA_ONC"
+    ]
+  },
+  {
+    "id": "D-NCR-004",
+    "name": "Dr Arun Garg",
+    "hospitalId": "H-NCR-001",
+    "specialty": "Neurology",
+    "role": "Chairman, Neurosciences",
+    "experienceYears": null,
+    "languages": [],
+    "qualification": "DM (Neurology), MD (General Medicine), MBBS",
+    "photo": {
+      "status": "needs_official_profile_fetch"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_MEDANTA_NEURO"
+    ]
+  },
+  {
+    "id": "D-NCR-005",
+    "name": "Dr Atul Kumar Mittal",
+    "hospitalId": "H-NCR-002",
+    "specialty": "ENT",
+    "role": "Chairman",
+    "experienceYears": null,
+    "languages": [],
+    "qualification": null,
+    "photo": {
+      "status": "needs_official_profile_fetch"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_FMRI"
+    ]
+  },
+  {
+    "id": "D-NCR-006",
+    "name": "Dr Biswajyoti Hazarika",
+    "hospitalId": "H-NCR-002",
+    "specialty": "Surgical Oncology",
+    "role": "Principal Director",
+    "experienceYears": null,
+    "languages": [],
+    "qualification": null,
+    "photo": {
+      "status": "needs_official_profile_fetch"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_FMRI"
+    ]
+  },
+  {
+    "id": "D-NCR-007",
+    "name": "Dr Sahil Kohli",
+    "hospitalId": "H-NCR-002",
+    "specialty": "Neurology",
+    "role": "Additional Director",
+    "experienceYears": null,
+    "languages": [],
+    "qualification": null,
+    "photo": {
+      "status": "needs_official_profile_fetch"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_FMRI"
+    ]
+  },
+  {
+    "id": "D-NCR-008",
+    "name": "Dr Balbir Singh",
+    "hospitalId": "H-NCR-003",
+    "specialty": "Cardiology / Interventional Cardiology / Electrophysiology",
+    "role": null,
+    "experienceYears": null,
+    "languages": [],
+    "qualification": null,
+    "photo": {
+      "status": "needs_official_profile_fetch"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_MAX_SAKET"
+    ]
+  },
+  {
+    "id": "D-NCR-009",
+    "name": "Dr (Prof) SVS Deo",
+    "hospitalId": "H-NCR-003",
+    "specialty": "Surgical Oncology",
+    "role": "Chairman – Surgical Oncology",
+    "experienceYears": 35,
+    "languages": [],
+    "qualification": null,
+    "photo": {
+      "status": "needs_official_profile_fetch"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_MAX_SAKET"
+    ]
+  },
+  {
+    "id": "D-NCR-010",
+    "name": "Dr (Col) Joy Dev Mukherji",
+    "hospitalId": "H-NCR-003",
+    "specialty": "Neurology",
+    "role": null,
+    "experienceYears": null,
+    "languages": [],
+    "qualification": null,
+    "photo": {
+      "status": "needs_official_profile_fetch"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_MAX_SAKET"
+    ]
+  },
+  {
+    "id": "D-NCR-011",
+    "name": "Dr Parveen Yadav",
+    "hospitalId": "H-NCR-005",
+    "specialty": "Oncology",
+    "role": null,
+    "experienceYears": null,
+    "languages": [],
+    "qualification": null,
+    "photo": {
+      "status": "needs_official_profile_fetch"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_ARTEMIS_ONC"
+    ]
+  },
+  {
+    "id": "D-NCR-012",
+    "name": "Dr Lalit Kumar",
+    "hospitalId": "H-NCR-005",
+    "specialty": "Oncology",
+    "role": null,
+    "experienceYears": null,
+    "languages": [],
+    "qualification": null,
+    "photo": {
+      "status": "needs_official_profile_fetch"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_ARTEMIS_ONC"
+    ]
+  },
+  {
+    "id": "D-BLR-001",
+    "name": "Prof. Dr. Nagamalesh U M",
+    "hospitalId": "H-BLR-002",
+    "specialty": "Cardiology & Interventional Cardiology",
+    "role": "Lead Consultant",
+    "experienceYears": null,
+    "languages": [],
+    "qualification": null,
+    "photo": {
+      "status": "needs_official_profile_fetch"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_ASTER_CARD"
+    ]
+  },
+  {
+    "id": "D-BLR-002",
+    "name": "Dr Ganeshakrishnan Iyer",
+    "hospitalId": "H-BLR-002",
+    "specialty": "Cardiovascular & Thoracic Surgery",
+    "role": "Lead Consultant",
+    "experienceYears": null,
+    "languages": [],
+    "qualification": "MBBS, MS, MCh",
+    "photo": {
+      "status": "needs_official_profile_fetch"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_ASTER_CARD"
+    ]
+  },
+  {
+    "id": "D-BLR-003",
+    "name": "Dr Nikhil C. Hiremath",
+    "hospitalId": "H-BLR-002",
+    "specialty": "Neurology",
+    "role": "Consultant",
+    "experienceYears": null,
+    "languages": [],
+    "qualification": null,
+    "photo": {
+      "status": "needs_official_profile_fetch"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_ASTER_CMI"
+    ]
+  },
+  {
+    "id": "D-BLR-004",
+    "name": "Dr Poovamma C U",
+    "hospitalId": "H-BLR-002",
+    "specialty": "Breast Oncology & Oncoplasty",
+    "role": "Lead & HOD",
+    "experienceYears": null,
+    "languages": [],
+    "qualification": null,
+    "photo": {
+      "status": "needs_official_profile_fetch"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_ASTER_CMI"
+    ]
+  }
+]

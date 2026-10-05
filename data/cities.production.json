@@ -1,0 +1,61 @@
+[
+  {
+    "id": "CITY-KOL",
+    "name": "Kolkata",
+    "state": "West Bengal",
+    "country": "India",
+    "priorityForBangladesh": "very_high",
+    "languagePriority": [
+      "Bengali",
+      "Hindi",
+      "English"
+    ]
+  },
+  {
+    "id": "CITY-CHN",
+    "name": "Chennai",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "priorityForBangladesh": "high",
+    "languagePriority": [
+      "Tamil",
+      "English",
+      "Hindi"
+    ]
+  },
+  {
+    "id": "CITY-HYD",
+    "name": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "priorityForBangladesh": "high",
+    "languagePriority": [
+      "Telugu",
+      "Hindi",
+      "English"
+    ]
+  },
+  {
+    "id": "CITY-NCR",
+    "name": "Delhi NCR",
+    "state": "Delhi/Haryana",
+    "country": "India",
+    "priorityForBangladesh": "high",
+    "languagePriority": [
+      "Hindi",
+      "English"
+    ]
+  },
+  {
+    "id": "CITY-BLR",
+    "name": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "priorityForBangladesh": "high",
+    "languagePriority": [
+      "English",
+      "Kannada",
+      "Hindi"
+    ]
+  }
+]

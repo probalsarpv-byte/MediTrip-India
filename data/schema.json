@@ -1,0 +1,13 @@
+{
+  "status_values": [
+    "verified_official",
+    "verified_official_plus_nabh",
+    "needs_review",
+    "inactive"
+  ],
+  "image_policy": {
+    "doctorImage": "Exact official-profile image only if reuse permitted; otherwise neutral avatar/initials.",
+    "hospitalImage": "License/reuse review required before rehosting.",
+    "illustrativeImage": "Label as illustrative; never imply it is an actual hospital/doctor photo."
+  }
+}
