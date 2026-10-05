@@ -3,6 +3,10 @@
     "id": "T001",
     "name": "Breast Cancer Care",
     "specialty": "Oncology",
+    "cities": [
+      "Kolkata",
+      "Chennai"
+    ],
     "costMin": 180000,
     "costMax": 650000
   },
@@ -10,6 +14,10 @@
     "id": "T002",
     "name": "CABG / Bypass Surgery",
     "specialty": "Cardiology",
+    "cities": [
+      "Chennai",
+      "Kolkata"
+    ],
     "costMin": 250000,
     "costMax": 650000
   },
@@ -17,6 +25,10 @@
     "id": "T003",
     "name": "Kidney Care / Transplant Evaluation",
     "specialty": "Nephrology",
+    "cities": [
+      "Hyderabad",
+      "Chennai"
+    ],
     "costMin": 150000,
     "costMax": 1200000
   }

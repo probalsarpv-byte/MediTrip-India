@@ -1,21 +1,23 @@
-# MediTrip India — V2 Preview Beta
+# MediTrip India V2.1 — Android-ready UI
 
-Upload the contents of this folder to the GitHub Pages repository root.
+This is a professional redesign based on the approved colorful/card-based direction, while preserving the MediTrip feature flow.
 
-## Included in this beta
-- Premium colorful medical UI with dark/light mode
-- Bengali/English UI toggle
-- Google-like grouped instant search suggestions
-- 3D/depth Smart Match interaction and score
-- Hospital profiles with Featured Doctors
-- Safe doctor avatars (no fake/generated face presented as a real doctor)
-- Elderly / attendant / high-contrast / reduced-motion / large-text controls
-- Hospital comparison
-- Cost planner
-- Medical language assistant + speech + Show to Staff
-- My Trip preview
-- PWA/offline cache
-- Responsive mobile + desktop layout
+## What changed
+- Large, visible brand/logo
+- Full-width professional desktop header
+- Rich hero section with safe in-house SVG artwork
+- Google-like grouped instant search
+- 10 feature shortcuts
+- Smart Match, Medical Cities and Treatment Journey shown as premium panels
+- Hospital and doctor cards redesigned
+- Mobile bottom navigation + desktop top navigation
+- Light/Dark, Bengali/English, accessibility modes
+- No fake doctor face: verified image can be added later; otherwise initials/avatar
+- PWA/offline-ready
+- Android Studio WebView-ready structure included in android-template/
 
-## Data safety
-All included hospital/doctor identities are DEMO records for interface testing. Illustrative hospital covers are labeled. Replace with verified, source-tracked production data before public launch.
+## GitHub Pages
+Upload everything except `android-template/` to the repository root.
+
+## Android Studio
+See `android-template/README_ANDROID_STUDIO.md`.

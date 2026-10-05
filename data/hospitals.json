@@ -3,6 +3,7 @@
     "id": "H001",
     "name": "Sample Medical Centre Kolkata",
     "city": "Kolkata",
+    "state": "West Bengal",
     "specialties": [
       "Oncology",
       "Cardiology",
@@ -18,13 +19,14 @@
     "airportKm": 18,
     "verified": "2026-10-01",
     "status": "verified",
-    "about": "Demo hospital only. Replace with verified production data.",
-    "mapQuery": "Kolkata West Bengal India"
+    "about": "Demo hospital profile for interface testing. Replace with verified production data.",
+    "image": "assets/hospital-cover.svg"
   },
   {
     "id": "H002",
     "name": "Sample Health Institute Chennai",
     "city": "Chennai",
+    "state": "Tamil Nadu",
     "specialties": [
       "Cardiology",
       "Transplant",
@@ -40,13 +42,14 @@
     "airportKm": 14,
     "verified": "2026-09-28",
     "status": "verified",
-    "about": "Demo hospital only. Replace with verified production data.",
-    "mapQuery": "Chennai Tamil Nadu India"
+    "about": "Demo hospital profile for interface testing. Replace with verified production data.",
+    "image": "assets/hospital-cover.svg"
   },
   {
     "id": "H003",
     "name": "Sample Care Hospital Hyderabad",
     "city": "Hyderabad",
+    "state": "Telangana",
     "specialties": [
       "Orthopaedics",
       "Nephrology",
@@ -62,7 +65,7 @@
     "airportKm": 27,
     "verified": "2026-09-20",
     "status": "review",
-    "about": "Demo hospital only. Replace with verified production data.",
-    "mapQuery": "Hyderabad Telangana India"
+    "about": "Demo hospital profile for interface testing. Replace with verified production data.",
+    "image": "assets/hospital-cover.svg"
   }
 ]

@@ -1,14 +1,20 @@
 [
   {
+    "cat": "Consultation",
+    "bn": "আমার বুক ব্যথা করছে।",
+    "en": "I have chest pain.",
+    "hi": "मुझे सीने में दर्द है।"
+  },
+  {
+    "cat": "Reception",
     "bn": "আমি বাংলাদেশ থেকে এসেছি। আমার অ্যাপয়েন্টমেন্ট আছে।",
-    "en": "I am from Bangladesh. I have an appointment."
+    "en": "I am from Bangladesh. I have an appointment.",
+    "hi": "मैं बांग्लादेश से आया/आई हूँ। मेरी अपॉइंटमेंट है।"
   },
   {
-    "bn": "আমার তিন দিন ধরে বুক ব্যথা করছে।",
-    "en": "I have had chest pain for three days."
-  },
-  {
+    "cat": "Emergency",
     "bn": "জরুরি সাহায্য দরকার। রোগীর শ্বাস নিতে কষ্ট হচ্ছে।",
-    "en": "We need emergency help. The patient is having difficulty breathing."
+    "en": "We need emergency help. The patient is having difficulty breathing.",
+    "hi": "हमें आपातकालीन मदद चाहिए। मरीज को सांस लेने में दिक्कत हो रही है।"
   }
 ]

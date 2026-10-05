@@ -1,7 +1,47 @@
 [
-  "Kolkata",
-  "Chennai",
-  "Hyderabad",
-  "Delhi NCR",
-  "Bengaluru"
+  {
+    "name": "Chennai",
+    "bestFor": [
+      "Cardiology",
+      "Cancer",
+      "Transplant"
+    ],
+    "language": "Tamil / English"
+  },
+  {
+    "name": "Delhi NCR",
+    "bestFor": [
+      "Cancer",
+      "Cardiac",
+      "Neurosurgery"
+    ],
+    "language": "Hindi / English"
+  },
+  {
+    "name": "Hyderabad",
+    "bestFor": [
+      "Transplant",
+      "Ortho",
+      "Robotics"
+    ],
+    "language": "Telugu / Hindi / English"
+  },
+  {
+    "name": "Bengaluru",
+    "bestFor": [
+      "Cardiac",
+      "Oncology",
+      "Multi-specialty"
+    ],
+    "language": "English / Kannada / Hindi"
+  },
+  {
+    "name": "Kolkata",
+    "bestFor": [
+      "Cancer",
+      "Cardiac",
+      "Neurology"
+    ],
+    "language": "Bengali / Hindi / English"
+  }
 ]

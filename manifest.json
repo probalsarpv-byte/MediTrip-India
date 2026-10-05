@@ -1,9 +1,9 @@
 {
-  "name": "MediTrip India V2 Preview Beta",
-  "short_name": "MediTrip V2",
+  "name": "MediTrip India",
+  "short_name": "MediTrip",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#07131e",
-  "theme_color": "#071827",
-  "description": "MediTrip India V2 Preview Beta"
+  "background_color": "#f5f8fd",
+  "theme_color": "#eff6ff",
+  "description": "Medical travel companion for India"
 }
