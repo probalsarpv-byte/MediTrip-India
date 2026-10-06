@@ -1,42 +1,38 @@
-# MediTrip India — Production V2.1.2 Full Doctor Expansion
+# MediTrip India — Production V2.1.2 Corrected
 
-## Database included
-- **127 hospitals**
-- **1093 doctor records**
-- **100 National ART Registry-tracked fertility/ART centres**
-- **201 fertility specialist directory records**
-- **24 fertility treatment/service categories**
-- **500 multilingual medical-travel phrases**
-- Medical cities: 5
-- Nearby stay records: 0
+## Corrected production database
+- Hospitals: **127**
+- Public doctor records: **1040**
+- Quarantined doctor records: **53**
+- Fertility / ART centres: **100**
+- Fertility specialist records: **201**
+- Multilingual medical-travel phrases: **500**
 
-## Doctor sources
-This build combines:
-1. Existing official hospital / doctor source-linked records.
-2. A large structured Practo-derived doctor dataset for Bangalore, Delhi, Chennai and Mumbai.
-3. Current Practo directory results for Kolkata doctors.
+## Corrections in this build
+- Filled city for **46** hospital-linked doctor records from the linked hospital.
+- Relabelled **1047** Practo-derived/current records as **Practo Directory Listing**.
+- Directory/category links are no longer described as individual verified doctor profiles.
+- Applied **13** specialty corrections where qualification clearly supported another specialty.
+- Moved **53** conflicting imported doctor records out of the public database into `data/doctors.quarantine.json`.
+- Hid **5** suspicious ₹0/₹99 doctor fee values pending review.
+- Regenerated `offline-db.json` from the corrected production data.
 
-UI distinguishes:
-- Official Doctor Listing / Official Hospital Source
-- Practo Directory / directory-derived record
+## Source labels
+The app distinguishes:
+- Verified Official Profile — only when an individual official profile is explicitly confirmed.
+- Official Doctor Listing — official hospital doctor-directory page.
+- Official Hospital Source — source-linked hospital page.
+- Practo Directory Listing — directory/category source; **individual doctor profile not verified in this record**.
 
-A directory record is not labelled as an individual official hospital profile unless an individual official profile URL is actually present.
+## Data quality files
+- `data/data-quality-report.json`
+- `data/doctors.quarantine.json`
+- `data/verification-log.json`
 
 ## Photos
-The UI is now photo-aware for both doctors and hospitals.
-- If an exact source-linked image URL is present, it is displayed.
-- If the image is missing or fails to load, the medical icon automatically appears.
-- Existing verified identity metadata for Dr Naresh Trehan remains included.
-- Directory records without an exact image URL are not assigned a guessed face.
+The existing photo-aware UI remains:
+- exact source-linked photo URL -> display photo
+- missing/broken photo -> doctor/hospital SVG icon fallback
+- no guessed face is inserted.
 
-## Fertility
-- ART centres: 100
-- Fertility specialists: 201
-- Search + city filters
-- Infertility Smart Match
-- ART Registry source links
-
-## Performance
-Doctor directory renders a filtered first 120 results at a time rather than mounting more than one thousand cards simultaneously.
-
-Upload the package contents to the GitHub repository root.
+Upload the contents of this ZIP to the GitHub repository root.

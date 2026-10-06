@@ -1,10 +1,11 @@
 [
   {
     "date": "2026-10-06",
-    "version": "production-v2.1.2-full-doctor-expansion",
+    "version": "production-v2.1.2-corrected",
     "scope": {
       "hospitals": 127,
-      "doctors": 1093,
+      "doctors": 1040,
+      "quarantinedDoctors": 53,
       "fertilityCentres": 100,
       "fertilitySpecialists": 201,
       "fertilityTreatments": 24,
@@ -15,20 +16,30 @@
       "sources": 36
     },
     "doctorCityCounts": {
-      "Unknown": 46,
-      "Bangalore": 224,
-      "Delhi": 224,
-      "Chennai": 263,
-      "Mumbai": 293,
-      "Kolkata": 43
+      "Kolkata": 49,
+      "Chennai": 266,
+      "Hyderabad": 6,
+      "Gurugram": 9,
+      "New Delhi": 6,
+      "Bengaluru": 8,
+      "Bangalore": 208,
+      "Delhi": 208,
+      "Mumbai": 280
     },
     "doctorSourceCounts": {
       "official/source-linked": 46,
-      "practo_derived_dataset": 1004,
+      "practo_derived_dataset": 951,
       "practo_current_directory": 43
     },
-    "method": "Existing official/source-linked doctor records retained. Large directory expansion uses a Practo-derived structured dataset plus current Practo Kolkata directory results. Official and directory source labels are separated in UI. Exact profile photo is shown only when a source-linked image URL is stored; otherwise the doctor icon is used.",
-    "status": "major_database_expansion",
+    "dataQualityActions": {
+      "officialDoctorCitiesFilled": 46,
+      "directoryLinksRelabelled": 1047,
+      "specialtyCorrections": 13,
+      "quarantinedDoctors": 53,
+      "lowOrZeroFeesHidden": 5
+    },
+    "method": "Corrected doctor data quality pass. Directory-level links are explicitly labelled as directory listings rather than individual verified profiles. Qualification-conflicting imported specialties were corrected or quarantined. Offline DB regenerated from corrected production data.",
+    "status": "corrected_production_candidate",
     "nextReviewDue": "2026-12-05"
   }
 ]

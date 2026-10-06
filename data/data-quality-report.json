@@ -1,0 +1,99 @@
+{
+  "version": "2.1.2-corrected",
+  "date": "2026-10-06",
+  "originalDoctorCount": 1093,
+  "productionDoctorCount": 1040,
+  "quarantinedDoctorCount": 53,
+  "specialtyCorrections": 13,
+  "officialDoctorCitiesFilledFromHospital": 46,
+  "directoryLinksRelabelled": 1047,
+  "suspiciousDoctorFeesHidden": 5,
+  "rules": [
+    "Practo specialty/city pages are labelled as directory listings, not individual verified profiles.",
+    "Imported ophthalmology records conflicting with qualifications are removed from public production data and stored in doctors.quarantine.json.",
+    "Clearly neurosurgical qualifications imported as Neurologist are corrected to Neurosurgeon.",
+    "Clearly cardiothoracic-surgery qualifications imported as Cardiologist are corrected to Cardiothoracic Surgeon.",
+    "Zero or ₹99 consultation values are hidden pending review.",
+    "Missing city for hospital-linked official doctors is derived from the linked hospital."
+  ],
+  "corrections": [
+    {
+      "id": "D-PR-0035",
+      "name": "Dr. Sunil V Furtado",
+      "from": "Neurologist",
+      "to": "Neurosurgeon"
+    },
+    {
+      "id": "D-PR-0075",
+      "name": "Dr. Abdul Aziz Riyaz",
+      "from": "Neurologist",
+      "to": "Neurosurgeon"
+    },
+    {
+      "id": "D-PR-0088",
+      "name": "Dr. Deepak Somasundar",
+      "from": "Neurologist",
+      "to": "Neurosurgeon"
+    },
+    {
+      "id": "D-PR-0102",
+      "name": "Dr. Sunil Buddappa",
+      "from": "Neurologist",
+      "to": "Neurosurgeon"
+    },
+    {
+      "id": "D-PR-0115",
+      "name": "Dr. Aniruddh T Jagannath",
+      "from": "Neurologist",
+      "to": "Neurosurgeon"
+    },
+    {
+      "id": "D-PR-0128",
+      "name": "Dr. Sabyasachi Basu",
+      "from": "Neurologist",
+      "to": "Neurosurgeon"
+    },
+    {
+      "id": "D-PR-0137",
+      "name": "Dr. Govardhan Reddy K",
+      "from": "Cardiologist",
+      "to": "Cardiothoracic Surgeon"
+    },
+    {
+      "id": "D-PR-0219",
+      "name": "Dr. Avinash K M",
+      "from": "Neurologist",
+      "to": "Neurosurgeon"
+    },
+    {
+      "id": "D-PR-0268",
+      "name": "Dr. Sunilkumar Baranwal",
+      "from": "Neurologist",
+      "to": "Neurosurgeon"
+    },
+    {
+      "id": "D-PR-0276",
+      "name": "Dr. Ashish Sachan",
+      "from": "Ophthalmologist",
+      "to": "Gastroenterologist"
+    },
+    {
+      "id": "D-PR-0282",
+      "name": "Dr. Amitabh Gupta",
+      "from": "Neurologist",
+      "to": "Neurosurgeon"
+    },
+    {
+      "id": "D-PR-0460",
+      "name": "Dr. T.S.Chandrasekar",
+      "from": "Ophthalmologist",
+      "to": "Gastroenterologist"
+    },
+    {
+      "id": "D-PR-0611",
+      "name": "Dr. Vincent Thamburaj",
+      "from": "Neurologist",
+      "to": "Neurosurgeon"
+    }
+  ]
+}

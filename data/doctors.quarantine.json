@@ -1,0 +1,2546 @@
+[
+  {
+    "id": "D-PR-0001",
+    "name": "Dr. Parameshwara C M",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Bangalore",
+    "practiceLocation": "HBR Layout",
+    "practiceLocations": [
+      "HBR Layout"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 28,
+    "languages": [],
+    "qualification": "MBBS, MS - General Surgery",
+    "consultationFeeINR": 700,
+    "consultationFeesINR": [
+      700
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/bangalore/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/bangalore/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0015",
+    "name": "Dr. Shiva Kumar",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Bangalore",
+    "practiceLocation": "HSR Layout",
+    "practiceLocations": [
+      "HSR Layout"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 10,
+    "languages": [],
+    "qualification": "MBBS, DNB - General Surgery",
+    "consultationFeeINR": 499,
+    "consultationFeesINR": [
+      499
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/bangalore/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/bangalore/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0029",
+    "name": "Dr. Vamsi Krishna M",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Bangalore",
+    "practiceLocation": "Whitefield",
+    "practiceLocations": [
+      "Whitefield"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 24,
+    "languages": [],
+    "qualification": "MBBS, MS - General Surgery",
+    "consultationFeeINR": 500,
+    "consultationFeesINR": [
+      500
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/bangalore/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/bangalore/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0042",
+    "name": "Dr. Vijay C R Reddy",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Bangalore",
+    "practiceLocation": "HSR Layout",
+    "practiceLocations": [
+      "HSR Layout"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 27,
+    "languages": [],
+    "qualification": "MS - General Surgery, MBBS",
+    "consultationFeeINR": 599,
+    "consultationFeesINR": [
+      599
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/bangalore/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/bangalore/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0069",
+    "name": "Dr. Mahesh Chikkachannappa",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Bangalore",
+    "practiceLocation": "Hebbal",
+    "practiceLocations": [
+      "Hebbal"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 23,
+    "languages": [],
+    "qualification": "MBBS, MS - General Surgery",
+    "consultationFeeINR": 900,
+    "consultationFeesINR": [
+      900
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/bangalore/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/bangalore/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0082",
+    "name": "Dr. Kiran K J",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Bangalore",
+    "practiceLocation": "Konanakunte",
+    "practiceLocations": [
+      "Konanakunte"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 18,
+    "languages": [],
+    "qualification": "MBBS, MS - General Surgery",
+    "consultationFeeINR": 500,
+    "consultationFeesINR": [
+      500
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/bangalore/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/bangalore/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0096",
+    "name": "Dr. Gautham S L",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Bangalore",
+    "practiceLocation": "Arekere",
+    "practiceLocations": [
+      "Arekere"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 14,
+    "languages": [],
+    "qualification": "MS - General Surgery, MBBS",
+    "consultationFeeINR": 500,
+    "consultationFeesINR": [
+      500
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/bangalore/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/bangalore/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0109",
+    "name": "Dr. Praveen S",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Bangalore",
+    "practiceLocation": "Hebbal",
+    "practiceLocations": [
+      "Hebbal"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 15,
+    "languages": [],
+    "qualification": "MBBS, MS - General Surgery",
+    "consultationFeeINR": 800,
+    "consultationFeesINR": [
+      800
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/bangalore/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/bangalore/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0122",
+    "name": "Dr. Priyanka Akhilesh Sali",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Bangalore",
+    "practiceLocation": "Indiranagar",
+    "practiceLocations": [
+      "Indiranagar"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 14,
+    "languages": [],
+    "qualification": "MBBS, DNB - General Surgery",
+    "consultationFeeINR": 599,
+    "consultationFeesINR": [
+      599
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/bangalore/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/bangalore/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0136",
+    "name": "Dr. Prashanth J.V",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Bangalore",
+    "practiceLocation": "BTM Layout 1st Stage",
+    "practiceLocations": [
+      "BTM Layout 1st Stage"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 27,
+    "languages": [],
+    "qualification": "MBBS, MS - General Surgery",
+    "consultationFeeINR": 700,
+    "consultationFeesINR": [
+      700
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/bangalore/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/bangalore/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0149",
+    "name": "Dr. Nanda Rajaneesh",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Bangalore",
+    "practiceLocation": "Koramangala 5 Block",
+    "practiceLocations": [
+      "Koramangala 5 Block"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 27,
+    "languages": [],
+    "qualification": "MBBS, MS - General Surgery, Training in Surgical Oncology (G.I. Oncology)",
+    "consultationFeeINR": 600,
+    "consultationFeesINR": [
+      600
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/bangalore/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/bangalore/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0162",
+    "name": "Dr. Ravishankar Bhat",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Bangalore",
+    "practiceLocation": "Bannerghatta Road",
+    "practiceLocations": [
+      "Bannerghatta Road"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 31,
+    "languages": [],
+    "qualification": "MBBS, MS - General Surgery, DNB - General Surgery, MCh - Surgical Gastroenterology/G.I. Surgery",
+    "consultationFeeINR": 850,
+    "consultationFeesINR": [
+      850
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/bangalore/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/bangalore/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0175",
+    "name": "Dr. H V Shivaram",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Bangalore",
+    "practiceLocation": "Hebbal",
+    "practiceLocations": [
+      "Hebbal"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 39,
+    "languages": [],
+    "qualification": "MBBS, MS - General Surgery, FRCS - General Surgery (Upper GI)",
+    "consultationFeeINR": 900,
+    "consultationFeesINR": [
+      900
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/bangalore/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/bangalore/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0187",
+    "name": "Dr. Abdul Razack.G.S",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Bangalore",
+    "practiceLocation": "Jayanagar 9 Block",
+    "practiceLocations": [
+      "Jayanagar 9 Block"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 20,
+    "languages": [],
+    "qualification": "MBBS, MS - General Surgery",
+    "consultationFeeINR": 650,
+    "consultationFeesINR": [
+      650
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/bangalore/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/bangalore/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0200",
+    "name": "Dr. Saurabh Misra",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Bangalore",
+    "practiceLocation": "Bannerghatta Road",
+    "practiceLocations": [
+      "Bannerghatta Road"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 26,
+    "languages": [],
+    "qualification": "MBBS, MS - General Surgery, FICS",
+    "consultationFeeINR": 1000,
+    "consultationFeesINR": [
+      1000
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/bangalore/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/bangalore/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0213",
+    "name": "Dr. Manas Ranjan Tripathy",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Bangalore",
+    "practiceLocation": "HSR Layout",
+    "practiceLocations": [
+      "HSR Layout"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 17,
+    "languages": [],
+    "qualification": "MBBS, MS - General Surgery",
+    "consultationFeeINR": 750,
+    "consultationFeesINR": [
+      750
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/bangalore/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/bangalore/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0222",
+    "name": "Dr. Nikunj Bansal",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Delhi",
+    "practiceLocation": "Karol Bagh",
+    "practiceLocations": [
+      "Karol Bagh"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 21,
+    "languages": [],
+    "qualification": "MBBS, MS - General Surgery",
+    "consultationFeeINR": 499,
+    "consultationFeesINR": [
+      499
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/delhi/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/delhi/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0236",
+    "name": "Dr. Deep Goel",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Delhi",
+    "practiceLocation": "Pusa Road",
+    "practiceLocations": [
+      "Pusa Road"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 31,
+    "languages": [],
+    "qualification": "MBBS, DNB - General Surgery",
+    "consultationFeeINR": 1500,
+    "consultationFeesINR": [
+      1500
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/delhi/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/delhi/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0249",
+    "name": "Dr. Ashish Pitale",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Delhi",
+    "practiceLocation": "Dwarka",
+    "practiceLocations": [
+      "Dwarka"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 31,
+    "languages": [],
+    "qualification": "MBBS, MS - General Surgery, FRCS - General Surgery",
+    "consultationFeeINR": 700,
+    "consultationFeesINR": [
+      700
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/delhi/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/delhi/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0262",
+    "name": "Dr. Sumeet Shah",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Delhi",
+    "practiceLocation": "Greater Kailash Part 1",
+    "practiceLocations": [
+      "Greater Kailash Part 1"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 28,
+    "languages": [],
+    "qualification": "MBBS, MS - General Surgery, DNB - General Surgery",
+    "consultationFeeINR": 1200,
+    "consultationFeesINR": [
+      1200
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/delhi/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/delhi/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0290",
+    "name": "Dr. Randeep Wadhawan",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Delhi",
+    "practiceLocation": "Dwarka Sector 6",
+    "practiceLocations": [
+      "Dwarka Sector 6"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 33,
+    "languages": [],
+    "qualification": "MBBS, MS - General Surgery",
+    "consultationFeeINR": 1100,
+    "consultationFeesINR": [
+      1100
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/delhi/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/delhi/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0302",
+    "name": "Dr. Saurabh Bansal",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Delhi",
+    "practiceLocation": "Green Park",
+    "practiceLocations": [
+      "Green Park"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 16,
+    "languages": [],
+    "qualification": "MBBS, DNB - General Surgery",
+    "consultationFeeINR": 1000,
+    "consultationFeesINR": [
+      1000
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/delhi/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/delhi/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0315",
+    "name": "Dr. Ravindra Vats",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Delhi",
+    "practiceLocation": "Pusa Road",
+    "practiceLocations": [
+      "Pusa Road"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 22,
+    "languages": [],
+    "qualification": "MBBS, MS - General Surgery",
+    "consultationFeeINR": 1500,
+    "consultationFeesINR": [
+      1500
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/delhi/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/delhi/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0329",
+    "name": "Dr. Shailender Kumar Jain",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Delhi",
+    "practiceLocation": "Dwarka",
+    "practiceLocations": [
+      "Dwarka"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 27,
+    "languages": [],
+    "qualification": "MBBS, MS - General Surgery",
+    "consultationFeeINR": 500,
+    "consultationFeesINR": [
+      500
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/delhi/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/delhi/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0343",
+    "name": "Dr. Sandeep Jain",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Delhi",
+    "practiceLocation": "Patparganj",
+    "practiceLocations": [
+      "Patparganj"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 20,
+    "languages": [],
+    "qualification": "MBBS, DNB - General Surgery",
+    "consultationFeeINR": 800,
+    "consultationFeesINR": [
+      800
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/delhi/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/delhi/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0357",
+    "name": "Dr. Pradeep K Dewan",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Delhi",
+    "practiceLocation": "Patparganj",
+    "practiceLocations": [
+      "Patparganj"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 42,
+    "languages": [],
+    "qualification": "MBBS, MS - General Surgery",
+    "consultationFeeINR": 800,
+    "consultationFeesINR": [
+      800
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/delhi/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/delhi/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0370",
+    "name": "Dr. Naveen Kumar Verma",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Delhi",
+    "practiceLocation": "Dwarka Sector 6",
+    "practiceLocations": [
+      "Dwarka Sector 6"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 7,
+    "languages": [],
+    "qualification": "MBBS, MS - General Surgery",
+    "consultationFeeINR": 1100,
+    "consultationFeesINR": [
+      1100
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/delhi/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/delhi/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0383",
+    "name": "Dr. Arun Bhardwaj",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Delhi",
+    "practiceLocation": "Dwarka Sector 6",
+    "practiceLocations": [
+      "Dwarka Sector 6"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 13,
+    "languages": [],
+    "qualification": "MBBS, MS - General Surgery, DNB - General Surgery, MRCS (UK)",
+    "consultationFeeINR": 1100,
+    "consultationFeesINR": [
+      1100
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/delhi/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/delhi/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0396",
+    "name": "Dr. Suresh Kumar Abrol",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Delhi",
+    "practiceLocation": "Punjabi Bagh",
+    "practiceLocations": [
+      "Punjabi Bagh"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 42,
+    "languages": [],
+    "qualification": "MBBS, MS - General Surgery",
+    "consultationFeeINR": 1000,
+    "consultationFeesINR": [
+      1000
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/delhi/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/delhi/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0409",
+    "name": "Dr. Bhoopendra Prasad",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Delhi",
+    "practiceLocation": "Vasant Kunj",
+    "practiceLocations": [
+      "Vasant Kunj"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 20,
+    "languages": [],
+    "qualification": "MBBS, MS - General Surgery",
+    "consultationFeeINR": 1000,
+    "consultationFeesINR": [
+      1000
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/delhi/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/delhi/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0422",
+    "name": "Dr. Shailesh Gupta",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Delhi",
+    "practiceLocation": "Patparganj",
+    "practiceLocations": [
+      "Patparganj"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 11,
+    "languages": [],
+    "qualification": "MBBS, MS - General Surgery",
+    "consultationFeeINR": 800,
+    "consultationFeesINR": [
+      800
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/delhi/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/delhi/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0434",
+    "name": "Dr. Jotinder Khanna",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Delhi",
+    "practiceLocation": "Nehru Place",
+    "practiceLocations": [
+      "Nehru Place"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 25,
+    "languages": [],
+    "qualification": "MBBS, MS - General Surgery, FNB - Minimal Access Surgery",
+    "consultationFeeINR": 1000,
+    "consultationFeesINR": [
+      1000
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/delhi/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/delhi/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0446",
+    "name": "Dr. Preethi Mrinalini K",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Chennai",
+    "practiceLocation": "Nungambakkam",
+    "practiceLocations": [
+      "Nungambakkam"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 10,
+    "languages": [],
+    "qualification": "MBBS, MS - General Surgery",
+    "consultationFeeINR": 700,
+    "consultationFeesINR": [
+      700
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/chennai/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/chennai/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0474",
+    "name": "Dr. Prabudoss",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Chennai",
+    "practiceLocation": "Velachery",
+    "practiceLocations": [
+      "Velachery"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 21,
+    "languages": [],
+    "qualification": "MBBS, MS - General Surgery, MCh - Surgical Gastroenterology/G.I. Surgery",
+    "consultationFeeINR": 700,
+    "consultationFeesINR": [
+      700
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/chennai/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/chennai/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0487",
+    "name": "Dr. Raj Palaniappan",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Chennai",
+    "practiceLocation": "Greams Road",
+    "practiceLocations": [
+      "Greams Road"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 25,
+    "languages": [],
+    "qualification": "MS - General Surgery, MBBS",
+    "consultationFeeINR": 2500,
+    "consultationFeesINR": [
+      2500
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/chennai/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/chennai/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0500",
+    "name": "Dr. Carunya Mannan",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Chennai",
+    "practiceLocation": "Alwarpet",
+    "practiceLocations": [
+      "Alwarpet"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 9,
+    "languages": [],
+    "qualification": "MBBS, MS - General Surgery",
+    "consultationFeeINR": 1000,
+    "consultationFeesINR": [
+      1000
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/chennai/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/chennai/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0513",
+    "name": "Dr. Rajkumar Palaniappan",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Chennai",
+    "practiceLocation": "Greams Road",
+    "practiceLocations": [
+      "Greams Road"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 25,
+    "languages": [],
+    "qualification": "MBBS, MS - General Surgery",
+    "consultationFeeINR": 1000,
+    "consultationFeesINR": [
+      1000
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/chennai/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/chennai/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0527",
+    "name": "Dr. Perungo Thirumarai Chelvan",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Chennai",
+    "practiceLocation": "Chromepet",
+    "practiceLocations": [
+      "Chromepet"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 18,
+    "languages": [],
+    "qualification": "MBBS, MS - General Surgery, MCh - Surgical Gastroenterology/G.I. Surgery",
+    "consultationFeeINR": 800,
+    "consultationFeesINR": [
+      800
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/chennai/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/chennai/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0541",
+    "name": "Dr. Naveen Alexander",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Chennai",
+    "practiceLocation": "Kilpauk",
+    "practiceLocations": [
+      "Kilpauk"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 16,
+    "languages": [],
+    "qualification": "MS - General Surgery, MBBS",
+    "consultationFeeINR": 500,
+    "consultationFeesINR": [
+      500
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/chennai/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/chennai/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0555",
+    "name": "Dr. Yamini",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Chennai",
+    "practiceLocation": "T Nagar",
+    "practiceLocations": [
+      "T Nagar"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 22,
+    "languages": [],
+    "qualification": "MBBS, MS - General Surgery, MCh - Surgical Gastroenterology/G.I. Surgery",
+    "consultationFeeINR": 400,
+    "consultationFeesINR": [
+      400
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/chennai/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/chennai/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0658",
+    "name": "Dr. Prakash Hindurao Kurane",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Mumbai",
+    "practiceLocation": "Chembur",
+    "practiceLocations": [
+      "Chembur"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 8,
+    "languages": [],
+    "qualification": "MBBS, MS - General Surgery",
+    "consultationFeeINR": 999,
+    "consultationFeesINR": [
+      999
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/mumbai/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/mumbai/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0672",
+    "name": "Dr. Vishal Diddi",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Mumbai",
+    "practiceLocation": "Andheri",
+    "practiceLocations": [
+      "Andheri"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 16,
+    "languages": [],
+    "qualification": "MBBS, DNB - General Surgery, FCPS - General Surgery",
+    "consultationFeeINR": 700,
+    "consultationFeesINR": [
+      700
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/mumbai/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/mumbai/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0686",
+    "name": "Dr. Jayashree Todkar",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Mumbai",
+    "practiceLocation": "Powai",
+    "practiceLocations": [
+      "Powai"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 30,
+    "languages": [],
+    "qualification": "MBBS, MS - General Surgery",
+    "consultationFeeINR": 1500,
+    "consultationFeesINR": [
+      1500
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/mumbai/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/mumbai/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0700",
+    "name": "Dr. Manoj Gandhi",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Mumbai",
+    "practiceLocation": "Dadar",
+    "practiceLocations": [
+      "Dadar"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 27,
+    "languages": [],
+    "qualification": "DNB - General Surgery, MBBS",
+    "consultationFeeINR": 1500,
+    "consultationFeesINR": [
+      1500
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/mumbai/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/mumbai/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0714",
+    "name": "Dr. Rais Ansari",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Mumbai",
+    "practiceLocation": "Worli",
+    "practiceLocations": [
+      "Worli"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 22,
+    "languages": [],
+    "qualification": "MS - General Surgery, MBBS",
+    "consultationFeeINR": 3500,
+    "consultationFeesINR": [
+      3500
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/mumbai/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/mumbai/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0728",
+    "name": "Dr. Sanjay Borude",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Mumbai",
+    "practiceLocation": "Chembur",
+    "practiceLocations": [
+      "Chembur"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 38,
+    "languages": [],
+    "qualification": "MS - General Surgery, MBBS",
+    "consultationFeeINR": 3000,
+    "consultationFeesINR": [
+      3000
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/mumbai/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/mumbai/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0742",
+    "name": "Dr. Laxman Salve",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Mumbai",
+    "practiceLocation": "Chembur",
+    "practiceLocations": [
+      "Chembur"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 21,
+    "languages": [],
+    "qualification": "MBBS, MS - General Surgery",
+    "consultationFeeINR": 2000,
+    "consultationFeesINR": [
+      2000
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/mumbai/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/mumbai/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0755",
+    "name": "Dr. Aparna Govil Bhasker",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Mumbai",
+    "practiceLocation": "Chembur",
+    "practiceLocations": [
+      "Chembur"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 16,
+    "languages": [],
+    "qualification": "MS - General Surgery, MBBS",
+    "consultationFeeINR": 1500,
+    "consultationFeesINR": [
+      1500
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/mumbai/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/mumbai/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0769",
+    "name": "Dr. Ramen Goel",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Mumbai",
+    "practiceLocation": "Chembur",
+    "practiceLocations": [
+      "Chembur"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 36,
+    "languages": [],
+    "qualification": "MBBS, MS - General Surgery",
+    "consultationFeeINR": 1500,
+    "consultationFeesINR": [
+      1500
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/mumbai/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/mumbai/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0783",
+    "name": "Dr. Manish Motwani",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Mumbai",
+    "practiceLocation": "Mulund West",
+    "practiceLocations": [
+      "Mulund West"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 26,
+    "languages": [],
+    "qualification": "MBBS, MS - General Surgery",
+    "consultationFeeINR": 1000,
+    "consultationFeesINR": [
+      1000
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/mumbai/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/mumbai/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0797",
+    "name": "Dr. Hemal Bhagat",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Mumbai",
+    "practiceLocation": "Andheri West",
+    "practiceLocations": [
+      "Andheri West"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 28,
+    "languages": [],
+    "qualification": "MBBS, DNB - General Surgery, Diploma in Laparoscopy",
+    "consultationFeeINR": 2000,
+    "consultationFeesINR": [
+      2000
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/mumbai/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/mumbai/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0811",
+    "name": "Dr. Muffazal Lakdawala",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Mumbai",
+    "practiceLocation": "Worli",
+    "practiceLocations": [
+      "Worli"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 31,
+    "languages": [],
+    "qualification": "MBBS, MS - General Surgery",
+    "consultationFeeINR": 4000,
+    "consultationFeesINR": [
+      4000
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/mumbai/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/mumbai/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  },
+  {
+    "id": "D-PR-0825",
+    "name": "Dr. Brijesh Dube",
+    "hospitalId": null,
+    "hospitalName": null,
+    "city": "Mumbai",
+    "practiceLocation": "Malad West",
+    "practiceLocations": [
+      "Malad West"
+    ],
+    "specialty": "Ophthalmologist",
+    "specialties": [
+      "Ophthalmologist"
+    ],
+    "role": null,
+    "experienceYears": 24,
+    "languages": [],
+    "qualification": "MBBS, MS - General Surgery",
+    "consultationFeeINR": 1000,
+    "consultationFeesINR": [
+      1000
+    ],
+    "profileUrl": null,
+    "verifiedLink": "https://www.practo.com/mumbai/ophthalmologist",
+    "sourceType": "practo_derived_dataset",
+    "sourceLabel": "Practo Directory Listing",
+    "sourceDataset": "gauraishwarya/Practo — Final_Table(Cleaned).csv",
+    "verificationStatus": "directory_dataset_source",
+    "lastVerified": "2026-10-06",
+    "sources": [
+      "DS-PRACTO"
+    ],
+    "photo": {
+      "url": null,
+      "sourcePage": null,
+      "sourceType": "practo",
+      "identityMatched": false,
+      "fallback": "doctor-icon",
+      "status": "needs_profile_photo"
+    },
+    "photoStatus": "icon_fallback",
+    "directoryUrl": "https://www.practo.com/mumbai/ophthalmologist",
+    "linkType": "directory_listing",
+    "individualProfileVerified": false,
+    "quarantineReason": "specialty_qualification_mismatch",
+    "quarantineDetail": "Imported as Ophthalmologist, but qualification does not show ophthalmology training.",
+    "quarantinedOn": "2026-10-06"
+  }
+]

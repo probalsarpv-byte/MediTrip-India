@@ -2165,10 +2165,12 @@
     "specialty": "Infertility Specialist",
     "qualification": "DNB - Obstetrics & Gynecology, MBBS, DGO",
     "experienceYears": 14,
-    "consultationFeeINR": 99,
+    "consultationFeeINR": null,
     "sourceType": "practo_derived_dataset",
     "sourceUrl": "https://www.practo.com/mumbai/infertility-specialist",
-    "lastVerified": "2026-10-06"
+    "lastVerified": "2026-10-06",
+    "listedFeeRaw": 99,
+    "feeStatus": "review_required_low_or_zero_value"
   },
   {
     "doctorId": "D-FERT-PR-0102",
@@ -2451,10 +2453,12 @@
     "specialty": "Infertility Specialist",
     "qualification": "MBBS, MS - Obstetrics & Gynaecology",
     "experienceYears": 10,
-    "consultationFeeINR": 0,
+    "consultationFeeINR": null,
     "sourceType": "practo_derived_dataset",
     "sourceUrl": "https://www.practo.com/chennai/infertility-specialist",
-    "lastVerified": "2026-10-06"
+    "lastVerified": "2026-10-06",
+    "listedFeeRaw": 0,
+    "feeStatus": "review_required_low_or_zero_value"
   },
   {
     "doctorId": "D-FERT-PR-0121",
@@ -2542,10 +2546,12 @@
     "specialty": "Infertility Specialist",
     "qualification": "MBBS, MS - Obstetrics & Gynaecology",
     "experienceYears": 13,
-    "consultationFeeINR": 0,
+    "consultationFeeINR": null,
     "sourceType": "practo_derived_dataset",
     "sourceUrl": "https://www.practo.com/chennai/infertility-specialist",
-    "lastVerified": "2026-10-06"
+    "lastVerified": "2026-10-06",
+    "listedFeeRaw": 0,
+    "feeStatus": "review_required_low_or_zero_value"
   },
   {
     "doctorId": "D-FERT-PR-0126",
