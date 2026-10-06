@@ -1,0 +1,68 @@
+[
+  {
+    "id": "DS-APOLLO",
+    "name": "Apollo Hospitals doctor directories",
+    "url": "https://www.apollohospitals.com/book-doctor-appointment/",
+    "sourceType": "official_hospital_directory"
+  },
+  {
+    "id": "DS-FORTIS",
+    "name": "Fortis Healthcare doctors",
+    "url": "https://www.fortishealthcare.com/doctors",
+    "sourceType": "official_hospital_directory"
+  },
+  {
+    "id": "DS-MAX",
+    "name": "Max Healthcare doctors",
+    "url": "https://www.maxhealthcare.in/doctor",
+    "sourceType": "official_hospital_directory"
+  },
+  {
+    "id": "DS-MEDANTA",
+    "name": "Medanta doctors",
+    "url": "https://www.medanta.org/doctor-listing",
+    "sourceType": "official_hospital_directory"
+  },
+  {
+    "id": "DS-MANIPAL",
+    "name": "Manipal Hospitals doctors",
+    "url": "https://www.manipalhospitals.com/doctors-list/",
+    "sourceType": "official_hospital_directory"
+  },
+  {
+    "id": "DS-NARAYANA",
+    "name": "Narayana Health doctors",
+    "url": "https://www.narayanahealth.org/find-a-doctor",
+    "sourceType": "official_hospital_directory"
+  },
+  {
+    "id": "DS-ASTER",
+    "name": "Aster Hospitals doctors",
+    "url": "https://www.asterhospitals.in/doctors",
+    "sourceType": "official_hospital_directory"
+  },
+  {
+    "id": "DS-PRACTO",
+    "name": "Practo",
+    "url": "https://www.practo.com/",
+    "sourceType": "secondary_directory_discovery_only"
+  },
+  {
+    "id": "DS-CREDIHEALTH",
+    "name": "Credihealth",
+    "url": "https://www.credihealth.com/",
+    "sourceType": "secondary_directory_discovery_only"
+  },
+  {
+    "id": "DS-VAIDAM",
+    "name": "Vaidam",
+    "url": "https://www.vaidam.com/",
+    "sourceType": "secondary_directory_discovery_only"
+  },
+  {
+    "id": "DS-HEXAH",
+    "name": "HexaHealth",
+    "url": "https://www.hexahealth.com/",
+    "sourceType": "secondary_directory_discovery_only"
+  }
+]

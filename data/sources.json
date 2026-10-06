@@ -208,5 +208,11 @@
     "type": "official_hospital",
     "name": "Narayana Health Bangalore Hospitals",
     "url": "https://www.narayanahealth.org/hospitals-clinics/bangalore"
+  },
+  {
+    "id": "SRC_ART_REGISTRY",
+    "type": "government_registry",
+    "name": "National ART & Surrogacy Registry",
+    "url": "https://registry.artsurrogacy.gov.in/clinic/list?type=register-clinic"
   }
 ]

@@ -1,0 +1,266 @@
+[
+  {
+    "id": "FT-001",
+    "name": "Initial infertility evaluation",
+    "specialty": "Fertility / Reproductive Medicine",
+    "keywords": [
+      "initial infertility evaluation",
+      "infertility",
+      "ivf"
+    ],
+    "costStatus": "needs_centre_quote"
+  },
+  {
+    "id": "FT-002",
+    "name": "Female infertility evaluation",
+    "specialty": "Fertility / Reproductive Medicine",
+    "keywords": [
+      "female infertility evaluation",
+      "infertility",
+      "ivf"
+    ],
+    "costStatus": "needs_centre_quote"
+  },
+  {
+    "id": "FT-003",
+    "name": "Male infertility evaluation",
+    "specialty": "Fertility / Reproductive Medicine",
+    "keywords": [
+      "male infertility evaluation",
+      "infertility",
+      "ivf"
+    ],
+    "costStatus": "needs_centre_quote"
+  },
+  {
+    "id": "FT-004",
+    "name": "IUI",
+    "specialty": "Fertility / Reproductive Medicine",
+    "keywords": [
+      "iui",
+      "infertility",
+      "ivf"
+    ],
+    "costStatus": "needs_centre_quote"
+  },
+  {
+    "id": "FT-005",
+    "name": "IVF",
+    "specialty": "Fertility / Reproductive Medicine",
+    "keywords": [
+      "ivf",
+      "infertility",
+      "ivf"
+    ],
+    "costStatus": "needs_centre_quote"
+  },
+  {
+    "id": "FT-006",
+    "name": "ICSI",
+    "specialty": "Fertility / Reproductive Medicine",
+    "keywords": [
+      "icsi",
+      "infertility",
+      "ivf"
+    ],
+    "costStatus": "needs_centre_quote"
+  },
+  {
+    "id": "FT-007",
+    "name": "Frozen embryo transfer (FET)",
+    "specialty": "Fertility / Reproductive Medicine",
+    "keywords": [
+      "frozen embryo transfer (fet)",
+      "infertility",
+      "ivf"
+    ],
+    "costStatus": "needs_centre_quote"
+  },
+  {
+    "id": "FT-008",
+    "name": "PGT-A",
+    "specialty": "Fertility / Reproductive Medicine",
+    "keywords": [
+      "pgt-a",
+      "infertility",
+      "ivf"
+    ],
+    "costStatus": "needs_centre_quote"
+  },
+  {
+    "id": "FT-009",
+    "name": "PGT-M",
+    "specialty": "Fertility / Reproductive Medicine",
+    "keywords": [
+      "pgt-m",
+      "infertility",
+      "ivf"
+    ],
+    "costStatus": "needs_centre_quote"
+  },
+  {
+    "id": "FT-010",
+    "name": "Egg freezing",
+    "specialty": "Fertility / Reproductive Medicine",
+    "keywords": [
+      "egg freezing",
+      "infertility",
+      "ivf"
+    ],
+    "costStatus": "needs_centre_quote"
+  },
+  {
+    "id": "FT-011",
+    "name": "Embryo freezing",
+    "specialty": "Fertility / Reproductive Medicine",
+    "keywords": [
+      "embryo freezing",
+      "infertility",
+      "ivf"
+    ],
+    "costStatus": "needs_centre_quote"
+  },
+  {
+    "id": "FT-012",
+    "name": "Sperm freezing",
+    "specialty": "Fertility / Reproductive Medicine",
+    "keywords": [
+      "sperm freezing",
+      "infertility",
+      "ivf"
+    ],
+    "costStatus": "needs_centre_quote"
+  },
+  {
+    "id": "FT-013",
+    "name": "Donor egg programme",
+    "specialty": "Fertility / Reproductive Medicine",
+    "keywords": [
+      "donor egg programme",
+      "infertility",
+      "ivf"
+    ],
+    "costStatus": "needs_centre_quote"
+  },
+  {
+    "id": "FT-014",
+    "name": "Donor sperm programme",
+    "specialty": "Fertility / Reproductive Medicine",
+    "keywords": [
+      "donor sperm programme",
+      "infertility",
+      "ivf"
+    ],
+    "costStatus": "needs_centre_quote"
+  },
+  {
+    "id": "FT-015",
+    "name": "Recurrent implantation failure evaluation",
+    "specialty": "Fertility / Reproductive Medicine",
+    "keywords": [
+      "recurrent implantation failure evaluation",
+      "infertility",
+      "ivf"
+    ],
+    "costStatus": "needs_centre_quote"
+  },
+  {
+    "id": "FT-016",
+    "name": "Recurrent pregnancy loss evaluation",
+    "specialty": "Fertility / Reproductive Medicine",
+    "keywords": [
+      "recurrent pregnancy loss evaluation",
+      "infertility",
+      "ivf"
+    ],
+    "costStatus": "needs_centre_quote"
+  },
+  {
+    "id": "FT-017",
+    "name": "PCOS-related infertility",
+    "specialty": "Fertility / Reproductive Medicine",
+    "keywords": [
+      "pcos-related infertility",
+      "infertility",
+      "ivf"
+    ],
+    "costStatus": "needs_centre_quote"
+  },
+  {
+    "id": "FT-018",
+    "name": "Endometriosis-related infertility",
+    "specialty": "Fertility / Reproductive Medicine",
+    "keywords": [
+      "endometriosis-related infertility",
+      "infertility",
+      "ivf"
+    ],
+    "costStatus": "needs_centre_quote"
+  },
+  {
+    "id": "FT-019",
+    "name": "Low ovarian reserve",
+    "specialty": "Fertility / Reproductive Medicine",
+    "keywords": [
+      "low ovarian reserve",
+      "infertility",
+      "ivf"
+    ],
+    "costStatus": "needs_centre_quote"
+  },
+  {
+    "id": "FT-020",
+    "name": "Fertility preservation",
+    "specialty": "Fertility / Reproductive Medicine",
+    "keywords": [
+      "fertility preservation",
+      "infertility",
+      "ivf"
+    ],
+    "costStatus": "needs_centre_quote"
+  },
+  {
+    "id": "FT-021",
+    "name": "Oncofertility",
+    "specialty": "Fertility / Reproductive Medicine",
+    "keywords": [
+      "oncofertility",
+      "infertility",
+      "ivf"
+    ],
+    "costStatus": "needs_centre_quote"
+  },
+  {
+    "id": "FT-022",
+    "name": "TESA",
+    "specialty": "Fertility / Reproductive Medicine",
+    "keywords": [
+      "tesa",
+      "infertility",
+      "ivf"
+    ],
+    "costStatus": "needs_centre_quote"
+  },
+  {
+    "id": "FT-023",
+    "name": "PESA",
+    "specialty": "Fertility / Reproductive Medicine",
+    "keywords": [
+      "pesa",
+      "infertility",
+      "ivf"
+    ],
+    "costStatus": "needs_centre_quote"
+  },
+  {
+    "id": "FT-024",
+    "name": "Micro-TESE",
+    "specialty": "Fertility / Reproductive Medicine",
+    "keywords": [
+      "micro-tese",
+      "infertility",
+      "ivf"
+    ],
+    "costStatus": "needs_centre_quote"
+  }
+]

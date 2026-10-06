@@ -48,3 +48,15 @@
 [data-theme=dark] .verified-panel{background:#082f2a;border-color:#115e59}
 .safe-photo-note{margin-top:16px;font-size:.78rem}
 @media(max-width:620px){.entity-card-head{align-items:flex-start}.entity-icon-lg{width:70px;height:70px}.entity-icon-xl{width:88px;height:88px}.profile-icon-hero,.verified-panel{align-items:flex-start}.verified-panel{flex-direction:column}}
+
+/* V2.1.2 full doctor expansion */
+.entity-photo{overflow:hidden;border-radius:22px;background:var(--soft);border:1px solid var(--line);flex:0 0 auto;display:grid;place-items:center}
+.entity-photo img{width:100%;height:100%;object-fit:cover}
+.entity-photo.photo-fallback img{object-fit:contain;padding:15%}
+.btn-directory{background:#eff6ff;color:#1d4ed8;border:1px solid #bfdbfe}
+[data-theme=dark] .btn-directory{background:#102444;color:#93c5fd;border-color:#244b7a}
+.badge-directory{background:#eff6ff;color:#1d4ed8;border-color:#bfdbfe}
+.doctor-search-panel{padding:14px}
+.doctor-filter-row{display:grid;grid-template-columns:minmax(250px,2fr) minmax(150px,1fr) minmax(180px,1fr);gap:10px;margin-bottom:10px}
+.doctor-filter-row input,.doctor-filter-row select{width:100%;min-height:46px}
+@media(max-width:720px){.doctor-filter-row{grid-template-columns:1fr}.entity-photo.entity-icon-xl{width:88px;height:88px}}

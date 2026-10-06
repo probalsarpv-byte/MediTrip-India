@@ -1,18 +1,34 @@
 [
   {
     "date": "2026-10-06",
-    "version": "production-v2.1.1",
+    "version": "production-v2.1.2-full-doctor-expansion",
     "scope": {
-      "hospitals": 19,
-      "doctors": 46,
+      "hospitals": 127,
+      "doctors": 1093,
+      "fertilityCentres": 100,
+      "fertilitySpecialists": 201,
+      "fertilityTreatments": 24,
       "treatments": 15,
       "cities": 5,
       "stays": 0,
       "phrases": 500,
-      "sources": 35
+      "sources": 36
     },
-    "method": "Official hospital/doctor source records retained. Hospital and doctor UI uses neutral icons; profiles expose verified official links. Real doctor photos are not displayed unless reuse is cleared.",
-    "status": "final_integrated_build",
+    "doctorCityCounts": {
+      "Unknown": 46,
+      "Bangalore": 224,
+      "Delhi": 224,
+      "Chennai": 263,
+      "Mumbai": 293,
+      "Kolkata": 43
+    },
+    "doctorSourceCounts": {
+      "official/source-linked": 46,
+      "practo_derived_dataset": 1004,
+      "practo_current_directory": 43
+    },
+    "method": "Existing official/source-linked doctor records retained. Large directory expansion uses a Practo-derived structured dataset plus current Practo Kolkata directory results. Official and directory source labels are separated in UI. Exact profile photo is shown only when a source-linked image URL is stored; otherwise the doctor icon is used.",
+    "status": "major_database_expansion",
     "nextReviewDue": "2026-12-05"
   }
 ]

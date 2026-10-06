@@ -1,0 +1,7 @@
+{
+  "doctorRecords": 1093,
+  "doctorExactPhotoUrls": 1,
+  "hospitalRecords": 127,
+  "hospitalExternalPhotoUrls": 0,
+  "fallbackPolicy": "doctor/hospital SVG icon when exact source image URL is unavailable or broken"
+}
