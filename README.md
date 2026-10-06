@@ -1,38 +1,54 @@
-# MediTrip India — Production V2.1.2 Corrected
+# MediTrip India — Production V2.1.3
 
-## Corrected production database
-- Hospitals: **127**
-- Public doctor records: **1040**
-- Quarantined doctor records: **53**
-- Fertility / ART centres: **100**
-- Fertility specialist records: **201**
-- Multilingual medical-travel phrases: **500**
+## Core database
+- Hospitals: 127
+- Public doctors: 1040
+- Fertility / ART centres: 100
+- Fertility specialists: 201
+- Medical regions: 6
+- Medical-travel phrases: 500
 
-## Corrections in this build
-- Filled city for **46** hospital-linked doctor records from the linked hospital.
-- Relabelled **1047** Practo-derived/current records as **Practo Directory Listing**.
-- Directory/category links are no longer described as individual verified doctor profiles.
-- Applied **13** specialty corrections where qualification clearly supported another specialty.
-- Moved **53** conflicting imported doctor records out of the public database into `data/doctors.quarantine.json`.
-- Hid **5** suspicious ₹0/₹99 doctor fee values pending review.
-- Regenerated `offline-db.json` from the corrected production data.
+## V2.1.3 changes
+### UI / search
+- Home quick actions use a balanced responsive grid.
+- Desktop hero typography reduced and search bar centered/widened.
+- Desktop nav collapses earlier to avoid crowding.
+- Removed conflicting mobile hero rules.
+- Search now returns up to 5 results **per category** instead of globally truncating at 20.
+- Added basic typo-tolerant matching.
+- Doctor directory uses medical-region filters and Load More.
+- Delhi/NCR, Bengaluru/Bangalore, Kolkata/Howrah and Mumbai/Navi Mumbai are grouped into canonical medical regions.
+- Mumbai added to Medical Cities.
+- Hospital profile is photo-aware when a source image exists.
 
-## Source labels
-The app distinguishes:
-- Verified Official Profile — only when an individual official profile is explicitly confirmed.
-- Official Doctor Listing — official hospital doctor-directory page.
-- Official Hospital Source — source-linked hospital page.
-- Practo Directory Listing — directory/category source; **individual doctor profile not verified in this record**.
+### My Medical Trip
+- Readiness score
+- Trip snapshot: destination, travel date, appointment, selected hospital, attendant
+- 12-item medical travel checklist
+- Local notes
+- Saved hospitals
+- Quick links to cost, visa, language and emergency
+- Printable travel pack
+- Data remains local to the browser
 
-## Data quality files
-- `data/data-quality-report.json`
-- `data/doctors.quarantine.json`
-- `data/verification-log.json`
+### Medical Visa
+- Bangladesh → India medical visa workflow
+- M1/M2/M3/M4 category cards
+- Interactive patient document checklist
+- Current IVAC urgent-medical-slot advisory, checked 2026-10-06
+- Official Bangladesh visa application and IVAC appointment links
+- IVAC fee / scam warning
+- Hospital-change / FRRO warning
 
-## Photos
-The existing photo-aware UI remains:
-- exact source-linked photo URL -> display photo
-- missing/broken photo -> doctor/hospital SVG icon fallback
-- no guessed face is inserted.
+### Emergency
+- One-tap India emergency number 112
+- Nearest emergency-hospital map search
+- Local emergency medical card
+- Full-screen “Show to staff” view
+- Medical red-flag guide
+- Secondary 108 / 102 information
+- Bangladesh High Commission New Delhi + Kolkata mission contacts
+- Saved hospital call/map shortcuts
 
-Upload the contents of this ZIP to the GitHub repository root.
+## Important
+Visa and emergency information can change. V2.1.3 exposes the official source links and `lastVerified` dates so users can re-check current rules.

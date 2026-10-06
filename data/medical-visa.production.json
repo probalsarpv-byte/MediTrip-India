@@ -1,0 +1,143 @@
+{
+  "version": "2.1.3",
+  "lastVerified": "2026-10-06",
+  "audience": "Bangladesh nationals travelling to India for medical treatment",
+  "currentAdvisory": {
+    "title": "Limited urgent medical visa appointment slots",
+    "text": "IVAC Bangladesh currently states that Dhaka, Chittagong, Rajshahi, Sylhet and Khulna are offering limited appointment slots for urgent medical and other emergency visa cases. Check the live IVAC notice before planning travel.",
+    "sourceUrl": "https://www.ivacbd.com/advisory-1"
+  },
+  "visaTypes": [
+    {
+      "code": "M1",
+      "label": "Medical Visa — Patient",
+      "description": "For a patient travelling to India for medical treatment."
+    },
+    {
+      "code": "M2",
+      "label": "Medical Attendant — Attendant",
+      "description": "For a medical attendant accompanying the patient."
+    },
+    {
+      "code": "M3",
+      "label": "Medical Visa — AYUSH",
+      "description": "For treatment under Ayurveda, Yoga & Naturopathy, Unani, Siddha or Homeopathy."
+    },
+    {
+      "code": "M4",
+      "label": "Medical Attendant — AYUSH",
+      "description": "Attendant for an M3 medical patient."
+    }
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Get Indian hospital appointment",
+      "text": "Obtain an appointment/admission letter from the designated Indian hospital. It should identify the patient and, where applicable, the attendant."
+    },
+    {
+      "step": 2,
+      "title": "Apply online",
+      "text": "Complete the official Bangladesh-to-India online visa application and keep the web file/reference number."
+    },
+    {
+      "step": 3,
+      "title": "Book IVAC appointment & pay service charge",
+      "text": "Use the IVAC appointment system, subject to slot availability and current advisories."
+    },
+    {
+      "step": 4,
+      "title": "Submit documents at IVAC",
+      "text": "Submit passport, printed application and category-specific documents at the selected IVAC."
+    },
+    {
+      "step": 5,
+      "title": "Collect passport & verify visa details",
+      "text": "Check the designated hospital, visa category, validity and entries before travel."
+    }
+  ],
+  "patientChecklist": [
+    {
+      "id": "passport",
+      "label": "Original passport with at least 6 months validity and 2 blank pages"
+    },
+    {
+      "id": "oldpassports",
+      "label": "Old passport(s), if applicable"
+    },
+    {
+      "id": "photo",
+      "label": "Recent 2×2 colour photo with white background"
+    },
+    {
+      "id": "nid",
+      "label": "Bangladesh NID or Birth Certificate, as applicable"
+    },
+    {
+      "id": "residence",
+      "label": "Proof of residence required by current IVAC checklist"
+    },
+    {
+      "id": "finance",
+      "label": "Proof of financial soundness as required by current IVAC checklist"
+    },
+    {
+      "id": "profession",
+      "label": "Proof of profession / student / retirement status, as applicable"
+    },
+    {
+      "id": "bdreports",
+      "label": "Medical documents and reports from Bangladesh"
+    },
+    {
+      "id": "appointment",
+      "label": "Valid appointment letter from the designated Indian hospital"
+    },
+    {
+      "id": "copies",
+      "label": "Photocopies / printouts of application and supporting documents"
+    }
+  ],
+  "important": [
+    "The High Commission / IVAC may request additional documents.",
+    "The designated hospital on a medical visa matters; changing hospital may require FRRO permission.",
+    "Do not pay agents for 'guaranteed' appointment slots.",
+    "Check current appointment availability before booking non-refundable travel."
+  ],
+  "fees": {
+    "governmentVisaFeeForBangladeshiNationals": "No Government of India visa fee under the current policy stated by IVAC Bangladesh.",
+    "ivacProcessingFee": "BDT 1,500 all-inclusive service charge, effective 10 August 2025 according to the current IVAC notice."
+  },
+  "officialLinks": [
+    {
+      "label": "IVAC Bangladesh",
+      "url": "https://www.ivacbd.com/",
+      "type": "official_application_centre"
+    },
+    {
+      "label": "Online visa application",
+      "url": "https://www.indianvisa-bangladesh.nic.in/visa",
+      "type": "official_application"
+    },
+    {
+      "label": "IVAC Appointment Management System",
+      "url": "https://appointment.ivacbd.com",
+      "type": "official_appointment"
+    },
+    {
+      "label": "Medical visa document requirements",
+      "url": "https://ivacbd.com/for-bangladeshi-nationals-18",
+      "type": "official_documents"
+    },
+    {
+      "label": "Medical visa hospital-change advisory",
+      "url": "https://ivacbd.com/important-advisory-for-medical-visa",
+      "type": "official_advisory"
+    },
+    {
+      "label": "Indian e-Visa portal — check eligibility before use",
+      "url": "https://indianvisaonline.gov.in/evisa/",
+      "type": "government_portal"
+    }
+  ]
+}

@@ -9,6 +9,15 @@
       "Bengali",
       "Hindi",
       "English"
+    ],
+    "coveredCities": [
+      "Kolkata",
+      "Howrah"
+    ],
+    "aliases": [
+      "Kolkata",
+      "Calcutta",
+      "Howrah"
     ]
   },
   {
@@ -21,6 +30,13 @@
       "Tamil",
       "English",
       "Hindi"
+    ],
+    "coveredCities": [
+      "Chennai"
+    ],
+    "aliases": [
+      "Chennai",
+      "Madras"
     ]
   },
   {
@@ -33,6 +49,12 @@
       "Telugu",
       "Hindi",
       "English"
+    ],
+    "coveredCities": [
+      "Hyderabad"
+    ],
+    "aliases": [
+      "Hyderabad"
     ]
   },
   {
@@ -44,6 +66,22 @@
     "languagePriority": [
       "Hindi",
       "English"
+    ],
+    "coveredCities": [
+      "Delhi",
+      "New Delhi",
+      "Gurugram",
+      "Noida",
+      "Faridabad"
+    ],
+    "aliases": [
+      "Delhi",
+      "Delhi NCR",
+      "New Delhi",
+      "Gurgaon",
+      "Gurugram",
+      "Noida",
+      "Faridabad"
     ]
   },
   {
@@ -56,6 +94,36 @@
       "English",
       "Kannada",
       "Hindi"
+    ],
+    "coveredCities": [
+      "Bengaluru",
+      "Bangalore"
+    ],
+    "aliases": [
+      "Bengaluru",
+      "Bangalore"
     ]
+  },
+  {
+    "id": "CITY-MUM",
+    "name": "Mumbai",
+    "state": "Maharashtra",
+    "country": "India",
+    "priorityForBangladesh": "high",
+    "languagePriority": [
+      "Hindi",
+      "English",
+      "Marathi"
+    ],
+    "coveredCities": [
+      "Mumbai",
+      "Navi Mumbai"
+    ],
+    "aliases": [
+      "Mumbai",
+      "Bombay",
+      "Navi Mumbai"
+    ],
+    "notes": "Major multispecialty, oncology, cardiac, transplant and tertiary-care hub."
   }
 ]

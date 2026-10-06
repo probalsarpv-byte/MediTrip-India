@@ -1,0 +1,69 @@
+{
+  "version": "2.1.3",
+  "lastVerified": "2026-10-06",
+  "indiaEmergency": {
+    "primary": {
+      "number": "112",
+      "label": "India Emergency Response Support System",
+      "covers": [
+        "Police",
+        "Fire",
+        "Ambulance/medical emergency",
+        "Women/child safety and other distress"
+      ],
+      "sourceUrl": "https://www.mha.gov.in/en/commoncontent/emergency-response-support-system-erss"
+    },
+    "secondary": [
+      {
+        "number": "108",
+        "label": "Ambulance / emergency health service in many states",
+        "note": "Availability and integration vary by state; use 112 as the primary nationwide emergency number."
+      },
+      {
+        "number": "102",
+        "label": "Health / ambulance transport in some states",
+        "note": "State-specific service; use 112 for a nationwide emergency request."
+      }
+    ]
+  },
+  "redFlags": [
+    "Severe chest pain, pressure or suspected heart attack",
+    "Sudden facial droop, arm weakness or speech difficulty",
+    "Severe breathing difficulty or blue lips",
+    "Uncontrolled bleeding or major trauma",
+    "Loss of consciousness, prolonged seizure or sudden severe confusion",
+    "Severe allergic reaction with swelling or breathing difficulty"
+  ],
+  "bangladeshMissions": [
+    {
+      "city": "New Delhi",
+      "name": "Bangladesh High Commission, New Delhi",
+      "phone": "+91 11 2412 1391",
+      "consularWhatsApp": "+91 85275 08281",
+      "passportVisaWhatsApp": "+91 88002 13179",
+      "email": "mission.newdelhi@mofa.gov.bd",
+      "url": "https://newdelhi.mofa.gov.bd/"
+    },
+    {
+      "city": "Kolkata",
+      "name": "Bangladesh Deputy High Commission, Kolkata",
+      "phone": "+91 33 4012 7500",
+      "email": "mission.kolkata@mofa.gov.bd",
+      "url": "https://kolkata.mofa.gov.bd/"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Ministry of Home Affairs — ERSS 112",
+      "url": "https://www.mha.gov.in/en/commoncontent/emergency-response-support-system-erss"
+    },
+    {
+      "label": "Bangladesh High Commission, New Delhi",
+      "url": "https://newdelhi.mofa.gov.bd/"
+    },
+    {
+      "label": "Bangladesh Deputy High Commission, Kolkata",
+      "url": "https://kolkata.mofa.gov.bd/"
+    }
+  ]
+}

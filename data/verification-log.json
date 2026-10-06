@@ -1,6 +1,23 @@
 [
   {
     "date": "2026-10-06",
+    "version": "production-v2.1.3-redesign",
+    "status": "ui_search_trip_visa_emergency_redesign",
+    "changes": {
+      "medicalCities": 6,
+      "groupedSearch": "independent top-5 results per category with typo tolerance",
+      "doctorDirectory": "region-normalized filters + load-more",
+      "myTrip": "readiness score, trip snapshot, 12-item checklist, local notes, print pack",
+      "medicalVisa": "Bangladesh-specific IVAC workflow, official links, interactive checklist, current advisory",
+      "emergency": "112 call, emergency medical card, red flags, mission contacts, saved-hospital actions"
+    },
+    "sourceReview": {
+      "visa": "IVAC Bangladesh / High Commission of India sources checked 2026-10-06",
+      "emergency": "India MHA ERSS 112 and Bangladesh mission sources checked 2026-10-06"
+    }
+  },
+  {
+    "date": "2026-10-06",
     "version": "production-v2.1.2-corrected",
     "scope": {
       "hospitals": 127,
