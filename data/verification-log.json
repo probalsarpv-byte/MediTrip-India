@@ -1,18 +1,18 @@
 [
   {
-    "date": "2026-10-05",
-    "version": "production-db-v1.2",
+    "date": "2026-10-06",
+    "version": "production-v2.1.1",
     "scope": {
       "hospitals": 19,
-      "doctors": 42,
+      "doctors": 46,
       "treatments": 15,
       "cities": 5,
-      "hostels": 8,
-      "phrases": 17,
+      "stays": 0,
+      "phrases": 500,
       "sources": 35
     },
-    "method": "Official pages primary. Doctor enrichment from hospital specialty pages & reputable directories. Hostels are directory-style suggestions only. Images illustrative/avatar per policy.",
-    "status": "enriched_batch",
+    "method": "Official hospital/doctor source records retained. Hospital and doctor UI uses neutral icons; profiles expose verified official links. Real doctor photos are not displayed unless reuse is cleared.",
+    "status": "final_integrated_build",
     "nextReviewDue": "2026-12-05"
   }
 ]

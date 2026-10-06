@@ -6,12 +6,8 @@
     "specialty": "Gastroenterology & Hepatology",
     "role": null,
     "experienceYears": 45,
-    "languages": [
-      "English",
-      "Hindi",
-      "Bengali"
-    ],
-    "qualification": "MD, DM (Gastroenterology)",
+    "languages": [],
+    "qualification": null,
     "photo": {
       "status": "needs_official_profile_fetch"
     },
@@ -19,7 +15,10 @@
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_APOLLO_KOL_DOC"
-    ]
+    ],
+    "verifiedLink": "https://www.apollohospitals.com/book-doctor-appointment/kolkata",
+    "profileUrl": "https://www.apollohospitals.com/book-doctor-appointment/kolkata",
+    "photoStatus": "icon_display"
   },
   {
     "id": "D-KOL-002",
@@ -28,11 +27,7 @@
     "specialty": "Cardiology",
     "role": "Senior Interventional Cardiologist",
     "experienceYears": 42,
-    "languages": [
-      "English",
-      "Hindi",
-      "Bengali"
-    ],
+    "languages": [],
     "qualification": "MD, Diploma in Cardiology, FCCP",
     "photo": {
       "status": "needs_official_profile_fetch"
@@ -41,7 +36,10 @@
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_APOLLO_KOL_DOC"
-    ]
+    ],
+    "verifiedLink": "https://www.apollohospitals.com/book-doctor-appointment/kolkata",
+    "profileUrl": "https://www.apollohospitals.com/book-doctor-appointment/kolkata",
+    "photoStatus": "icon_display"
   },
   {
     "id": "D-KOL-003",
@@ -59,7 +57,10 @@
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_APOLLO_KOL"
-    ]
+    ],
+    "verifiedLink": "https://www.apollohospitals.com/kolkata",
+    "profileUrl": "https://www.apollohospitals.com/kolkata",
+    "photoStatus": "icon_display"
   },
   {
     "id": "D-KOL-004",
@@ -77,7 +78,10 @@
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_APOLLO_KOL"
-    ]
+    ],
+    "verifiedLink": "https://www.apollohospitals.com/kolkata",
+    "profileUrl": "https://www.apollohospitals.com/kolkata",
+    "photoStatus": "icon_display"
   },
   {
     "id": "D-KOL-005",
@@ -95,7 +99,10 @@
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_FORTIS_KOL"
-    ]
+    ],
+    "verifiedLink": "https://www.fortishealthcare.com/location/fortis-hospital-anandapur-kolkata",
+    "profileUrl": "https://www.fortishealthcare.com/location/fortis-hospital-anandapur-kolkata",
+    "photoStatus": "icon_display"
   },
   {
     "id": "D-KOL-006",
@@ -113,7 +120,10 @@
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_FORTIS_KOL"
-    ]
+    ],
+    "verifiedLink": "https://www.fortishealthcare.com/location/fortis-hospital-anandapur-kolkata",
+    "profileUrl": "https://www.fortishealthcare.com/location/fortis-hospital-anandapur-kolkata",
+    "photoStatus": "icon_display"
   },
   {
     "id": "D-CHN-001",
@@ -131,7 +141,10 @@
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_MGM_DOC"
-    ]
+    ],
+    "verifiedLink": "https://mgmhealthcare.in/all-doctors/",
+    "profileUrl": "https://mgmhealthcare.in/all-doctors/",
+    "photoStatus": "icon_display"
   },
   {
     "id": "D-CHN-002",
@@ -149,7 +162,10 @@
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_MGM_DOC"
-    ]
+    ],
+    "verifiedLink": "https://mgmhealthcare.in/all-doctors/",
+    "profileUrl": "https://mgmhealthcare.in/all-doctors/",
+    "photoStatus": "icon_display"
   },
   {
     "id": "D-CHN-003",
@@ -167,7 +183,10 @@
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_MGM_DOC"
-    ]
+    ],
+    "verifiedLink": "https://mgmhealthcare.in/all-doctors/",
+    "profileUrl": "https://mgmhealthcare.in/all-doctors/",
+    "photoStatus": "icon_display"
   },
   {
     "id": "D-HYD-001",
@@ -189,7 +208,10 @@
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_YASHODA_CARD"
-    ]
+    ],
+    "verifiedLink": "https://www.yashodahospitals.com/specialities/cardiology/doctors/hitec-city/",
+    "profileUrl": "https://www.yashodahospitals.com/specialities/cardiology/doctors/hitec-city/",
+    "photoStatus": "icon_display"
   },
   {
     "id": "D-HYD-002",
@@ -212,7 +234,10 @@
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_YASHODA_CARD"
-    ]
+    ],
+    "verifiedLink": "https://www.yashodahospitals.com/specialities/cardiology/doctors/hitec-city/",
+    "profileUrl": "https://www.yashodahospitals.com/specialities/cardiology/doctors/hitec-city/",
+    "photoStatus": "icon_display"
   },
   {
     "id": "D-HYD-003",
@@ -220,34 +245,8 @@
     "hospitalId": "H-HYD-003",
     "specialty": "Gastroenterology",
     "role": "Chairman & Chief of Gastroenterology",
-    "experienceYears": 40,
-    "languages": [
-      "English",
-      "Telugu",
-      "Hindi"
-    ],
-    "qualification": "MD, DM (Gastroenterology)",
-    "photo": {
-      "status": "needs_official_profile_fetch"
-    },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
-    "sources": [
-      "SRC_AIG_DOC"
-    ]
-  },
-  {
-    "id": "D-HYD-004",
-    "name": "Dr G. V. Rao",
-    "hospitalId": "H-HYD-003",
-    "specialty": "Surgical Gastroenterology & Minimally Invasive Surgery",
-    "role": "Chief",
-    "experienceYears": 35,
-    "languages": [
-      "English",
-      "Telugu",
-      "Hindi"
-    ],
+    "experienceYears": null,
+    "languages": [],
     "qualification": null,
     "photo": {
       "status": "needs_official_profile_fetch"
@@ -256,7 +255,31 @@
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_AIG_DOC"
-    ]
+    ],
+    "verifiedLink": "https://aighospitals.com/gcb/doctors",
+    "profileUrl": "https://aighospitals.com/gcb/doctors",
+    "photoStatus": "icon_display"
+  },
+  {
+    "id": "D-HYD-004",
+    "name": "Dr G. V. Rao",
+    "hospitalId": "H-HYD-003",
+    "specialty": "Surgical Gastroenterology & Minimally Invasive Surgery",
+    "role": "Chief",
+    "experienceYears": null,
+    "languages": [],
+    "qualification": null,
+    "photo": {
+      "status": "needs_official_profile_fetch"
+    },
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_AIG_DOC"
+    ],
+    "verifiedLink": "https://aighospitals.com/gcb/doctors",
+    "profileUrl": "https://aighospitals.com/gcb/doctors",
+    "photoStatus": "icon_display"
   },
   {
     "id": "D-HYD-005",
@@ -274,7 +297,10 @@
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_AIG_DOC"
-    ]
+    ],
+    "verifiedLink": "https://aighospitals.com/gcb/doctors",
+    "profileUrl": "https://aighospitals.com/gcb/doctors",
+    "photoStatus": "icon_display"
   },
   {
     "id": "D-NCR-001",
@@ -282,20 +308,25 @@
     "hospitalId": "H-NCR-001",
     "specialty": "Cardiac Surgery",
     "role": "Chairman, Managing Director and Chief Cardiac Surgeon",
-    "experienceYears": 45,
-    "languages": [
-      "English",
-      "Hindi"
-    ],
+    "experienceYears": null,
+    "languages": [],
     "qualification": "Diplomate - American Board of Thoracic Surgery; Diplomate - American Board of Surgery",
     "photo": {
-      "status": "needs_official_profile_fetch"
+      "url": "https://medanta.s3.ap-south-1.amazonaws.com/all-doctor-with-slug/dr-naresh-trehan.png",
+      "sourcePage": "https://www.medanta.org/doctor-listing/cardiology-doctors",
+      "isVerifiedIdentity": true,
+      "reuseStatus": "not_cleared",
+      "hotlinkStatus": "not_verified",
+      "status": "verified_identity_reuse_pending"
     },
     "verificationStatus": "verified_official",
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_MEDANTA_CARD"
-    ]
+    ],
+    "verifiedLink": "https://www.medanta.org/doctor-listing/cardiology-doctors",
+    "profileUrl": "https://www.medanta.org/doctor-listing/cardiology-doctors",
+    "photoStatus": "verified_identity_reuse_pending"
   },
   {
     "id": "D-NCR-002",
@@ -303,11 +334,8 @@
     "hospitalId": "H-NCR-001",
     "specialty": "Cardiology",
     "role": "Chairman",
-    "experienceYears": 40,
-    "languages": [
-      "English",
-      "Hindi"
-    ],
+    "experienceYears": null,
+    "languages": [],
     "qualification": "DM (Cardiology), MD (General Medicine), MBBS",
     "photo": {
       "status": "needs_official_profile_fetch"
@@ -316,7 +344,10 @@
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_MEDANTA_CARD"
-    ]
+    ],
+    "verifiedLink": "https://www.medanta.org/doctor-listing/cardiology-doctors",
+    "profileUrl": "https://www.medanta.org/doctor-listing/cardiology-doctors",
+    "photoStatus": "icon_display"
   },
   {
     "id": "D-NCR-003",
@@ -324,11 +355,8 @@
     "hospitalId": "H-NCR-001",
     "specialty": "Medical Oncology",
     "role": "Chairman, Cancer Care",
-    "experienceYears": 30,
-    "languages": [
-      "English",
-      "Hindi"
-    ],
+    "experienceYears": null,
+    "languages": [],
     "qualification": "DM (Medical Oncology), MD (General Medicine), MBBS",
     "photo": {
       "status": "needs_official_profile_fetch"
@@ -337,7 +365,10 @@
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_MEDANTA_ONC"
-    ]
+    ],
+    "verifiedLink": "https://www.medanta.org/doctor-listing/oncology-doctors",
+    "profileUrl": "https://www.medanta.org/doctor-listing/oncology-doctors",
+    "photoStatus": "icon_display"
   },
   {
     "id": "D-NCR-004",
@@ -345,11 +376,8 @@
     "hospitalId": "H-NCR-001",
     "specialty": "Neurology",
     "role": "Chairman, Neurosciences",
-    "experienceYears": 25,
-    "languages": [
-      "English",
-      "Hindi"
-    ],
+    "experienceYears": null,
+    "languages": [],
     "qualification": "DM (Neurology), MD (General Medicine), MBBS",
     "photo": {
       "status": "needs_official_profile_fetch"
@@ -358,7 +386,10 @@
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_MEDANTA_NEURO"
-    ]
+    ],
+    "verifiedLink": "https://www.medanta.org/doctor-listing/neurology-doctors-in-gurugram",
+    "profileUrl": "https://www.medanta.org/doctor-listing/neurology-doctors-in-gurugram",
+    "photoStatus": "icon_display"
   },
   {
     "id": "D-NCR-005",
@@ -376,7 +407,10 @@
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_FMRI"
-    ]
+    ],
+    "verifiedLink": "https://www.fortishealthcare.com/location/fortis-memorial-research-institute-gurgaon",
+    "profileUrl": "https://www.fortishealthcare.com/location/fortis-memorial-research-institute-gurgaon",
+    "photoStatus": "icon_display"
   },
   {
     "id": "D-NCR-006",
@@ -394,7 +428,10 @@
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_FMRI"
-    ]
+    ],
+    "verifiedLink": "https://www.fortishealthcare.com/location/fortis-memorial-research-institute-gurgaon",
+    "profileUrl": "https://www.fortishealthcare.com/location/fortis-memorial-research-institute-gurgaon",
+    "photoStatus": "icon_display"
   },
   {
     "id": "D-NCR-007",
@@ -412,7 +449,10 @@
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_FMRI"
-    ]
+    ],
+    "verifiedLink": "https://www.fortishealthcare.com/location/fortis-memorial-research-institute-gurgaon",
+    "profileUrl": "https://www.fortishealthcare.com/location/fortis-memorial-research-institute-gurgaon",
+    "photoStatus": "icon_display"
   },
   {
     "id": "D-NCR-008",
@@ -430,7 +470,10 @@
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_MAX_SAKET"
-    ]
+    ],
+    "verifiedLink": "https://www.maxhealthcare.in/hospital-network/max-super-speciality-hospital-saket",
+    "profileUrl": "https://www.maxhealthcare.in/hospital-network/max-super-speciality-hospital-saket",
+    "photoStatus": "icon_display"
   },
   {
     "id": "D-NCR-009",
@@ -448,7 +491,10 @@
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_MAX_SAKET"
-    ]
+    ],
+    "verifiedLink": "https://www.maxhealthcare.in/hospital-network/max-super-speciality-hospital-saket",
+    "profileUrl": "https://www.maxhealthcare.in/hospital-network/max-super-speciality-hospital-saket",
+    "photoStatus": "icon_display"
   },
   {
     "id": "D-NCR-010",
@@ -466,7 +512,10 @@
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_MAX_SAKET"
-    ]
+    ],
+    "verifiedLink": "https://www.maxhealthcare.in/hospital-network/max-super-speciality-hospital-saket",
+    "profileUrl": "https://www.maxhealthcare.in/hospital-network/max-super-speciality-hospital-saket",
+    "photoStatus": "icon_display"
   },
   {
     "id": "D-NCR-011",
@@ -484,7 +533,10 @@
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_ARTEMIS_ONC"
-    ]
+    ],
+    "verifiedLink": "https://www.artemishospitals.com/specialities/oncology",
+    "profileUrl": "https://www.artemishospitals.com/specialities/oncology",
+    "photoStatus": "icon_display"
   },
   {
     "id": "D-NCR-012",
@@ -502,7 +554,10 @@
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_ARTEMIS_ONC"
-    ]
+    ],
+    "verifiedLink": "https://www.artemishospitals.com/specialities/oncology",
+    "profileUrl": "https://www.artemishospitals.com/specialities/oncology",
+    "photoStatus": "icon_display"
   },
   {
     "id": "D-BLR-001",
@@ -510,12 +565,8 @@
     "hospitalId": "H-BLR-002",
     "specialty": "Cardiology & Interventional Cardiology",
     "role": "Lead Consultant",
-    "experienceYears": 20,
-    "languages": [
-      "English",
-      "Kannada",
-      "Hindi"
-    ],
+    "experienceYears": null,
+    "languages": [],
     "qualification": null,
     "photo": {
       "status": "needs_official_profile_fetch"
@@ -524,7 +575,10 @@
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_ASTER_CARD"
-    ]
+    ],
+    "verifiedLink": "https://www.asterhospitals.in/hospitals/aster-cmi-bangalore/center-of-excellences/cardiac-sciences",
+    "profileUrl": "https://www.asterhospitals.in/hospitals/aster-cmi-bangalore/center-of-excellences/cardiac-sciences",
+    "photoStatus": "icon_display"
   },
   {
     "id": "D-BLR-002",
@@ -532,12 +586,8 @@
     "hospitalId": "H-BLR-002",
     "specialty": "Cardiovascular & Thoracic Surgery",
     "role": "Lead Consultant",
-    "experienceYears": 25,
-    "languages": [
-      "English",
-      "Kannada",
-      "Hindi"
-    ],
+    "experienceYears": null,
+    "languages": [],
     "qualification": "MBBS, MS, MCh",
     "photo": {
       "status": "needs_official_profile_fetch"
@@ -546,7 +596,10 @@
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_ASTER_CARD"
-    ]
+    ],
+    "verifiedLink": "https://www.asterhospitals.in/hospitals/aster-cmi-bangalore/center-of-excellences/cardiac-sciences",
+    "profileUrl": "https://www.asterhospitals.in/hospitals/aster-cmi-bangalore/center-of-excellences/cardiac-sciences",
+    "photoStatus": "icon_display"
   },
   {
     "id": "D-BLR-003",
@@ -564,7 +617,10 @@
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_ASTER_CMI"
-    ]
+    ],
+    "verifiedLink": "https://www.asterhospitals.in/hospitals/aster-cmi-bangalore",
+    "profileUrl": "https://www.asterhospitals.in/hospitals/aster-cmi-bangalore",
+    "photoStatus": "icon_display"
   },
   {
     "id": "D-BLR-004",
@@ -572,12 +628,8 @@
     "hospitalId": "H-BLR-002",
     "specialty": "Breast Oncology & Oncoplasty",
     "role": "Lead & HOD",
-    "experienceYears": 15,
-    "languages": [
-      "English",
-      "Kannada",
-      "Hindi"
-    ],
+    "experienceYears": null,
+    "languages": [],
     "qualification": null,
     "photo": {
       "status": "needs_official_profile_fetch"
@@ -586,7 +638,10 @@
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_ASTER_CMI"
-    ]
+    ],
+    "verifiedLink": "https://www.asterhospitals.in/hospitals/aster-cmi-bangalore",
+    "profileUrl": "https://www.asterhospitals.in/hospitals/aster-cmi-bangalore",
+    "photoStatus": "icon_display"
   },
   {
     "id": "D-CHN-004",
@@ -602,13 +657,16 @@
     ],
     "qualification": "MBBS, MD, DM (Cardiology)",
     "photo": {
-      "status": "avatar_fallback"
+      "status": "icon_fallback"
     },
     "verificationStatus": "verified_official",
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_APOLLO_CHN"
-    ]
+    ],
+    "verifiedLink": "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai",
+    "profileUrl": "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai",
+    "photoStatus": "icon_display"
   },
   {
     "id": "D-CHN-005",
@@ -624,13 +682,16 @@
     ],
     "qualification": "MBBS, MD, DM (Cardiology), DNB",
     "photo": {
-      "status": "avatar_fallback"
+      "status": "icon_fallback"
     },
     "verificationStatus": "verified_official",
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_APOLLO_CHN"
-    ]
+    ],
+    "verifiedLink": "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai",
+    "profileUrl": "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai",
+    "photoStatus": "icon_display"
   },
   {
     "id": "D-CHN-006",
@@ -645,13 +706,16 @@
     ],
     "qualification": "MBBS, MD, DM (Medical Oncology)",
     "photo": {
-      "status": "avatar_fallback"
+      "status": "icon_fallback"
     },
     "verificationStatus": "verified_official",
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_APOLLO_CHN"
-    ]
+    ],
+    "verifiedLink": "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai",
+    "profileUrl": "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai",
+    "photoStatus": "icon_display"
   },
   {
     "id": "D-CHN-007",
@@ -666,13 +730,16 @@
     ],
     "qualification": "MBBS, MS (Ortho)",
     "photo": {
-      "status": "avatar_fallback"
+      "status": "icon_fallback"
     },
     "verificationStatus": "verified_official",
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_MIOT"
-    ]
+    ],
+    "verifiedLink": "https://www.miotinternational.com/",
+    "profileUrl": "https://www.miotinternational.com/",
+    "photoStatus": "icon_display"
   },
   {
     "id": "D-CHN-008",
@@ -687,13 +754,16 @@
     ],
     "qualification": "MBBS, MS, MCh",
     "photo": {
-      "status": "avatar_fallback"
+      "status": "icon_fallback"
     },
     "verificationStatus": "verified_official",
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_MIOT"
-    ]
+    ],
+    "verifiedLink": "https://www.miotinternational.com/",
+    "profileUrl": "https://www.miotinternational.com/",
+    "photoStatus": "icon_display"
   },
   {
     "id": "D-CHN-009",
@@ -708,13 +778,16 @@
     ],
     "qualification": "MBBS, MD, DM",
     "photo": {
-      "status": "avatar_fallback"
+      "status": "icon_fallback"
     },
     "verificationStatus": "verified_official",
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_MIOT"
-    ]
+    ],
+    "verifiedLink": "https://www.miotinternational.com/",
+    "profileUrl": "https://www.miotinternational.com/",
+    "photoStatus": "icon_display"
   },
   {
     "id": "D-BLR-005",
@@ -730,13 +803,16 @@
     ],
     "qualification": "MBBS, MD, DM",
     "photo": {
-      "status": "avatar_fallback"
+      "status": "icon_fallback"
     },
     "verificationStatus": "verified_official",
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_MANIPAL_OAR"
-    ]
+    ],
+    "verifiedLink": "https://www.manipalhospitals.com/oldairportroad/hospitals/",
+    "profileUrl": "https://www.manipalhospitals.com/oldairportroad/hospitals/",
+    "photoStatus": "icon_display"
   },
   {
     "id": "D-BLR-006",
@@ -752,13 +828,16 @@
     ],
     "qualification": "MBBS, MS, MCh",
     "photo": {
-      "status": "avatar_fallback"
+      "status": "icon_fallback"
     },
     "verificationStatus": "verified_official",
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_MANIPAL_OAR"
-    ]
+    ],
+    "verifiedLink": "https://www.manipalhospitals.com/oldairportroad/hospitals/",
+    "profileUrl": "https://www.manipalhospitals.com/oldairportroad/hospitals/",
+    "photoStatus": "icon_display"
   },
   {
     "id": "D-BLR-007",
@@ -773,13 +852,16 @@
     ],
     "qualification": "MBBS, MD, DM",
     "photo": {
-      "status": "avatar_fallback"
+      "status": "icon_fallback"
     },
     "verificationStatus": "verified_official",
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_MANIPAL_OAR"
-    ]
+    ],
+    "verifiedLink": "https://www.manipalhospitals.com/oldairportroad/hospitals/",
+    "profileUrl": "https://www.manipalhospitals.com/oldairportroad/hospitals/",
+    "photoStatus": "icon_display"
   },
   {
     "id": "D-HYD-006",
@@ -795,13 +877,16 @@
     ],
     "qualification": "MD, DM (Cardiology)",
     "photo": {
-      "status": "avatar_fallback"
+      "status": "icon_fallback"
     },
     "verificationStatus": "verified_official",
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_CARE_BH"
-    ]
+    ],
+    "verifiedLink": "https://www.carehospitals.com/hospitals/hyderabad/care-hospital-banjara-hills",
+    "profileUrl": "https://www.carehospitals.com/hospitals/hyderabad/care-hospital-banjara-hills",
+    "photoStatus": "icon_display"
   },
   {
     "id": "D-NCR-013",
@@ -816,13 +901,16 @@
     ],
     "qualification": "MBBS, MD, DM",
     "photo": {
-      "status": "avatar_fallback"
+      "status": "icon_fallback"
     },
     "verificationStatus": "verified_official",
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_BLK_MAX"
-    ]
+    ],
+    "verifiedLink": "https://www.maxhealthcare.in/international/en/hospital/blk-max-super-speciality-hospital",
+    "profileUrl": "https://www.maxhealthcare.in/international/en/hospital/blk-max-super-speciality-hospital",
+    "photoStatus": "icon_display"
   },
   {
     "id": "D-NCR-014",
@@ -837,13 +925,16 @@
     ],
     "qualification": "MBBS, MD, DM",
     "photo": {
-      "status": "avatar_fallback"
+      "status": "icon_fallback"
     },
     "verificationStatus": "verified_official",
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_BLK_MAX"
-    ]
+    ],
+    "verifiedLink": "https://www.maxhealthcare.in/international/en/hospital/blk-max-super-speciality-hospital",
+    "profileUrl": "https://www.maxhealthcare.in/international/en/hospital/blk-max-super-speciality-hospital",
+    "photoStatus": "icon_display"
   },
   {
     "id": "D-CHN-010",
@@ -858,13 +949,16 @@
     ],
     "qualification": "MBBS, MD, DM",
     "photo": {
-      "status": "avatar_fallback"
+      "status": "icon_fallback"
     },
     "verificationStatus": "verified_official",
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_KAUVERY_CHN"
-    ]
+    ],
+    "verifiedLink": "https://www.kauveryhospital.com/our-locations/chennai/",
+    "profileUrl": "https://www.kauveryhospital.com/our-locations/chennai/",
+    "photoStatus": "icon_display"
   },
   {
     "id": "D-BLR-008",
@@ -880,13 +974,16 @@
     ],
     "qualification": "MBBS, MS, FRCS",
     "photo": {
-      "status": "avatar_fallback"
+      "status": "icon_fallback"
     },
     "verificationStatus": "verified_official",
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_NARAYANA_BLR"
-    ]
+    ],
+    "verifiedLink": "https://www.narayanahealth.org/hospitals-clinics/bangalore",
+    "profileUrl": "https://www.narayanahealth.org/hospitals-clinics/bangalore",
+    "photoStatus": "icon_display"
   },
   {
     "id": "D-CHN-011",
@@ -901,13 +998,16 @@
     ],
     "qualification": "MBBS, MD",
     "photo": {
-      "status": "avatar_fallback"
+      "status": "icon_fallback"
     },
     "verificationStatus": "verified_official",
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_APOLLO_CHN"
-    ]
+    ],
+    "verifiedLink": "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai",
+    "profileUrl": "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai",
+    "photoStatus": "icon_display"
   },
   {
     "id": "D-NCR-015",
@@ -922,12 +1022,15 @@
     ],
     "qualification": "MBBS, MS, MCh",
     "photo": {
-      "status": "avatar_fallback"
+      "status": "icon_fallback"
     },
     "verificationStatus": "verified_official",
     "lastVerified": "2026-10-05",
     "sources": [
       "SRC_APOLLO_CHN"
-    ]
+    ],
+    "verifiedLink": "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai",
+    "profileUrl": "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai",
+    "photoStatus": "icon_display"
   }
 ]

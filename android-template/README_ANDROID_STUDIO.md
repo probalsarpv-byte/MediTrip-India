@@ -1,13 +1,14 @@
-# Android Studio wrapper
+# MediTrip India Production V2 — Android Studio handoff
 
-This package is intentionally built as a static SPA so the same UI can run on GitHub Pages now and inside an Android WebView later.
+The web app is a static SPA and can be packaged inside Android Studio.
 
-1. Create an Android Studio project (Kotlin, minSdk 24+).
-2. Copy this web package (index.html, css, js, data, assets) into:
-   app/src/main/assets/www/
-3. Copy MainActivity.kt and activity_main.xml from android-template as a starter.
-4. Add INTERNET permission.
-5. For production, replace demo JSON data with verified source-tracked data.
-6. If you later prefer Capacitor, the same web directory can be used as the webDir.
+Recommended:
+1. Create a Kotlin Android project (minSdk 24+).
+2. Copy the web folders/files into `app/src/main/assets/www/`.
+3. Use the included `MainActivity.kt` WebView wrapper as the starting point.
+4. For production, handle `tel:`, `https://wa.me/`, Google Maps URLs and external websites with Android intents.
+5. Add adaptive launcher icons from the MediTrip icon artwork.
+6. Keep JavaScript and DOM storage enabled; keep file access limited to app assets.
+7. Test Android back behavior, offline mode, text-to-speech and external links before Play Store release.
 
-Important: Service worker is for the web/PWA build. Android WebView can load the local files without it.
+This repo remains the source-of-truth for the same UI used by GitHub Pages and the future APK.
