@@ -1,7 +1,11 @@
 [
   {
     "id": "T-ONC-001",
-    "name": "Breast Cancer Evaluation & Treatment",
+    "name": {
+      "en": "Breast Cancer Evaluation & Treatment",
+      "bn": "স্তন ক্যানসার মূল্যায়ন ও চিকিৎসা",
+      "hi": "स्तन कैंसर मूल्यांकन और उपचार"
+    },
     "specialty": "Oncology",
     "keywords": [
       "breast cancer",
@@ -10,33 +14,48 @@
       "radiation oncology"
     ],
     "costStatus": "needs_hospital_quote",
-    "sourcePolicy": "official hospital estimate only"
+    "sourcePolicy": "official hospital estimate only",
+    "translationStatus": "reviewed_ui_translation"
   },
   {
     "id": "T-ONC-002",
-    "name": "Lung Cancer Evaluation & Treatment",
+    "name": {
+      "en": "Lung Cancer Evaluation & Treatment",
+      "bn": "ফুসফুসের ক্যানসার মূল্যায়ন ও চিকিৎসা",
+      "hi": "फेफड़ों के कैंसर का मूल्यांकन और उपचार"
+    },
     "specialty": "Oncology",
     "keywords": [
       "lung cancer",
       "thoracic oncology"
     ],
     "costStatus": "needs_hospital_quote",
-    "sourcePolicy": "official hospital estimate only"
+    "sourcePolicy": "official hospital estimate only",
+    "translationStatus": "reviewed_ui_translation"
   },
   {
     "id": "T-ONC-003",
-    "name": "Bone Marrow Transplant Evaluation",
+    "name": {
+      "en": "Bone Marrow Transplant Evaluation",
+      "bn": "বোন ম্যারো ট্রান্সপ্ল্যান্ট মূল্যায়ন",
+      "hi": "बोन मैरो ट्रांसप्लांट मूल्यांकन"
+    },
     "specialty": "Haematology / Oncology",
     "keywords": [
       "BMT",
       "bone marrow transplant"
     ],
     "costStatus": "needs_hospital_quote",
-    "sourcePolicy": "official hospital estimate only"
+    "sourcePolicy": "official hospital estimate only",
+    "translationStatus": "reviewed_ui_translation"
   },
   {
     "id": "T-CARD-001",
-    "name": "Coronary Angiography / Angioplasty",
+    "name": {
+      "en": "Coronary Angiography / Angioplasty",
+      "bn": "করোনারি অ্যাঞ্জিওগ্রাফি / অ্যাঞ্জিওপ্লাস্টি",
+      "hi": "कोरोनरी एंजियोग्राफी / एंजियोप्लास्टी"
+    },
     "specialty": "Cardiology",
     "keywords": [
       "angiography",
@@ -44,99 +63,144 @@
       "PCI"
     ],
     "costStatus": "needs_hospital_quote",
-    "sourcePolicy": "official hospital estimate only"
+    "sourcePolicy": "official hospital estimate only",
+    "translationStatus": "reviewed_ui_translation"
   },
   {
     "id": "T-CARD-002",
-    "name": "CABG / Bypass Surgery",
+    "name": {
+      "en": "CABG / Bypass Surgery",
+      "bn": "করোনারি আর্টারি বাইপাস (CABG)",
+      "hi": "कोरोनरी आर्टरी बायपास (CABG)"
+    },
     "specialty": "Cardiac Surgery",
     "keywords": [
       "CABG",
       "bypass"
     ],
     "costStatus": "needs_hospital_quote",
-    "sourcePolicy": "official hospital estimate only"
+    "sourcePolicy": "official hospital estimate only",
+    "translationStatus": "reviewed_ui_translation"
   },
   {
     "id": "T-CARD-003",
-    "name": "TAVR / TAVI Evaluation",
+    "name": {
+      "en": "TAVR / TAVI Evaluation",
+      "bn": "TAVR / TAVI মূল্যায়ন",
+      "hi": "TAVR / TAVI मूल्यांकन"
+    },
     "specialty": "Cardiology",
     "keywords": [
       "TAVR",
       "TAVI"
     ],
     "costStatus": "needs_hospital_quote",
-    "sourcePolicy": "official hospital estimate only"
+    "sourcePolicy": "official hospital estimate only",
+    "translationStatus": "reviewed_ui_translation"
   },
   {
     "id": "T-NEURO-001",
-    "name": "Stroke / Neurovascular Evaluation",
+    "name": {
+      "en": "Stroke / Neurovascular Evaluation",
+      "bn": "স্ট্রোক / নিউরোভাসকুলার মূল্যায়ন",
+      "hi": "स्ट्रोक / न्यूरोवैस्कुलर मूल्यांकन"
+    },
     "specialty": "Neurology / Neurosurgery",
     "keywords": [
       "stroke",
       "neurovascular"
     ],
     "costStatus": "needs_hospital_quote",
-    "sourcePolicy": "official hospital estimate only"
+    "sourcePolicy": "official hospital estimate only",
+    "translationStatus": "reviewed_ui_translation"
   },
   {
     "id": "T-NEURO-002",
-    "name": "Brain Tumour Surgery Evaluation",
+    "name": {
+      "en": "Brain Tumour Surgery Evaluation",
+      "bn": "মস্তিষ্কের টিউমার অস্ত্রোপচার মূল্যায়ন",
+      "hi": "ब्रेन ट्यूमर सर्जरी मूल्यांकन"
+    },
     "specialty": "Neurosurgery / Oncology",
     "keywords": [
       "brain tumor",
       "neurosurgery"
     ],
     "costStatus": "needs_hospital_quote",
-    "sourcePolicy": "official hospital estimate only"
+    "sourcePolicy": "official hospital estimate only",
+    "translationStatus": "reviewed_ui_translation"
   },
   {
     "id": "T-RENAL-001",
-    "name": "Kidney Transplant Evaluation",
+    "name": {
+      "en": "Kidney Transplant Evaluation",
+      "bn": "কিডনি ট্রান্সপ্ল্যান্ট মূল্যায়ন",
+      "hi": "किडनी ट्रांसप्लांट मूल्यांकन"
+    },
     "specialty": "Nephrology / Transplant",
     "keywords": [
       "kidney transplant",
       "renal transplant"
     ],
     "costStatus": "needs_hospital_quote",
-    "sourcePolicy": "official hospital estimate only"
+    "sourcePolicy": "official hospital estimate only",
+    "translationStatus": "reviewed_ui_translation"
   },
   {
     "id": "T-LIVER-001",
-    "name": "Liver Transplant Evaluation",
+    "name": {
+      "en": "Liver Transplant Evaluation",
+      "bn": "লিভার ট্রান্সপ্ল্যান্ট মূল্যায়ন",
+      "hi": "लिवर ट्रांसप्लांट मूल्यांकन"
+    },
     "specialty": "Hepatology / Transplant",
     "keywords": [
       "liver transplant",
       "hepatology"
     ],
     "costStatus": "needs_hospital_quote",
-    "sourcePolicy": "official hospital estimate only"
+    "sourcePolicy": "official hospital estimate only",
+    "translationStatus": "reviewed_ui_translation"
   },
   {
     "id": "T-ORTHO-001",
-    "name": "Total Knee Replacement",
+    "name": {
+      "en": "Total Knee Replacement",
+      "bn": "সম্পূর্ণ হাঁটু প্রতিস্থাপন",
+      "hi": "टोटल नी रिप्लेसमेंट"
+    },
     "specialty": "Orthopaedics",
     "keywords": [
       "TKR",
       "knee replacement"
     ],
     "costStatus": "needs_hospital_quote",
-    "sourcePolicy": "official hospital estimate only"
+    "sourcePolicy": "official hospital estimate only",
+    "translationStatus": "reviewed_ui_translation"
   },
   {
     "id": "T-ORTHO-002",
-    "name": "Total Hip Replacement",
+    "name": {
+      "en": "Total Hip Replacement",
+      "bn": "সম্পূর্ণ হিপ প্রতিস্থাপন",
+      "hi": "टोटल हिप रिप्लेसमेंट"
+    },
     "specialty": "Orthopaedics",
     "keywords": [
       "THR",
       "hip replacement"
     ],
     "costStatus": "needs_hospital_quote",
-    "sourcePolicy": "official hospital estimate only"
+    "sourcePolicy": "official hospital estimate only",
+    "translationStatus": "reviewed_ui_translation"
   },
   {
     "id": "T-GI-001",
-    "name": "Advanced Gastroenterology / Endoscopy",
+    "name": {
+      "en": "Advanced Gastroenterology / Endoscopy",
+      "bn": "গ্যাস্ট্রোএন্টারোলজি / এন্ডোস্কোপি মূল্যায়ন",
+      "hi": "गैस्ट्रोएंटरोलॉजी / एंडोस्कोपी मूल्यांकन"
+    },
     "specialty": "Gastroenterology",
     "keywords": [
       "endoscopy",
@@ -144,11 +208,16 @@
       "ERCP"
     ],
     "costStatus": "needs_hospital_quote",
-    "sourcePolicy": "official hospital estimate only"
+    "sourcePolicy": "official hospital estimate only",
+    "translationStatus": "reviewed_ui_translation"
   },
   {
     "id": "T-GI-002",
-    "name": "GI Cancer Surgery",
+    "name": {
+      "en": "GI Cancer Surgery",
+      "bn": "GI ক্যানসার সার্জারি",
+      "hi": "GI कैंसर सर्जरी"
+    },
     "specialty": "Surgical Gastroenterology / Oncology",
     "keywords": [
       "GI oncology",
@@ -156,11 +225,16 @@
       "HPB"
     ],
     "costStatus": "needs_hospital_quote",
-    "sourcePolicy": "official hospital estimate only"
+    "sourcePolicy": "official hospital estimate only",
+    "translationStatus": "reviewed_ui_translation"
   },
   {
     "id": "T-URO-001",
-    "name": "Urology / Uro-oncology Evaluation",
+    "name": {
+      "en": "Urology / Uro-oncology Evaluation",
+      "bn": "ইউরোলজি / ইউরো-অনকোলজি মূল্যায়ন",
+      "hi": "यूरोलॉजी / यूरो-ऑन्कोलॉजी मूल्यांकन"
+    },
     "specialty": "Urology",
     "keywords": [
       "urology",
@@ -168,6 +242,7 @@
       "kidney cancer"
     ],
     "costStatus": "needs_hospital_quote",
-    "sourcePolicy": "official hospital estimate only"
+    "sourcePolicy": "official hospital estimate only",
+    "translationStatus": "reviewed_ui_translation"
   }
 ]

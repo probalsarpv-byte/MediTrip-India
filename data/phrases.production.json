@@ -1,0 +1,194 @@
+[
+  {
+    "id": "phrase-1",
+    "text": {
+      "en": "Where is the international-patient desk?",
+      "bn": "আন্তর্জাতিক রোগীর ডেস্ক কোথায়?",
+      "hi": "अंतरराष्ट्रीय मरीज डेस्क कहां है?"
+    }
+  },
+  {
+    "id": "phrase-2",
+    "text": {
+      "en": "I have a confirmed appointment.",
+      "bn": "আমার নিশ্চিত অ্যাপয়েন্টমেন্ট আছে।",
+      "hi": "मेरा अपॉइंटमेंट तय है।"
+    }
+  },
+  {
+    "id": "phrase-3",
+    "text": {
+      "en": "Please check my appointment reference.",
+      "bn": "আমার অ্যাপয়েন্টমেন্টের তথ্য দেখুন।",
+      "hi": "कृपया मेरा अपॉइंटमेंट संदर्भ देखें।"
+    }
+  },
+  {
+    "id": "phrase-4",
+    "text": {
+      "en": "Can I speak with a Bengali interpreter?",
+      "bn": "আমি কি বাংলা দোভাষীর সঙ্গে কথা বলতে পারি?",
+      "hi": "क्या मैं बांग्ला दुभाषिए से बात कर सकता हूं?"
+    }
+  },
+  {
+    "id": "phrase-5",
+    "text": {
+      "en": "Please speak slowly.",
+      "bn": "দয়া করে ধীরে বলুন।",
+      "hi": "कृपया धीरे बोलें।"
+    }
+  },
+  {
+    "id": "phrase-6",
+    "text": {
+      "en": "Please write down the instructions.",
+      "bn": "নির্দেশনা লিখে দিন।",
+      "hi": "कृपया निर्देश लिख दें।"
+    }
+  },
+  {
+    "id": "phrase-7",
+    "text": {
+      "en": "Which hospital block should I go to?",
+      "bn": "হাসপাতালের কোন ব্লকে যাব?",
+      "hi": "अस्पताल के किस ब्लॉक में जाना है?"
+    }
+  },
+  {
+    "id": "phrase-8",
+    "text": {
+      "en": "Where should I submit my reports?",
+      "bn": "রিপোর্ট কোথায় জমা দেব?",
+      "hi": "रिपोर्ट कहां जमा करनी है?"
+    }
+  },
+  {
+    "id": "phrase-9",
+    "text": {
+      "en": "Is an attendant allowed here?",
+      "bn": "এখানে সহযাত্রী থাকতে পারবেন?",
+      "hi": "क्या यहां सहयात्री को अनुमति है?"
+    }
+  },
+  {
+    "id": "phrase-10",
+    "text": {
+      "en": "Please give me an itemised bill.",
+      "bn": "দয়া করে বিস্তারিত বিল দিন।",
+      "hi": "कृपया मदवार बिल दें।"
+    }
+  },
+  {
+    "id": "phrase-11",
+    "text": {
+      "en": "What does this estimate include?",
+      "bn": "এই খরচের হিসাবে কী কী আছে?",
+      "hi": "इस अनुमान में क्या शामिल है?"
+    }
+  },
+  {
+    "id": "phrase-12",
+    "text": {
+      "en": "What costs are not included?",
+      "bn": "কোন খরচগুলো অন্তর্ভুক্ত নয়?",
+      "hi": "कौन से खर्च शामिल नहीं हैं?"
+    }
+  },
+  {
+    "id": "phrase-13",
+    "text": {
+      "en": "I need a room with easy lift access.",
+      "bn": "লিফটে সহজে যাওয়া যায় এমন রুম চাই।",
+      "hi": "मुझे लिफ्ट तक आसान पहुंच वाला कमरा चाहिए।"
+    }
+  },
+  {
+    "id": "phrase-14",
+    "text": {
+      "en": "Can my attendant stay in the same room?",
+      "bn": "আমার সহযাত্রী একই রুমে থাকতে পারবেন?",
+      "hi": "क्या मेरा सहयात्री इसी कमरे में रह सकता है?"
+    }
+  },
+  {
+    "id": "phrase-15",
+    "text": {
+      "en": "What is the cancellation policy?",
+      "bn": "বুকিং বাতিলের নিয়ম কী?",
+      "hi": "बुकिंग रद्द करने की नीति क्या है?"
+    }
+  },
+  {
+    "id": "phrase-16",
+    "text": {
+      "en": "Please confirm the rate including taxes.",
+      "bn": "করসহ ভাড়া নিশ্চিত করুন।",
+      "hi": "कृपया कर सहित दर सुनिश्चित करें।"
+    }
+  },
+  {
+    "id": "phrase-17",
+    "text": {
+      "en": "Can I extend my stay if needed?",
+      "bn": "প্রয়োজন হলে থাকার সময় বাড়াতে পারব?",
+      "hi": "क्या जरूरत होने पर ठहराव बढ़ा सकता हूं?"
+    }
+  },
+  {
+    "id": "phrase-18",
+    "text": {
+      "en": "Please show the route to the hospital entrance.",
+      "bn": "হাসপাতালের প্রবেশপথের রাস্তা দেখান।",
+      "hi": "कृपया अस्पताल प्रवेश का मार्ग दिखाएं।"
+    }
+  },
+  {
+    "id": "phrase-19",
+    "text": {
+      "en": "I need help contacting the hospital.",
+      "bn": "হাসপাতালে যোগাযোগ করতে সাহায্য চাই।",
+      "hi": "मुझे अस्पताल से संपर्क में मदद चाहिए।"
+    }
+  },
+  {
+    "id": "phrase-20",
+    "text": {
+      "en": "Please give me the discharge summary.",
+      "bn": "দয়া করে ছাড়পত্রের সারসংক্ষেপ দিন।",
+      "hi": "कृपया छुट्टी का सारांश दें।"
+    }
+  },
+  {
+    "id": "phrase-21",
+    "text": {
+      "en": "When is my next follow-up appointment?",
+      "bn": "পরের ফলোআপ অ্যাপয়েন্টমেন্ট কবে?",
+      "hi": "मेरा अगला फॉलो-अप कब है?"
+    }
+  },
+  {
+    "id": "phrase-22",
+    "text": {
+      "en": "Who should I contact with questions?",
+      "bn": "প্রশ্ন থাকলে কার সঙ্গে যোগাযোগ করব?",
+      "hi": "प्रश्न होने पर किससे संपर्क करूं?"
+    }
+  },
+  {
+    "id": "phrase-23",
+    "text": {
+      "en": "Please help me contact emergency services.",
+      "bn": "জরুরি সেবায় যোগাযোগ করতে সাহায্য করুন।",
+      "hi": "कृपया आपात सेवा से संपर्क में मदद करें।"
+    }
+  },
+  {
+    "id": "phrase-24",
+    "text": {
+      "en": "I do not understand. Please explain again.",
+      "bn": "আমি বুঝিনি। আবার বুঝিয়ে বলুন।",
+      "hi": "मैं समझा नहीं। कृपया फिर समझाएं।"
+    }
+  }
+]

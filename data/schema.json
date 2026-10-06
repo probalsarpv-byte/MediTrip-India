@@ -1,13 +1,36 @@
 {
-  "status_values": [
+  "version": "2.1.0",
+  "requiredHospital": [
+    "id",
+    "city",
+    "name.en",
+    "address.en",
+    "source",
+    "sources",
+    "verificationStatus"
+  ],
+  "requiredDoctor": [
+    "id",
+    "name.en",
+    "hospital",
+    "specialty",
+    "source",
+    "verificationStatus"
+  ],
+  "requiredStay": [
+    "id",
+    "city",
+    "name.en",
+    "address.en",
+    "source",
+    "hospital",
+    "verificationStatus"
+  ],
+  "statuses": [
     "verified_official",
-    "verified_official_plus_nabh",
+    "verified_official_plus_registry",
     "needs_review",
     "inactive"
   ],
-  "image_policy": {
-    "doctorImage": "Exact official-profile image only if reuse permitted; otherwise neutral avatar/initials.",
-    "hospitalImage": "License/reuse review required before rehosting.",
-    "illustrativeImage": "Label as illustrative; never imply it is an actual hospital/doctor photo."
-  }
+  "photoPolicy": "No real-person photo is displayed unless identity and reuse rights are separately verified."
 }

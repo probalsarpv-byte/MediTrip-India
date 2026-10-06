@@ -1,202 +1,332 @@
 [
   {
-    "id": "D-KOL-001",
-    "name": "Dr Mahesh Goenka",
-    "hospitalId": "H-KOL-001",
-    "specialty": "Gastroenterology & Hepatology",
-    "role": null,
-    "experienceYears": 45,
-    "languages": [
-      "English",
-      "Hindi",
-      "Bengali"
-    ],
-    "qualification": "MD, DM (Gastroenterology)",
-    "photo": {
-      "status": "needs_official_profile_fetch"
+    "id": "mahesh",
+    "hospital": "apollo-kolkata",
+    "name": {
+      "en": "Dr Mahesh Goenka",
+      "bn": "ডা. মহেশ গোয়েঙ্কা",
+      "hi": "डॉ. महेश गोयनका"
     },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
+    "specialty": "gastro",
+    "source": "https://www.apollohospitals.com/doctors/gastroenterologist/kolkata/dr-mahesh-goenka",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
     "sources": [
-      "SRC_APOLLO_KOL_DOC"
-    ]
+      "https://www.apollohospitals.com/doctors/gastroenterologist/kolkata/dr-mahesh-goenka"
+    ],
+    "sourceMode": "search",
+    "verificationStatus": "verified_official",
+    "active": true
   },
   {
-    "id": "D-KOL-002",
-    "name": "Dr A K Bardhan",
-    "hospitalId": "H-KOL-001",
-    "specialty": "Cardiology",
-    "role": "Senior Interventional Cardiologist",
+    "id": "balbir",
+    "hospital": "max-delhi",
+    "name": {
+      "en": "Dr Balbir Singh",
+      "bn": "ডা. বলবীর সিং",
+      "hi": "डॉ. बलबीर सिंह"
+    },
+    "specialty": "cardiac",
+    "source": "https://www.maxhealthcare.in/doctor/dr-balbir-singh",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://www.maxhealthcare.in/doctor/dr-balbir-singh"
+    ],
+    "sourceMode": "page",
+    "verificationStatus": "verified_official",
+    "active": true
+  },
+  {
+    "id": "ballal",
+    "hospital": "manipal-bengaluru",
+    "name": {
+      "en": "Dr H. Sudarshan Ballal",
+      "bn": "ডা. এইচ. সুদর্শন বল্লাল",
+      "hi": "डॉ. एच. सुदर्शन बल्लाल"
+    },
+    "specialty": "kidney",
+    "source": "https://www.manipalhospitals.com/oldairportroad/doctors/dr-h-sudarshan-ballal-kidney-transplant-physician-nephrology/",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://www.manipalhospitals.com/oldairportroad/doctors/dr-h-sudarshan-ballal-kidney-transplant-physician-nephrology/"
+    ],
+    "sourceMode": "search",
+    "verificationStatus": "verified_official",
+    "active": true
+  },
+  {
+    "id": "deepak",
+    "hospital": "apollo-chennai",
+    "name": {
+      "en": "Dr Deepak Balasubramanian",
+      "bn": "ডা. দীপক বালাসুব্রামানিয়ান",
+      "hi": "डॉ. दीपक बालसुब्रमण्यम"
+    },
+    "specialty": "ent",
+    "source": "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai"
+    ],
+    "sourceMode": "page",
+    "verificationStatus": "verified_official",
+    "active": true
+  },
+  {
+    "id": "anbukarasi",
+    "hospital": "apollo-chennai",
+    "name": {
+      "en": "Dr Anbukarasi Maran",
+      "bn": "ডা. আনবুকারাসি মারান",
+      "hi": "डॉ. अन्बुकरसी मारन"
+    },
+    "specialty": "cardiac",
+    "source": "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai"
+    ],
+    "sourceMode": "page",
+    "verificationStatus": "verified_official",
+    "active": true
+  },
+  {
+    "id": "veerabahu",
+    "hospital": "apollo-chennai",
+    "name": {
+      "en": "Dr Veerabahu Muthusamy",
+      "bn": "ডা. বীরবাহু মুথুস্বামী",
+      "hi": "डॉ. वीरबाहु मुथुसामी"
+    },
+    "specialty": "ortho",
+    "source": "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai"
+    ],
+    "sourceMode": "page",
+    "verificationStatus": "verified_official",
+    "active": true
+  },
+  {
+    "id": "d-kol-002",
+    "name": {
+      "en": "Dr A K Bardhan"
+    },
+    "hospital": "apollo-kolkata",
+    "specialty": "cardiac",
+    "specialtyName": "Cardiology",
+    "source": "https://www.apollohospitals.com/book-doctor-appointment/kolkata",
+    "profileUrl": "https://www.apollohospitals.com/book-doctor-appointment/kolkata",
+    "verificationStatus": "needs_review",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://www.apollohospitals.com/book-doctor-appointment/kolkata"
+    ],
+    "qualifications": "MD, Diploma in Cardiology, FCCP",
     "experienceYears": 42,
     "languages": [
       "English",
       "Hindi",
       "Bengali"
     ],
-    "qualification": "MD, Diploma in Cardiology, FCCP",
-    "photo": {
-      "status": "needs_official_profile_fetch"
-    },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
-    "sources": [
-      "SRC_APOLLO_KOL_DOC"
-    ]
+    "active": true
   },
   {
-    "id": "D-KOL-003",
-    "name": "Dr Bivas Biswas",
-    "hospitalId": "H-KOL-001",
-    "specialty": "Medical Oncology",
-    "role": "Senior Consultant Medical Oncology",
+    "id": "d-kol-003",
+    "name": {
+      "en": "Dr Bivas Biswas"
+    },
+    "hospital": "apollo-kolkata",
+    "specialty": "other",
+    "specialtyName": "Medical Oncology",
+    "source": "https://www.apollohospitals.com/kolkata",
+    "profileUrl": "https://www.apollohospitals.com/kolkata",
+    "verificationStatus": "needs_review",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://www.apollohospitals.com/kolkata"
+    ],
+    "qualifications": "MBBS, MD (Paediatrics), DM (Medical Oncology)",
     "experienceYears": null,
     "languages": [],
-    "qualification": "MBBS, MD (Paediatrics), DM (Medical Oncology)",
-    "photo": {
-      "status": "needs_official_profile_fetch"
-    },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
-    "sources": [
-      "SRC_APOLLO_KOL"
-    ]
+    "active": true
   },
   {
-    "id": "D-KOL-004",
-    "name": "Dr Sandip Ganguly",
-    "hospitalId": "H-KOL-001",
-    "specialty": "Medical Oncology",
-    "role": "Senior Consultant Medical Oncology",
+    "id": "d-kol-004",
+    "name": {
+      "en": "Dr Sandip Ganguly"
+    },
+    "hospital": "apollo-kolkata",
+    "specialty": "other",
+    "specialtyName": "Medical Oncology",
+    "source": "https://www.apollohospitals.com/kolkata",
+    "profileUrl": "https://www.apollohospitals.com/kolkata",
+    "verificationStatus": "needs_review",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://www.apollohospitals.com/kolkata"
+    ],
+    "qualifications": "MBBS, MD (General Medicine), DM (Medical Oncology)",
     "experienceYears": null,
     "languages": [],
-    "qualification": "MBBS, MD (General Medicine), DM (Medical Oncology)",
-    "photo": {
-      "status": "needs_official_profile_fetch"
-    },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
-    "sources": [
-      "SRC_APOLLO_KOL"
-    ]
+    "active": true
   },
   {
-    "id": "D-KOL-005",
-    "name": "Dr Raj Kalyan Gopala Krishna",
-    "hospitalId": "H-KOL-002",
-    "specialty": "Urology",
-    "role": "Director",
+    "id": "d-kol-005",
+    "name": {
+      "en": "Dr Raj Kalyan Gopala Krishna"
+    },
+    "hospital": "fortis-kolkata",
+    "specialty": "kidney",
+    "specialtyName": "Urology",
+    "source": "https://www.fortishealthcare.com/location/fortis-hospital-anandapur-kolkata",
+    "profileUrl": "https://www.fortishealthcare.com/location/fortis-hospital-anandapur-kolkata",
+    "verificationStatus": "needs_review",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://www.fortishealthcare.com/location/fortis-hospital-anandapur-kolkata"
+    ],
+    "qualifications": null,
     "experienceYears": null,
     "languages": [],
-    "qualification": null,
-    "photo": {
-      "status": "needs_official_profile_fetch"
-    },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
-    "sources": [
-      "SRC_FORTIS_KOL"
-    ]
+    "active": true
   },
   {
-    "id": "D-KOL-006",
-    "name": "Dr Ronen Roy",
-    "hospitalId": "H-KOL-002",
-    "specialty": "Orthopaedics",
-    "role": "Director",
+    "id": "d-kol-006",
+    "name": {
+      "en": "Dr Ronen Roy"
+    },
+    "hospital": "fortis-kolkata",
+    "specialty": "ortho",
+    "specialtyName": "Orthopaedics",
+    "source": "https://www.fortishealthcare.com/location/fortis-hospital-anandapur-kolkata",
+    "profileUrl": "https://www.fortishealthcare.com/location/fortis-hospital-anandapur-kolkata",
+    "verificationStatus": "needs_review",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://www.fortishealthcare.com/location/fortis-hospital-anandapur-kolkata"
+    ],
+    "qualifications": null,
     "experienceYears": null,
     "languages": [],
-    "qualification": null,
-    "photo": {
-      "status": "needs_official_profile_fetch"
-    },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
-    "sources": [
-      "SRC_FORTIS_KOL"
-    ]
+    "active": true
   },
   {
-    "id": "D-CHN-001",
-    "name": "Dr Kailash A Jain",
-    "hospitalId": "H-CHN-002",
-    "specialty": "Cardiac Surgery / Cardiology",
-    "role": "Director & Clinical Lead, Cardiothoracic & Vascular Surgery",
+    "id": "d-chn-001",
+    "name": {
+      "en": "Dr Kailash A Jain"
+    },
+    "hospital": "h-chn-002",
+    "specialty": "other",
+    "specialtyName": "Cardiac Surgery / Cardiology",
+    "source": "https://mgmhealthcare.in/all-doctors/",
+    "profileUrl": "https://mgmhealthcare.in/all-doctors/",
+    "verificationStatus": "needs_review",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://mgmhealthcare.in/all-doctors/"
+    ],
+    "qualifications": null,
     "experienceYears": null,
     "languages": [],
-    "qualification": null,
-    "photo": {
-      "status": "needs_official_profile_fetch"
-    },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
-    "sources": [
-      "SRC_MGM_DOC"
-    ]
+    "active": true
   },
   {
-    "id": "D-CHN-002",
-    "name": "Dr A B Gopalamurugan",
-    "hospitalId": "H-CHN-002",
-    "specialty": "Interventional Cardiology & Electrophysiology",
-    "role": "Senior Consultant / Director TAVR, Endovascular & Device Therapy",
+    "id": "d-chn-002",
+    "name": {
+      "en": "Dr A B Gopalamurugan"
+    },
+    "hospital": "h-chn-002",
+    "specialty": "other",
+    "specialtyName": "Interventional Cardiology & Electrophysiology",
+    "source": "https://mgmhealthcare.in/all-doctors/",
+    "profileUrl": "https://mgmhealthcare.in/all-doctors/",
+    "verificationStatus": "needs_review",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://mgmhealthcare.in/all-doctors/"
+    ],
+    "qualifications": null,
     "experienceYears": null,
     "languages": [],
-    "qualification": null,
-    "photo": {
-      "status": "needs_official_profile_fetch"
-    },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
-    "sources": [
-      "SRC_MGM_DOC"
-    ]
+    "active": true
   },
   {
-    "id": "D-CHN-003",
-    "name": "Dr Madan Mohan B",
-    "hospitalId": "H-CHN-002",
-    "specialty": "Interventional Cardiology",
-    "role": "Senior Consultant",
+    "id": "d-chn-003",
+    "name": {
+      "en": "Dr Madan Mohan B"
+    },
+    "hospital": "h-chn-002",
+    "specialty": "other",
+    "specialtyName": "Interventional Cardiology",
+    "source": "https://mgmhealthcare.in/all-doctors/",
+    "profileUrl": "https://mgmhealthcare.in/all-doctors/",
+    "verificationStatus": "needs_review",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://mgmhealthcare.in/all-doctors/"
+    ],
+    "qualifications": null,
     "experienceYears": null,
     "languages": [],
-    "qualification": null,
-    "photo": {
-      "status": "needs_official_profile_fetch"
-    },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
-    "sources": [
-      "SRC_MGM_DOC"
-    ]
+    "active": true
   },
   {
-    "id": "D-HYD-001",
-    "name": "Dr Bhishma Chowdary Donepudi",
-    "hospitalId": "H-HYD-001",
-    "specialty": "Interventional Cardiology",
-    "role": "Consultant Interventional Cardiologist",
+    "id": "d-hyd-001",
+    "name": {
+      "en": "Dr Bhishma Chowdary Donepudi"
+    },
+    "hospital": "h-hyd-001",
+    "specialty": "other",
+    "specialtyName": "Interventional Cardiology",
+    "source": "https://www.yashodahospitals.com/specialities/cardiology/doctors/hitec-city/",
+    "profileUrl": "https://www.yashodahospitals.com/specialities/cardiology/doctors/hitec-city/",
+    "verificationStatus": "needs_review",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://www.yashodahospitals.com/specialities/cardiology/doctors/hitec-city/"
+    ],
+    "qualifications": "MD, DM Cardiology, FSCAI",
     "experienceYears": 16,
     "languages": [
       "Telugu",
       "Hindi",
       "English"
     ],
-    "qualification": "MD, DM Cardiology, FSCAI",
-    "photo": {
-      "status": "needs_official_profile_fetch"
-    },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
-    "sources": [
-      "SRC_YASHODA_CARD"
-    ]
+    "active": true
   },
   {
-    "id": "D-HYD-002",
-    "name": "Dr Damodhar Reddy Gouni",
-    "hospitalId": "H-HYD-001",
-    "specialty": "Interventional Cardiology",
-    "role": "Consultant Interventional Cardiologist",
+    "id": "d-hyd-002",
+    "name": {
+      "en": "Dr Damodhar Reddy Gouni"
+    },
+    "hospital": "h-hyd-001",
+    "specialty": "other",
+    "specialtyName": "Interventional Cardiology",
+    "source": "https://www.yashodahospitals.com/specialities/cardiology/doctors/hitec-city/",
+    "profileUrl": "https://www.yashodahospitals.com/specialities/cardiology/doctors/hitec-city/",
+    "verificationStatus": "needs_review",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://www.yashodahospitals.com/specialities/cardiology/doctors/hitec-city/"
+    ],
+    "qualifications": "MBBS, MD (General Medicine), DM (Cardiology)",
     "experienceYears": 11,
     "languages": [
       "English",
@@ -204,730 +334,1154 @@
       "Hindi",
       "Malayalam"
     ],
-    "qualification": "MBBS, MD (General Medicine), DM (Cardiology)",
-    "photo": {
-      "status": "needs_official_profile_fetch"
-    },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
-    "sources": [
-      "SRC_YASHODA_CARD"
-    ]
+    "active": true
   },
   {
-    "id": "D-HYD-003",
-    "name": "Dr D Nageshwar Reddy",
-    "hospitalId": "H-HYD-003",
-    "specialty": "Gastroenterology",
-    "role": "Chairman & Chief of Gastroenterology",
+    "id": "d-hyd-003",
+    "name": {
+      "en": "Dr D Nageshwar Reddy"
+    },
+    "hospital": "h-hyd-003",
+    "specialty": "gastro",
+    "specialtyName": "Gastroenterology",
+    "source": "https://aighospitals.com/gcb/doctors",
+    "profileUrl": "https://aighospitals.com/gcb/doctors",
+    "verificationStatus": "needs_review",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://aighospitals.com/gcb/doctors"
+    ],
+    "qualifications": "MD, DM (Gastroenterology)",
     "experienceYears": 40,
     "languages": [
       "English",
       "Telugu",
       "Hindi"
     ],
-    "qualification": "MD, DM (Gastroenterology)",
-    "photo": {
-      "status": "needs_official_profile_fetch"
-    },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
-    "sources": [
-      "SRC_AIG_DOC"
-    ]
+    "active": true
   },
   {
-    "id": "D-HYD-004",
-    "name": "Dr G. V. Rao",
-    "hospitalId": "H-HYD-003",
-    "specialty": "Surgical Gastroenterology & Minimally Invasive Surgery",
-    "role": "Chief",
+    "id": "d-hyd-004",
+    "name": {
+      "en": "Dr G. V. Rao"
+    },
+    "hospital": "h-hyd-003",
+    "specialty": "other",
+    "specialtyName": "Surgical Gastroenterology & Minimally Invasive Surgery",
+    "source": "https://aighospitals.com/gcb/doctors",
+    "profileUrl": "https://aighospitals.com/gcb/doctors",
+    "verificationStatus": "needs_review",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://aighospitals.com/gcb/doctors"
+    ],
+    "qualifications": null,
     "experienceYears": 35,
     "languages": [
       "English",
       "Telugu",
       "Hindi"
     ],
-    "qualification": null,
-    "photo": {
-      "status": "needs_official_profile_fetch"
-    },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
-    "sources": [
-      "SRC_AIG_DOC"
-    ]
+    "active": true
   },
   {
-    "id": "D-HYD-005",
-    "name": "Dr C Narasimhan",
-    "hospitalId": "H-HYD-003",
-    "specialty": "Cardiology / Electrophysiology",
-    "role": "Head of Electrophysiology & Senior Consultant Cardiology",
+    "id": "d-hyd-005",
+    "name": {
+      "en": "Dr C Narasimhan"
+    },
+    "hospital": "h-hyd-003",
+    "specialty": "other",
+    "specialtyName": "Cardiology / Electrophysiology",
+    "source": "https://aighospitals.com/gcb/doctors",
+    "profileUrl": "https://aighospitals.com/gcb/doctors",
+    "verificationStatus": "needs_review",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://aighospitals.com/gcb/doctors"
+    ],
+    "qualifications": null,
     "experienceYears": null,
     "languages": [],
-    "qualification": null,
-    "photo": {
-      "status": "needs_official_profile_fetch"
-    },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
-    "sources": [
-      "SRC_AIG_DOC"
-    ]
+    "active": true
   },
   {
-    "id": "D-NCR-001",
-    "name": "Dr Naresh Trehan",
-    "hospitalId": "H-NCR-001",
-    "specialty": "Cardiac Surgery",
-    "role": "Chairman, Managing Director and Chief Cardiac Surgeon",
+    "id": "d-ncr-001",
+    "name": {
+      "en": "Dr Naresh Trehan"
+    },
+    "hospital": "h-ncr-001",
+    "specialty": "cardiac",
+    "specialtyName": "Cardiac Surgery",
+    "source": "https://www.medanta.org/doctor-listing/cardiology-doctors",
+    "profileUrl": "https://www.medanta.org/doctor-listing/cardiology-doctors",
+    "verificationStatus": "needs_review",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://www.medanta.org/doctor-listing/cardiology-doctors"
+    ],
+    "qualifications": "Diplomate - American Board of Thoracic Surgery; Diplomate - American Board of Surgery",
     "experienceYears": 45,
     "languages": [
       "English",
       "Hindi"
     ],
-    "qualification": "Diplomate - American Board of Thoracic Surgery; Diplomate - American Board of Surgery",
-    "photo": {
-      "status": "needs_official_profile_fetch"
-    },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
-    "sources": [
-      "SRC_MEDANTA_CARD"
-    ]
+    "active": true
   },
   {
-    "id": "D-NCR-002",
-    "name": "Dr R. R. Kasliwal",
-    "hospitalId": "H-NCR-001",
-    "specialty": "Cardiology",
-    "role": "Chairman",
+    "id": "d-ncr-002",
+    "name": {
+      "en": "Dr R. R. Kasliwal"
+    },
+    "hospital": "h-ncr-001",
+    "specialty": "cardiac",
+    "specialtyName": "Cardiology",
+    "source": "https://www.medanta.org/doctor-listing/cardiology-doctors",
+    "profileUrl": "https://www.medanta.org/doctor-listing/cardiology-doctors",
+    "verificationStatus": "needs_review",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://www.medanta.org/doctor-listing/cardiology-doctors"
+    ],
+    "qualifications": "DM (Cardiology), MD (General Medicine), MBBS",
     "experienceYears": 40,
     "languages": [
       "English",
       "Hindi"
     ],
-    "qualification": "DM (Cardiology), MD (General Medicine), MBBS",
-    "photo": {
-      "status": "needs_official_profile_fetch"
-    },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
-    "sources": [
-      "SRC_MEDANTA_CARD"
-    ]
+    "active": true
   },
   {
-    "id": "D-NCR-003",
-    "name": "Dr Ashok Kumar Vaid",
-    "hospitalId": "H-NCR-001",
-    "specialty": "Medical Oncology",
-    "role": "Chairman, Cancer Care",
+    "id": "d-ncr-003",
+    "name": {
+      "en": "Dr Ashok Kumar Vaid"
+    },
+    "hospital": "h-ncr-001",
+    "specialty": "other",
+    "specialtyName": "Medical Oncology",
+    "source": "https://www.medanta.org/doctor-listing/oncology-doctors",
+    "profileUrl": "https://www.medanta.org/doctor-listing/oncology-doctors",
+    "verificationStatus": "needs_review",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://www.medanta.org/doctor-listing/oncology-doctors"
+    ],
+    "qualifications": "DM (Medical Oncology), MD (General Medicine), MBBS",
     "experienceYears": 30,
     "languages": [
       "English",
       "Hindi"
     ],
-    "qualification": "DM (Medical Oncology), MD (General Medicine), MBBS",
-    "photo": {
-      "status": "needs_official_profile_fetch"
-    },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
-    "sources": [
-      "SRC_MEDANTA_ONC"
-    ]
+    "active": true
   },
   {
-    "id": "D-NCR-004",
-    "name": "Dr Arun Garg",
-    "hospitalId": "H-NCR-001",
-    "specialty": "Neurology",
-    "role": "Chairman, Neurosciences",
+    "id": "d-ncr-004",
+    "name": {
+      "en": "Dr Arun Garg"
+    },
+    "hospital": "h-ncr-001",
+    "specialty": "neuro",
+    "specialtyName": "Neurology",
+    "source": "https://www.medanta.org/doctor-listing/neurology-doctors-in-gurugram",
+    "profileUrl": "https://www.medanta.org/doctor-listing/neurology-doctors-in-gurugram",
+    "verificationStatus": "needs_review",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://www.medanta.org/doctor-listing/neurology-doctors-in-gurugram"
+    ],
+    "qualifications": "DM (Neurology), MD (General Medicine), MBBS",
     "experienceYears": 25,
     "languages": [
       "English",
       "Hindi"
     ],
-    "qualification": "DM (Neurology), MD (General Medicine), MBBS",
-    "photo": {
-      "status": "needs_official_profile_fetch"
-    },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
-    "sources": [
-      "SRC_MEDANTA_NEURO"
-    ]
+    "active": true
   },
   {
-    "id": "D-NCR-005",
-    "name": "Dr Atul Kumar Mittal",
-    "hospitalId": "H-NCR-002",
-    "specialty": "ENT",
-    "role": "Chairman",
+    "id": "d-ncr-005",
+    "name": {
+      "en": "Dr Atul Kumar Mittal"
+    },
+    "hospital": "h-ncr-002",
+    "specialty": "ent",
+    "specialtyName": "ENT",
+    "source": "https://www.fortishealthcare.com/location/fortis-memorial-research-institute-gurgaon",
+    "profileUrl": "https://www.fortishealthcare.com/location/fortis-memorial-research-institute-gurgaon",
+    "verificationStatus": "needs_review",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://www.fortishealthcare.com/location/fortis-memorial-research-institute-gurgaon"
+    ],
+    "qualifications": null,
     "experienceYears": null,
     "languages": [],
-    "qualification": null,
-    "photo": {
-      "status": "needs_official_profile_fetch"
-    },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
-    "sources": [
-      "SRC_FMRI"
-    ]
+    "active": true
   },
   {
-    "id": "D-NCR-006",
-    "name": "Dr Biswajyoti Hazarika",
-    "hospitalId": "H-NCR-002",
-    "specialty": "Surgical Oncology",
-    "role": "Principal Director",
+    "id": "d-ncr-006",
+    "name": {
+      "en": "Dr Biswajyoti Hazarika"
+    },
+    "hospital": "h-ncr-002",
+    "specialty": "other",
+    "specialtyName": "Surgical Oncology",
+    "source": "https://www.fortishealthcare.com/location/fortis-memorial-research-institute-gurgaon",
+    "profileUrl": "https://www.fortishealthcare.com/location/fortis-memorial-research-institute-gurgaon",
+    "verificationStatus": "needs_review",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://www.fortishealthcare.com/location/fortis-memorial-research-institute-gurgaon"
+    ],
+    "qualifications": null,
     "experienceYears": null,
     "languages": [],
-    "qualification": null,
-    "photo": {
-      "status": "needs_official_profile_fetch"
-    },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
-    "sources": [
-      "SRC_FMRI"
-    ]
+    "active": true
   },
   {
-    "id": "D-NCR-007",
-    "name": "Dr Sahil Kohli",
-    "hospitalId": "H-NCR-002",
-    "specialty": "Neurology",
-    "role": "Additional Director",
+    "id": "d-ncr-007",
+    "name": {
+      "en": "Dr Sahil Kohli"
+    },
+    "hospital": "h-ncr-002",
+    "specialty": "neuro",
+    "specialtyName": "Neurology",
+    "source": "https://www.fortishealthcare.com/location/fortis-memorial-research-institute-gurgaon",
+    "profileUrl": "https://www.fortishealthcare.com/location/fortis-memorial-research-institute-gurgaon",
+    "verificationStatus": "needs_review",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://www.fortishealthcare.com/location/fortis-memorial-research-institute-gurgaon"
+    ],
+    "qualifications": null,
     "experienceYears": null,
     "languages": [],
-    "qualification": null,
-    "photo": {
-      "status": "needs_official_profile_fetch"
-    },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
-    "sources": [
-      "SRC_FMRI"
-    ]
+    "active": true
   },
   {
-    "id": "D-NCR-008",
-    "name": "Dr Balbir Singh",
-    "hospitalId": "H-NCR-003",
-    "specialty": "Cardiology / Interventional Cardiology / Electrophysiology",
-    "role": null,
-    "experienceYears": null,
-    "languages": [],
-    "qualification": null,
-    "photo": {
-      "status": "needs_official_profile_fetch"
+    "id": "d-ncr-009",
+    "name": {
+      "en": "Dr (Prof) SVS Deo"
     },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
+    "hospital": "max-delhi",
+    "specialty": "other",
+    "specialtyName": "Surgical Oncology",
+    "source": "https://www.maxhealthcare.in/hospital-network/max-super-speciality-hospital-saket",
+    "profileUrl": "https://www.maxhealthcare.in/hospital-network/max-super-speciality-hospital-saket",
+    "verificationStatus": "needs_review",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
     "sources": [
-      "SRC_MAX_SAKET"
-    ]
-  },
-  {
-    "id": "D-NCR-009",
-    "name": "Dr (Prof) SVS Deo",
-    "hospitalId": "H-NCR-003",
-    "specialty": "Surgical Oncology",
-    "role": "Chairman – Surgical Oncology",
+      "https://www.maxhealthcare.in/hospital-network/max-super-speciality-hospital-saket"
+    ],
+    "qualifications": null,
     "experienceYears": 35,
     "languages": [],
-    "qualification": null,
-    "photo": {
-      "status": "needs_official_profile_fetch"
-    },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
-    "sources": [
-      "SRC_MAX_SAKET"
-    ]
+    "active": true
   },
   {
-    "id": "D-NCR-010",
-    "name": "Dr (Col) Joy Dev Mukherji",
-    "hospitalId": "H-NCR-003",
-    "specialty": "Neurology",
-    "role": null,
+    "id": "d-ncr-010",
+    "name": {
+      "en": "Dr (Col) Joy Dev Mukherji"
+    },
+    "hospital": "max-delhi",
+    "specialty": "neuro",
+    "specialtyName": "Neurology",
+    "source": "https://www.maxhealthcare.in/hospital-network/max-super-speciality-hospital-saket",
+    "profileUrl": "https://www.maxhealthcare.in/hospital-network/max-super-speciality-hospital-saket",
+    "verificationStatus": "needs_review",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://www.maxhealthcare.in/hospital-network/max-super-speciality-hospital-saket"
+    ],
+    "qualifications": null,
     "experienceYears": null,
     "languages": [],
-    "qualification": null,
-    "photo": {
-      "status": "needs_official_profile_fetch"
-    },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
-    "sources": [
-      "SRC_MAX_SAKET"
-    ]
+    "active": true
   },
   {
-    "id": "D-NCR-011",
-    "name": "Dr Parveen Yadav",
-    "hospitalId": "H-NCR-005",
-    "specialty": "Oncology",
-    "role": null,
+    "id": "d-ncr-011",
+    "name": {
+      "en": "Dr Parveen Yadav"
+    },
+    "hospital": "h-ncr-005",
+    "specialty": "cancer",
+    "specialtyName": "Oncology",
+    "source": "https://www.artemishospitals.com/specialities/oncology",
+    "profileUrl": "https://www.artemishospitals.com/specialities/oncology",
+    "verificationStatus": "needs_review",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://www.artemishospitals.com/specialities/oncology"
+    ],
+    "qualifications": null,
     "experienceYears": null,
     "languages": [],
-    "qualification": null,
-    "photo": {
-      "status": "needs_official_profile_fetch"
-    },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
-    "sources": [
-      "SRC_ARTEMIS_ONC"
-    ]
+    "active": true
   },
   {
-    "id": "D-NCR-012",
-    "name": "Dr Lalit Kumar",
-    "hospitalId": "H-NCR-005",
-    "specialty": "Oncology",
-    "role": null,
+    "id": "d-ncr-012",
+    "name": {
+      "en": "Dr Lalit Kumar"
+    },
+    "hospital": "h-ncr-005",
+    "specialty": "cancer",
+    "specialtyName": "Oncology",
+    "source": "https://www.artemishospitals.com/specialities/oncology",
+    "profileUrl": "https://www.artemishospitals.com/specialities/oncology",
+    "verificationStatus": "needs_review",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://www.artemishospitals.com/specialities/oncology"
+    ],
+    "qualifications": null,
     "experienceYears": null,
     "languages": [],
-    "qualification": null,
-    "photo": {
-      "status": "needs_official_profile_fetch"
-    },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
-    "sources": [
-      "SRC_ARTEMIS_ONC"
-    ]
+    "active": true
   },
   {
-    "id": "D-BLR-001",
-    "name": "Prof. Dr. Nagamalesh U M",
-    "hospitalId": "H-BLR-002",
-    "specialty": "Cardiology & Interventional Cardiology",
-    "role": "Lead Consultant",
+    "id": "d-blr-001",
+    "name": {
+      "en": "Prof. Dr. Nagamalesh U M"
+    },
+    "hospital": "h-blr-002",
+    "specialty": "other",
+    "specialtyName": "Cardiology & Interventional Cardiology",
+    "source": "https://www.asterhospitals.in/hospitals/aster-cmi-bangalore/center-of-excellences/cardiac-sciences",
+    "profileUrl": "https://www.asterhospitals.in/hospitals/aster-cmi-bangalore/center-of-excellences/cardiac-sciences",
+    "verificationStatus": "needs_review",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://www.asterhospitals.in/hospitals/aster-cmi-bangalore/center-of-excellences/cardiac-sciences"
+    ],
+    "qualifications": null,
     "experienceYears": 20,
     "languages": [
       "English",
       "Kannada",
       "Hindi"
     ],
-    "qualification": null,
-    "photo": {
-      "status": "needs_official_profile_fetch"
-    },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
-    "sources": [
-      "SRC_ASTER_CARD"
-    ]
+    "active": true
   },
   {
-    "id": "D-BLR-002",
-    "name": "Dr Ganeshakrishnan Iyer",
-    "hospitalId": "H-BLR-002",
-    "specialty": "Cardiovascular & Thoracic Surgery",
-    "role": "Lead Consultant",
+    "id": "d-blr-002",
+    "name": {
+      "en": "Dr Ganeshakrishnan Iyer"
+    },
+    "hospital": "h-blr-002",
+    "specialty": "other",
+    "specialtyName": "Cardiovascular & Thoracic Surgery",
+    "source": "https://www.asterhospitals.in/hospitals/aster-cmi-bangalore/center-of-excellences/cardiac-sciences",
+    "profileUrl": "https://www.asterhospitals.in/hospitals/aster-cmi-bangalore/center-of-excellences/cardiac-sciences",
+    "verificationStatus": "needs_review",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://www.asterhospitals.in/hospitals/aster-cmi-bangalore/center-of-excellences/cardiac-sciences"
+    ],
+    "qualifications": "MBBS, MS, MCh",
     "experienceYears": 25,
     "languages": [
       "English",
       "Kannada",
       "Hindi"
     ],
-    "qualification": "MBBS, MS, MCh",
-    "photo": {
-      "status": "needs_official_profile_fetch"
-    },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
-    "sources": [
-      "SRC_ASTER_CARD"
-    ]
+    "active": true
   },
   {
-    "id": "D-BLR-003",
-    "name": "Dr Nikhil C. Hiremath",
-    "hospitalId": "H-BLR-002",
-    "specialty": "Neurology",
-    "role": "Consultant",
+    "id": "d-blr-003",
+    "name": {
+      "en": "Dr Nikhil C. Hiremath"
+    },
+    "hospital": "h-blr-002",
+    "specialty": "neuro",
+    "specialtyName": "Neurology",
+    "source": "https://www.asterhospitals.in/hospitals/aster-cmi-bangalore",
+    "profileUrl": "https://www.asterhospitals.in/hospitals/aster-cmi-bangalore",
+    "verificationStatus": "needs_review",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://www.asterhospitals.in/hospitals/aster-cmi-bangalore"
+    ],
+    "qualifications": null,
     "experienceYears": null,
     "languages": [],
-    "qualification": null,
-    "photo": {
-      "status": "needs_official_profile_fetch"
-    },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
-    "sources": [
-      "SRC_ASTER_CMI"
-    ]
+    "active": true
   },
   {
-    "id": "D-BLR-004",
-    "name": "Dr Poovamma C U",
-    "hospitalId": "H-BLR-002",
-    "specialty": "Breast Oncology & Oncoplasty",
-    "role": "Lead & HOD",
+    "id": "d-blr-004",
+    "name": {
+      "en": "Dr Poovamma C U"
+    },
+    "hospital": "h-blr-002",
+    "specialty": "other",
+    "specialtyName": "Breast Oncology & Oncoplasty",
+    "source": "https://www.asterhospitals.in/hospitals/aster-cmi-bangalore",
+    "profileUrl": "https://www.asterhospitals.in/hospitals/aster-cmi-bangalore",
+    "verificationStatus": "needs_review",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://www.asterhospitals.in/hospitals/aster-cmi-bangalore"
+    ],
+    "qualifications": null,
     "experienceYears": 15,
     "languages": [
       "English",
       "Kannada",
       "Hindi"
     ],
-    "qualification": null,
-    "photo": {
-      "status": "needs_official_profile_fetch"
-    },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
-    "sources": [
-      "SRC_ASTER_CMI"
-    ]
+    "active": true
   },
   {
-    "id": "D-CHN-004",
-    "name": "Dr. Girinath M R",
-    "hospitalId": "H-CHN-001",
-    "specialty": "Cardiothoracic & Vascular Surgery",
-    "role": "Chief - CTVS",
+    "id": "d-chn-004",
+    "name": {
+      "en": "Dr. Girinath M R"
+    },
+    "hospital": "apollo-chennai",
+    "specialty": "other",
+    "specialtyName": "Cardiothoracic & Vascular Surgery",
+    "source": "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai",
+    "profileUrl": "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai",
+    "verificationStatus": "needs_review",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai"
+    ],
+    "qualifications": "MBBS, MD, DM (Cardiology)",
     "experienceYears": 54,
     "languages": [
       "English",
       "Tamil",
       "Hindi"
     ],
-    "qualification": "MBBS, MD, DM (Cardiology)",
-    "photo": {
-      "status": "avatar_fallback"
-    },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
-    "sources": [
-      "SRC_APOLLO_CHN"
-    ]
+    "active": true
   },
   {
-    "id": "D-CHN-005",
-    "name": "Dr. Abraham Oomman",
-    "hospitalId": "H-CHN-001",
-    "specialty": "Cardiology",
-    "role": "Senior Consultant",
+    "id": "d-chn-005",
+    "name": {
+      "en": "Dr. Abraham Oomman"
+    },
+    "hospital": "apollo-chennai",
+    "specialty": "cardiac",
+    "specialtyName": "Cardiology",
+    "source": "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai",
+    "profileUrl": "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai",
+    "verificationStatus": "needs_review",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai"
+    ],
+    "qualifications": "MBBS, MD, DM (Cardiology), DNB",
     "experienceYears": 25,
     "languages": [
       "English",
       "Tamil",
       "Hindi"
     ],
-    "qualification": "MBBS, MD, DM (Cardiology), DNB",
-    "photo": {
-      "status": "avatar_fallback"
-    },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
-    "sources": [
-      "SRC_APOLLO_CHN"
-    ]
+    "active": true
   },
   {
-    "id": "D-CHN-006",
-    "name": "Dr. K Kalaichelvi",
-    "hospitalId": "H-CHN-001",
-    "specialty": "Medical Oncology",
-    "role": "Senior Consultant",
+    "id": "d-chn-006",
+    "name": {
+      "en": "Dr. K Kalaichelvi"
+    },
+    "hospital": "apollo-chennai",
+    "specialty": "other",
+    "specialtyName": "Medical Oncology",
+    "source": "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai",
+    "profileUrl": "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai",
+    "verificationStatus": "needs_review",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai"
+    ],
+    "qualifications": "MBBS, MD, DM (Medical Oncology)",
     "experienceYears": 39,
     "languages": [
       "English",
       "Tamil"
     ],
-    "qualification": "MBBS, MD, DM (Medical Oncology)",
-    "photo": {
-      "status": "avatar_fallback"
-    },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
-    "sources": [
-      "SRC_APOLLO_CHN"
-    ]
+    "active": true
   },
   {
-    "id": "D-CHN-007",
-    "name": "Dr. Prithvi Mohandas",
-    "hospitalId": "H-CHN-003",
-    "specialty": "Orthopaedics & Joint Replacement",
-    "role": "Director",
+    "id": "d-chn-007",
+    "name": {
+      "en": "Dr. Prithvi Mohandas"
+    },
+    "hospital": "miot-chennai",
+    "specialty": "other",
+    "specialtyName": "Orthopaedics & Joint Replacement",
+    "source": "https://www.miotinternational.com/",
+    "profileUrl": "https://www.miotinternational.com/",
+    "verificationStatus": "needs_review",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://www.miotinternational.com/"
+    ],
+    "qualifications": "MBBS, MS (Ortho)",
     "experienceYears": 21,
     "languages": [
       "English",
       "Tamil"
     ],
-    "qualification": "MBBS, MS (Ortho)",
-    "photo": {
-      "status": "avatar_fallback"
-    },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
-    "sources": [
-      "SRC_MIOT"
-    ]
+    "active": true
   },
   {
-    "id": "D-CHN-008",
-    "name": "Dr. Richard Saldanha",
-    "hospitalId": "H-CHN-003",
-    "specialty": "Cardiac Surgery",
-    "role": "Director - CTVS",
+    "id": "d-chn-008",
+    "name": {
+      "en": "Dr. Richard Saldanha"
+    },
+    "hospital": "miot-chennai",
+    "specialty": "cardiac",
+    "specialtyName": "Cardiac Surgery",
+    "source": "https://www.miotinternational.com/",
+    "profileUrl": "https://www.miotinternational.com/",
+    "verificationStatus": "needs_review",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://www.miotinternational.com/"
+    ],
+    "qualifications": "MBBS, MS, MCh",
     "experienceYears": 44,
     "languages": [
       "English",
       "Tamil"
     ],
-    "qualification": "MBBS, MS, MCh",
-    "photo": {
-      "status": "avatar_fallback"
-    },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
-    "sources": [
-      "SRC_MIOT"
-    ]
+    "active": true
   },
   {
-    "id": "D-CHN-009",
-    "name": "Dr. M. S. Meenakshi",
-    "hospitalId": "H-CHN-003",
-    "specialty": "Interventional Cardiology",
-    "role": "Consultant",
+    "id": "d-chn-009",
+    "name": {
+      "en": "Dr. M. S. Meenakshi"
+    },
+    "hospital": "miot-chennai",
+    "specialty": "other",
+    "specialtyName": "Interventional Cardiology",
+    "source": "https://www.miotinternational.com/",
+    "profileUrl": "https://www.miotinternational.com/",
+    "verificationStatus": "needs_review",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://www.miotinternational.com/"
+    ],
+    "qualifications": "MBBS, MD, DM",
     "experienceYears": 25,
     "languages": [
       "English",
       "Tamil"
     ],
-    "qualification": "MBBS, MD, DM",
-    "photo": {
-      "status": "avatar_fallback"
-    },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
-    "sources": [
-      "SRC_MIOT"
-    ]
+    "active": true
   },
   {
-    "id": "D-BLR-005",
-    "name": "Dr. Keshava R",
-    "hospitalId": "H-BLR-001",
-    "specialty": "Interventional Cardiology",
-    "role": "HOD & Consultant",
+    "id": "d-blr-005",
+    "name": {
+      "en": "Dr. Keshava R"
+    },
+    "hospital": "manipal-bengaluru",
+    "specialty": "other",
+    "specialtyName": "Interventional Cardiology",
+    "source": "https://www.manipalhospitals.com/oldairportroad/hospitals/",
+    "profileUrl": "https://www.manipalhospitals.com/oldairportroad/hospitals/",
+    "verificationStatus": "needs_review",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://www.manipalhospitals.com/oldairportroad/hospitals/"
+    ],
+    "qualifications": "MBBS, MD, DM",
     "experienceYears": 38,
     "languages": [
       "English",
       "Kannada",
       "Hindi"
     ],
-    "qualification": "MBBS, MD, DM",
-    "photo": {
-      "status": "avatar_fallback"
-    },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
-    "sources": [
-      "SRC_MANIPAL_OAR"
-    ]
+    "active": true
   },
   {
-    "id": "D-BLR-006",
-    "name": "Dr. Shabber Zaveri",
-    "hospitalId": "H-BLR-001",
-    "specialty": "Surgical Oncology",
-    "role": "Chairman HOD - Surgical Oncology & Robotic Surgery",
+    "id": "d-blr-006",
+    "name": {
+      "en": "Dr. Shabber Zaveri"
+    },
+    "hospital": "manipal-bengaluru",
+    "specialty": "other",
+    "specialtyName": "Surgical Oncology",
+    "source": "https://www.manipalhospitals.com/oldairportroad/hospitals/",
+    "profileUrl": "https://www.manipalhospitals.com/oldairportroad/hospitals/",
+    "verificationStatus": "needs_review",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://www.manipalhospitals.com/oldairportroad/hospitals/"
+    ],
+    "qualifications": "MBBS, MS, MCh",
     "experienceYears": 30,
     "languages": [
       "English",
       "Kannada",
       "Hindi"
     ],
-    "qualification": "MBBS, MS, MCh",
-    "photo": {
-      "status": "avatar_fallback"
-    },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
-    "sources": [
-      "SRC_MANIPAL_OAR"
-    ]
+    "active": true
   },
   {
-    "id": "D-BLR-007",
-    "name": "Dr. Amit Rauthan",
-    "hospitalId": "H-BLR-001",
-    "specialty": "Medical Oncology",
-    "role": "HOD & Consultant - Medical Oncology",
+    "id": "d-blr-007",
+    "name": {
+      "en": "Dr. Amit Rauthan"
+    },
+    "hospital": "manipal-bengaluru",
+    "specialty": "other",
+    "specialtyName": "Medical Oncology",
+    "source": "https://www.manipalhospitals.com/oldairportroad/hospitals/",
+    "profileUrl": "https://www.manipalhospitals.com/oldairportroad/hospitals/",
+    "verificationStatus": "needs_review",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://www.manipalhospitals.com/oldairportroad/hospitals/"
+    ],
+    "qualifications": "MBBS, MD, DM",
     "experienceYears": 22,
     "languages": [
       "English",
       "Hindi"
     ],
-    "qualification": "MBBS, MD, DM",
-    "photo": {
-      "status": "avatar_fallback"
-    },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
-    "sources": [
-      "SRC_MANIPAL_OAR"
-    ]
+    "active": true
   },
   {
-    "id": "D-HYD-006",
-    "name": "Dr. B. Soma Raju",
-    "hospitalId": "H-HYD-002",
-    "specialty": "Cardiology",
-    "role": "Founder & Senior Consultant",
+    "id": "d-hyd-006",
+    "name": {
+      "en": "Dr. B. Soma Raju"
+    },
+    "hospital": "h-hyd-002",
+    "specialty": "cardiac",
+    "specialtyName": "Cardiology",
+    "source": "https://www.carehospitals.com/hospitals/hyderabad/care-hospital-banjara-hills",
+    "profileUrl": "https://www.carehospitals.com/hospitals/hyderabad/care-hospital-banjara-hills",
+    "verificationStatus": "needs_review",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://www.carehospitals.com/hospitals/hyderabad/care-hospital-banjara-hills"
+    ],
+    "qualifications": "MD, DM (Cardiology)",
     "experienceYears": 40,
     "languages": [
       "English",
       "Telugu",
       "Hindi"
     ],
-    "qualification": "MD, DM (Cardiology)",
-    "photo": {
-      "status": "avatar_fallback"
-    },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
-    "sources": [
-      "SRC_CARE_BH"
-    ]
+    "active": true
   },
   {
-    "id": "D-NCR-013",
-    "name": "Dr. Sandeep Batra",
-    "hospitalId": "H-NCR-004",
-    "specialty": "Medical Oncology",
-    "role": "Principal Director",
+    "id": "d-ncr-013",
+    "name": {
+      "en": "Dr. Sandeep Batra"
+    },
+    "hospital": "h-ncr-004",
+    "specialty": "other",
+    "specialtyName": "Medical Oncology",
+    "source": "https://www.maxhealthcare.in/international/en/hospital/blk-max-super-speciality-hospital",
+    "profileUrl": "https://www.maxhealthcare.in/international/en/hospital/blk-max-super-speciality-hospital",
+    "verificationStatus": "needs_review",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://www.maxhealthcare.in/international/en/hospital/blk-max-super-speciality-hospital"
+    ],
+    "qualifications": "MBBS, MD, DM",
     "experienceYears": 20,
     "languages": [
       "English",
       "Hindi"
     ],
-    "qualification": "MBBS, MD, DM",
-    "photo": {
-      "status": "avatar_fallback"
-    },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
-    "sources": [
-      "SRC_BLK_MAX"
-    ]
+    "active": true
   },
   {
-    "id": "D-NCR-014",
-    "name": "Dr. T. S. Kler",
-    "hospitalId": "H-NCR-004",
-    "specialty": "Cardiology / Electrophysiology",
-    "role": "Chairman - Cardiac Sciences",
+    "id": "d-ncr-014",
+    "name": {
+      "en": "Dr. T. S. Kler"
+    },
+    "hospital": "h-ncr-004",
+    "specialty": "other",
+    "specialtyName": "Cardiology / Electrophysiology",
+    "source": "https://www.maxhealthcare.in/international/en/hospital/blk-max-super-speciality-hospital",
+    "profileUrl": "https://www.maxhealthcare.in/international/en/hospital/blk-max-super-speciality-hospital",
+    "verificationStatus": "needs_review",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://www.maxhealthcare.in/international/en/hospital/blk-max-super-speciality-hospital"
+    ],
+    "qualifications": "MBBS, MD, DM",
     "experienceYears": 35,
     "languages": [
       "English",
       "Hindi"
     ],
-    "qualification": "MBBS, MD, DM",
-    "photo": {
-      "status": "avatar_fallback"
-    },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
-    "sources": [
-      "SRC_BLK_MAX"
-    ]
+    "active": true
   },
   {
-    "id": "D-CHN-010",
-    "name": "Dr. S. Aravindakumar",
-    "hospitalId": "H-CHN-004",
-    "specialty": "Cardiology",
-    "role": "Senior Consultant",
+    "id": "d-chn-010",
+    "name": {
+      "en": "Dr. S. Aravindakumar"
+    },
+    "hospital": "h-chn-004",
+    "specialty": "cardiac",
+    "specialtyName": "Cardiology",
+    "source": "https://www.kauveryhospital.com/our-locations/chennai/",
+    "profileUrl": "https://www.kauveryhospital.com/our-locations/chennai/",
+    "verificationStatus": "needs_review",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://www.kauveryhospital.com/our-locations/chennai/"
+    ],
+    "qualifications": "MBBS, MD, DM",
     "experienceYears": 20,
     "languages": [
       "English",
       "Tamil"
     ],
-    "qualification": "MBBS, MD, DM",
-    "photo": {
-      "status": "avatar_fallback"
-    },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
-    "sources": [
-      "SRC_KAUVERY_CHN"
-    ]
+    "active": true
   },
   {
-    "id": "D-BLR-008",
-    "name": "Dr. Devi Prasad Shetty",
-    "hospitalId": "H-BLR-003",
-    "specialty": "Cardiac Surgery",
-    "role": "Founder & Chairman",
+    "id": "d-blr-008",
+    "name": {
+      "en": "Dr. Devi Prasad Shetty"
+    },
+    "hospital": "h-blr-003",
+    "specialty": "cardiac",
+    "specialtyName": "Cardiac Surgery",
+    "source": "https://www.narayanahealth.org/hospitals-clinics/bangalore",
+    "profileUrl": "https://www.narayanahealth.org/hospitals-clinics/bangalore",
+    "verificationStatus": "needs_review",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://www.narayanahealth.org/hospitals-clinics/bangalore"
+    ],
+    "qualifications": "MBBS, MS, FRCS",
     "experienceYears": 40,
     "languages": [
       "English",
       "Kannada",
       "Hindi"
     ],
-    "qualification": "MBBS, MS, FRCS",
-    "photo": {
-      "status": "avatar_fallback"
-    },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
-    "sources": [
-      "SRC_NARAYANA_BLR"
-    ]
+    "active": true
   },
   {
-    "id": "D-CHN-011",
-    "name": "Dr. Rakesh Jalali",
-    "hospitalId": "H-CHN-005",
-    "specialty": "Radiation Oncology",
-    "role": "Medical Director",
+    "id": "d-chn-011",
+    "name": {
+      "en": "Dr. Rakesh Jalali"
+    },
+    "hospital": "h-chn-005",
+    "specialty": "other",
+    "specialtyName": "Radiation Oncology",
+    "source": "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai",
+    "profileUrl": "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai",
+    "verificationStatus": "needs_review",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai"
+    ],
+    "qualifications": "MBBS, MD",
     "experienceYears": 25,
     "languages": [
       "English",
       "Hindi"
     ],
-    "qualification": "MBBS, MD",
-    "photo": {
-      "status": "avatar_fallback"
-    },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
-    "sources": [
-      "SRC_APOLLO_CHN"
-    ]
+    "active": true
   },
   {
-    "id": "D-NCR-015",
-    "name": "Dr. Anoop K. Ganjoo",
-    "hospitalId": "H-NCR-006",
-    "specialty": "Cardiac Surgery",
-    "role": "Senior Consultant",
+    "id": "d-ncr-015",
+    "name": {
+      "en": "Dr. Anoop K. Ganjoo"
+    },
+    "hospital": "h-ncr-006",
+    "specialty": "cardiac",
+    "specialtyName": "Cardiac Surgery",
+    "source": "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai",
+    "profileUrl": "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai",
+    "verificationStatus": "needs_review",
+    "reviewedAt": "2026-10-05",
+    "photo": null,
+    "sources": [
+      "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai"
+    ],
+    "qualifications": "MBBS, MS, MCh",
     "experienceYears": 30,
     "languages": [
       "English",
       "Hindi"
     ],
-    "qualification": "MBBS, MS, MCh",
-    "photo": {
-      "status": "avatar_fallback"
+    "active": true
+  },
+  {
+    "id": "apollo-kol-sumanto",
+    "name": {
+      "en": "Dr Sumanto Mukhopadhyay"
     },
-    "verificationStatus": "verified_official",
-    "lastVerified": "2026-10-05",
+    "hospital": "apollo-kolkata",
+    "specialty": "cardiac",
+    "specialtyName": "Cardiology",
+    "role": "Senior Consultant, Interventional Cardiology",
+    "languages": [
+      "English",
+      "Hindi",
+      "Bengali"
+    ],
+    "source": "https://www.apollohospitals.com/doctors/cardiologist/kolkata/dr-sumanto-mukhopadhyay",
+    "profileUrl": "https://www.apollohospitals.com/doctors/cardiologist/kolkata/dr-sumanto-mukhopadhyay",
     "sources": [
-      "SRC_APOLLO_CHN"
-    ]
+      "https://www.apollohospitals.com/doctors/cardiologist/kolkata/dr-sumanto-mukhopadhyay"
+    ],
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-06",
+    "active": true,
+    "photo": null
+  },
+  {
+    "id": "apollo-kol-uday-shankar",
+    "name": {
+      "en": "Dr Uday Shankar Das"
+    },
+    "hospital": "apollo-kolkata",
+    "specialty": "cardiac",
+    "specialtyName": "Cardiac Sciences",
+    "source": "https://www.apollohospitals.com/doctors/cardiologist/kolkata/dr-uday-shankar-das",
+    "profileUrl": "https://www.apollohospitals.com/doctors/cardiologist/kolkata/dr-uday-shankar-das",
+    "sources": [
+      "https://www.apollohospitals.com/doctors/cardiologist/kolkata/dr-uday-shankar-das"
+    ],
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-06",
+    "active": true,
+    "photo": null
+  },
+  {
+    "id": "apollo-kol-bhabatosh",
+    "name": {
+      "en": "Dr Bhabatosh Biswas"
+    },
+    "hospital": "apollo-kolkata",
+    "specialty": "cardiac",
+    "specialtyName": "Cardiothoracic and Vascular Surgery",
+    "source": "https://www.apollohospitals.com/doctors/cardiothoracic-and-vascular-surgery/kolkata/dr-bhabatosh-biswas",
+    "profileUrl": "https://www.apollohospitals.com/doctors/cardiothoracic-and-vascular-surgery/kolkata/dr-bhabatosh-biswas",
+    "sources": [
+      "https://www.apollohospitals.com/doctors/cardiothoracic-and-vascular-surgery/kolkata/dr-bhabatosh-biswas"
+    ],
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-06",
+    "active": true,
+    "photo": null
+  },
+  {
+    "id": "apollo-kol-swapan-de",
+    "name": {
+      "en": "Dr Swapan Kumar De"
+    },
+    "hospital": "apollo-kolkata",
+    "specialty": "cardiac",
+    "specialtyName": "Cardiology",
+    "source": "https://www.apollohospitals.com/doctors/cardiologist/kolkata/dr-swapan-kumar-de",
+    "profileUrl": "https://www.apollohospitals.com/doctors/cardiologist/kolkata/dr-swapan-kumar-de",
+    "sources": [
+      "https://www.apollohospitals.com/doctors/cardiologist/kolkata/dr-swapan-kumar-de"
+    ],
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-06",
+    "active": true,
+    "photo": null
+  },
+  {
+    "id": "apollo-kol-sushan-mukhopadhyay",
+    "name": {
+      "en": "Dr Sushan Mukhopadhyay"
+    },
+    "hospital": "apollo-kolkata",
+    "specialty": "cardiac",
+    "specialtyName": "Cardiothoracic and Vascular Surgery",
+    "source": "https://www.apollohospitals.com/doctors/cardiothoracic-and-vascular-surgery/kolkata/dr-sushan-mukhopadhyay",
+    "profileUrl": "https://www.apollohospitals.com/doctors/cardiothoracic-and-vascular-surgery/kolkata/dr-sushan-mukhopadhyay",
+    "sources": [
+      "https://www.apollohospitals.com/doctors/cardiothoracic-and-vascular-surgery/kolkata/dr-sushan-mukhopadhyay"
+    ],
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-06",
+    "active": true,
+    "photo": null
+  },
+  {
+    "id": "apollo-kol-tamashis-mukherjee",
+    "name": {
+      "en": "Dr Tamashis Mukherjee"
+    },
+    "hospital": "apollo-kolkata",
+    "specialty": "cardiac",
+    "specialtyName": "Cardiothoracic Surgery",
+    "source": "https://www.apollohospitals.com/doctors/cardiothoracic-and-vascular-surgery/kolkata/dr-tamashis-mukherjee",
+    "profileUrl": "https://www.apollohospitals.com/doctors/cardiothoracic-and-vascular-surgery/kolkata/dr-tamashis-mukherjee",
+    "sources": [
+      "https://www.apollohospitals.com/doctors/cardiothoracic-and-vascular-surgery/kolkata/dr-tamashis-mukherjee"
+    ],
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-06",
+    "active": true,
+    "photo": null
+  },
+  {
+    "id": "apollo-kol-suvro-banerjee",
+    "name": {
+      "en": "Dr Suvro Banerjee"
+    },
+    "hospital": "apollo-kolkata",
+    "specialty": "cardiac",
+    "specialtyName": "Cardiology",
+    "source": "https://www.apollohospitals.com/doctors/cardiologist/kolkata/dr-suvro-banerjee",
+    "profileUrl": "https://www.apollohospitals.com/doctors/cardiologist/kolkata/dr-suvro-banerjee",
+    "sources": [
+      "https://www.apollohospitals.com/doctors/cardiologist/kolkata/dr-suvro-banerjee"
+    ],
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-06",
+    "active": true,
+    "photo": null
+  },
+  {
+    "id": "apollo-kol-debashis-ghosh",
+    "name": {
+      "en": "Dr Debashis Ghosh"
+    },
+    "hospital": "apollo-kolkata",
+    "specialty": "cardiac",
+    "specialtyName": "Cardiology",
+    "source": "https://www.apollohospitals.com/doctors/cardiologist/kolkata/dr-debashis-ghosh",
+    "profileUrl": "https://www.apollohospitals.com/doctors/cardiologist/kolkata/dr-debashis-ghosh",
+    "sources": [
+      "https://www.apollohospitals.com/doctors/cardiologist/kolkata/dr-debashis-ghosh"
+    ],
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-06",
+    "active": true,
+    "photo": null
+  },
+  {
+    "id": "apollo-kol-pc-mondal",
+    "name": {
+      "en": "Dr P C Mondal"
+    },
+    "hospital": "apollo-kolkata",
+    "specialty": "cardiac",
+    "specialtyName": "Cardiology",
+    "source": "https://www.apollohospitals.com/doctors/cardiologist/kolkata/dr-p-c-mondal",
+    "profileUrl": "https://www.apollohospitals.com/doctors/cardiologist/kolkata/dr-p-c-mondal",
+    "sources": [
+      "https://www.apollohospitals.com/doctors/cardiologist/kolkata/dr-p-c-mondal"
+    ],
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-06",
+    "active": true,
+    "photo": null
+  },
+  {
+    "id": "apollo-kol-sankha-subhra",
+    "name": {
+      "en": "Dr Sankha Subhra Das"
+    },
+    "hospital": "apollo-kolkata",
+    "specialty": "cardiac",
+    "specialtyName": "Cardiology",
+    "source": "https://www.apollohospitals.com/doctors/cardiologist/kolkata/dr-sankha-subhra-das",
+    "profileUrl": "https://www.apollohospitals.com/doctors/cardiologist/kolkata/dr-sankha-subhra-das",
+    "sources": [
+      "https://www.apollohospitals.com/doctors/cardiologist/kolkata/dr-sankha-subhra-das"
+    ],
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-06",
+    "active": true,
+    "photo": null
+  },
+  {
+    "id": "apollo-kol-aftab-khan",
+    "name": {
+      "en": "Dr Aftab Khan"
+    },
+    "hospital": "apollo-kolkata",
+    "specialty": "cardiac",
+    "specialtyName": "Cardiology",
+    "source": "https://www.apollohospitals.com/doctors/cardiologist/kolkata/dr-aftab-khan",
+    "profileUrl": "https://www.apollohospitals.com/doctors/cardiologist/kolkata/dr-aftab-khan",
+    "sources": [
+      "https://www.apollohospitals.com/doctors/cardiologist/kolkata/dr-aftab-khan"
+    ],
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-06",
+    "active": true,
+    "photo": null
+  },
+  {
+    "id": "fortis-kol-aditya-verma",
+    "name": {
+      "en": "Dr Aditya Verma"
+    },
+    "hospital": "fortis-kidney-kolkata",
+    "specialty": "cardiac",
+    "specialtyName": "Cardiac Sciences",
+    "source": "https://www.fortishealthcare.com/doctors/dr-aditya-verma-8309",
+    "profileUrl": "https://www.fortishealthcare.com/doctors/dr-aditya-verma-8309",
+    "sources": [
+      "https://www.fortishealthcare.com/doctors/dr-aditya-verma-8309"
+    ],
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-06",
+    "active": true,
+    "photo": null
+  },
+  {
+    "id": "fortis-kol-basabendra-choudhury",
+    "name": {
+      "en": "Dr Basabendra Choudhury"
+    },
+    "hospital": "fortis-kolkata",
+    "specialty": "cardiac",
+    "specialtyName": "Cardiology",
+    "source": "https://www.fortishealthcare.com/doctors/dr-basabendra-choudhury-7210",
+    "profileUrl": "https://www.fortishealthcare.com/doctors/dr-basabendra-choudhury-7210",
+    "sources": [
+      "https://www.fortishealthcare.com/doctors/dr-basabendra-choudhury-7210"
+    ],
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-06",
+    "active": true,
+    "photo": null
+  },
+  {
+    "id": "fortis-kol-azizul-haque",
+    "name": {
+      "en": "Dr Azizul Haque"
+    },
+    "hospital": "fortis-kolkata",
+    "specialty": "cardiac",
+    "specialtyName": "Cardiology",
+    "source": "https://www.fortishealthcare.com/doctors/dr-azizul-haque-871",
+    "profileUrl": "https://www.fortishealthcare.com/doctors/dr-azizul-haque-871",
+    "sources": [
+      "https://www.fortishealthcare.com/doctors/dr-azizul-haque-871"
+    ],
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-06",
+    "active": true,
+    "photo": null
+  },
+  {
+    "id": "fortis-kol-siddhartha-bandyopadhyay",
+    "name": {
+      "en": "Dr Siddhartha Bandyopadhyay"
+    },
+    "hospital": "fortis-kolkata",
+    "specialty": "cardiac",
+    "specialtyName": "Interventional Cardiology",
+    "source": "https://www.fortishealthcare.com/doctors/dr-siddhartha-bandyopadhyay-1556",
+    "profileUrl": "https://www.fortishealthcare.com/doctors/dr-siddhartha-bandyopadhyay-1556",
+    "sources": [
+      "https://www.fortishealthcare.com/doctors/dr-siddhartha-bandyopadhyay-1556"
+    ],
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-06",
+    "active": true,
+    "photo": null
+  },
+  {
+    "id": "medanta-gurugram-gautam-gaurav",
+    "name": {
+      "en": "Dr Gautam Kumar Gaurav"
+    },
+    "hospital": "medanta-gurugram",
+    "specialty": "cardiac",
+    "specialtyName": "Clinical and Preventive Cardiology",
+    "source": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/cardiology/doctor/dr-gautam-kumar-gaurav",
+    "profileUrl": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/cardiology/doctor/dr-gautam-kumar-gaurav",
+    "sources": [
+      "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/cardiology/doctor/dr-gautam-kumar-gaurav"
+    ],
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-06",
+    "active": true,
+    "photo": null
+  },
+  {
+    "id": "medanta-gurugram-rajneesh-kapoor",
+    "name": {
+      "en": "Dr Rajneesh Kapoor"
+    },
+    "hospital": "medanta-gurugram",
+    "specialty": "cardiac",
+    "specialtyName": "Cardiology",
+    "source": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/cardiology/doctor/dr-rajneesh-kapoor",
+    "profileUrl": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/cardiology/doctor/dr-rajneesh-kapoor",
+    "sources": [
+      "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/cardiology/doctor/dr-rajneesh-kapoor"
+    ],
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-06",
+    "active": true,
+    "photo": null
+  },
+  {
+    "id": "medanta-gurugram-praveen-chandra",
+    "name": {
+      "en": "Dr Praveen Chandra"
+    },
+    "hospital": "medanta-gurugram",
+    "specialty": "cardiac",
+    "specialtyName": "Cardiology",
+    "source": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/cardiology/doctor/dr-praveen-chandra",
+    "profileUrl": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/cardiology/doctor/dr-praveen-chandra",
+    "sources": [
+      "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/cardiology/doctor/dr-praveen-chandra"
+    ],
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-06",
+    "active": true,
+    "photo": null
+  },
+  {
+    "id": "medanta-gurugram-vinay-goyal",
+    "name": {
+      "en": "Dr Vinay Goyal"
+    },
+    "hospital": "medanta-gurugram",
+    "specialty": "neuro",
+    "specialtyName": "Neurology",
+    "source": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/neurology/doctor/dr-vinay-goyal",
+    "profileUrl": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/neurology/doctor/dr-vinay-goyal",
+    "sources": [
+      "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/neurology/doctor/dr-vinay-goyal"
+    ],
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-06",
+    "active": true,
+    "photo": null
   }
 ]

@@ -208,5 +208,517 @@
     "type": "official_hospital",
     "name": "Narayana Health Bangalore Hospitals",
     "url": "https://www.narayanahealth.org/hospitals-clinics/bangalore"
+  },
+  {
+    "id": "SRC_APOLLO_KOLKATA_1",
+    "type": "official_provider_page",
+    "name": "Apollo Multispeciality Hospitals",
+    "url": "https://www.apollohospitals.com/hospitals/apollo-hospitals-embypass-kolkata",
+    "lastChecked": "2026-10-05",
+    "verificationStatus": "verified_official"
+  },
+  {
+    "id": "SRC_MIOT_CHENNAI_1",
+    "type": "official_provider_page",
+    "name": "MIOT International",
+    "url": "https://www.miotinternational.com/contact-us/get-in-touch/",
+    "lastChecked": "2026-10-05",
+    "verificationStatus": "verified_official"
+  },
+  {
+    "id": "SRC_MANIPAL_BENGALURU_1",
+    "type": "official_provider_page",
+    "name": "Manipal Hospitals",
+    "url": "https://www.manipalhospitals.com/oldairportroad/contact-us/",
+    "lastChecked": "2026-10-05",
+    "verificationStatus": "verified_official"
+  },
+  {
+    "id": "SRC_MANIPAL_BENGALURU_2",
+    "type": "official_provider_page",
+    "name": "Manipal Hospitals",
+    "url": "https://www.manipalhospitals.com/oldairportroad/specialities/cardiology/",
+    "lastChecked": "2026-10-05",
+    "verificationStatus": "verified_official"
+  },
+  {
+    "id": "SRC_MANIPAL_BENGALURU_3",
+    "type": "official_provider_page",
+    "name": "Manipal Hospitals",
+    "url": "https://www.manipalhospitals.com/oldairportroad/specialities/ophthalmology/",
+    "lastChecked": "2026-10-05",
+    "verificationStatus": "verified_official"
+  },
+  {
+    "id": "SRC_APOLLO_DELHI_1",
+    "type": "official_provider_page",
+    "name": "Apollo Hospitals, Delhi",
+    "url": "https://www.apollohospitals.com/hospitals/apollo-hospitals-delhi",
+    "lastChecked": "2026-10-05",
+    "verificationStatus": "verified_official"
+  },
+  {
+    "id": "SRC_APOLLO_MUMBAI_1",
+    "type": "official_provider_page",
+    "name": "Apollo Hospitals, Mumbai",
+    "url": "https://www.apollohospitals.com/hospitals/apollo-hospitals-mumbai",
+    "lastChecked": "2026-10-05",
+    "verificationStatus": "verified_official"
+  },
+  {
+    "id": "SRC_APOLLO_LUCKNOW_1",
+    "type": "official_provider_page",
+    "name": "Apollo Medics Super Speciality Hospitals",
+    "url": "https://www.apollohospitals.com/hospitals/apollo-hospitals-lucknow",
+    "lastChecked": "2026-10-05",
+    "verificationStatus": "verified_official"
+  },
+  {
+    "id": "SRC_APOLLO_VIZAG_1",
+    "type": "official_provider_page",
+    "name": "Apollo Hospitals Health City",
+    "url": "https://www.apollohospitals.com/hospitals/apollo-hospitals-health-city-arilova-vizag",
+    "lastChecked": "2026-10-05",
+    "verificationStatus": "verified_official"
+  },
+  {
+    "id": "SRC_APOLLO_GUWAHATI_1",
+    "type": "official_provider_page",
+    "name": "Apollo Hospitals, Guwahati",
+    "url": "https://www.apollohospitals.com/hospitals/apollo-hospitals-guwahati",
+    "lastChecked": "2026-10-05",
+    "verificationStatus": "verified_official"
+  },
+  {
+    "id": "SRC_APOLLO_BHUBANESWAR_1",
+    "type": "official_provider_page",
+    "name": "Apollo Hospitals, Bhubaneswar",
+    "url": "https://www.apollohospitals.com/hospitals/apollo-hospitals-bhubaneswar",
+    "lastChecked": "2026-10-05",
+    "verificationStatus": "verified_official"
+  },
+  {
+    "id": "SRC_APOLLO_PUNE_1",
+    "type": "official_provider_page",
+    "name": "Apollo Speciality Hospital, Pune",
+    "url": "https://www.apollohospitals.com/hospitals/pune",
+    "lastChecked": "2026-10-05",
+    "verificationStatus": "verified_official"
+  },
+  {
+    "id": "SRC_APOLLO_GURUGRAM_1",
+    "type": "official_provider_page",
+    "name": "Apollo Hospitals, Gurugram",
+    "url": "https://www.apollohospitals.com/hospitals/gurugram",
+    "lastChecked": "2026-10-05",
+    "verificationStatus": "verified_official"
+  },
+  {
+    "id": "SRC_APOLLO_NOIDA_1",
+    "type": "official_provider_page",
+    "name": "Apollo Hospitals, Noida",
+    "url": "https://www.apollohospitals.com/hospitals/apollo-hospitals-noida",
+    "lastChecked": "2026-10-05",
+    "verificationStatus": "verified_official"
+  },
+  {
+    "id": "SRC_APOLLO_INDORE_1",
+    "type": "official_provider_page",
+    "name": "Apollo Hospitals, Indore",
+    "url": "https://www.apollohospitals.com/hospitals/apollo-hospitals-indore",
+    "lastChecked": "2026-10-05",
+    "verificationStatus": "verified_official"
+  },
+  {
+    "id": "SRC_APOLLO_FIRSTMED_CHENNAI_1",
+    "type": "official_provider_page",
+    "name": "Apollo Firstmed Hospital",
+    "url": "https://www.apollohospitals.com/hospitals/apollo-firstmed-hospital-chennai",
+    "lastChecked": "2026-10-05",
+    "verificationStatus": "verified_official"
+  },
+  {
+    "id": "SRC_APOLLO_JAYANAGAR_1",
+    "type": "official_provider_page",
+    "name": "Apollo Speciality Hospital, Jayanagar",
+    "url": "https://www.apollohospitals.com/hospitals/apollo-speciality-hospital-jayanagar",
+    "lastChecked": "2026-10-05",
+    "verificationStatus": "verified_official"
+  },
+  {
+    "id": "SRC_MEDANTA_GURUGRAM_1",
+    "type": "official_provider_page",
+    "name": "Medanta – The Medicity",
+    "url": "https://www.medanta.org/contact-us",
+    "lastChecked": "2026-10-05",
+    "verificationStatus": "verified_official"
+  },
+  {
+    "id": "SRC_H_CHN_005_1",
+    "type": "official_provider_page",
+    "name": "Apollo Proton Cancer Centre",
+    "url": "https://www.apollohospitals.com/chennai/apollo-proton-cancer-centre",
+    "lastChecked": "2026-10-05",
+    "verificationStatus": "needs_review"
+  },
+  {
+    "id": "SRC_H_NCR_006_1",
+    "type": "official_provider_page",
+    "name": "Indraprastha Apollo Hospitals",
+    "url": "https://www.apollohospitals.com/delhi",
+    "lastChecked": "2026-10-05",
+    "verificationStatus": "needs_review"
+  },
+  {
+    "id": "SRC_APOLLO_SECUNDERABAD_1",
+    "type": "official_provider_page",
+    "name": "Apollo Hospitals",
+    "url": "https://www.apollohospitals.com/hospitals/apollo-hospitals-secunderabad",
+    "lastChecked": "2026-10-05",
+    "verificationStatus": "needs_review"
+  },
+  {
+    "id": "SRC_APOLLO_HYDERGUDA_1",
+    "type": "official_provider_page",
+    "name": "Apollo Hospitals",
+    "url": "https://www.apollohospitals.com/hospitals/apollo-hospitals-hyderguda",
+    "lastChecked": "2026-10-05",
+    "verificationStatus": "needs_review"
+  },
+  {
+    "id": "SRC_APOLLO_DRDO_1",
+    "type": "official_provider_page",
+    "name": "Apollo Hospitals",
+    "url": "https://www.apollohospitals.com/hospitals/apollo-hospitals-drdo-kanchanbagh",
+    "lastChecked": "2026-10-05",
+    "verificationStatus": "needs_review"
+  },
+  {
+    "id": "SRC_APOLLO_FINANCIAL_DISTRICT_1",
+    "type": "official_provider_page",
+    "name": "Apollo Hospitals",
+    "url": "https://www.apollohospitals.com/hospitals/apollo-hospitals-financial-district",
+    "lastChecked": "2026-10-05",
+    "verificationStatus": "needs_review"
+  },
+  {
+    "id": "SRC_APOLLO_JUBILEE_CITY_1",
+    "type": "official_provider_page",
+    "name": "Apollo Health City",
+    "url": "https://www.apollohospitals.com/hospitals/apollo-health-city-jubilee-hills",
+    "lastChecked": "2026-10-05",
+    "verificationStatus": "needs_review"
+  },
+  {
+    "id": "SRC_APOLLO_CANCER_ELECTRONIC_CITY_1",
+    "type": "official_provider_page",
+    "name": "Apollo Cancer Centre",
+    "url": "https://www.apollohospitals.com/hospitals/apollo-cancer-centre-electronic-city-bangalore",
+    "lastChecked": "2026-10-05",
+    "verificationStatus": "needs_review"
+  },
+  {
+    "id": "SRC_APOLLO_SARJAPUR_1",
+    "type": "official_provider_page",
+    "name": "Apollo Hospitals",
+    "url": "https://www.apollohospitals.com/hospitals/apollo-hospitals-sarjapur-road",
+    "lastChecked": "2026-10-05",
+    "verificationStatus": "needs_review"
+  },
+  {
+    "id": "SRC_FORTIS_KIDNEY_KOLKATA_1",
+    "type": "official_provider_page",
+    "name": "Fortis Hospital & Kidney Institute",
+    "url": "https://www.fortishealthcare.com/location/fortis-hospital-kidney-institute-kolkata",
+    "lastChecked": "2026-10-05",
+    "verificationStatus": "needs_review"
+  },
+  {
+    "id": "SRC_MAHESH_1",
+    "type": "official_provider_page",
+    "name": "Dr Mahesh Goenka",
+    "url": "https://www.apollohospitals.com/doctors/gastroenterologist/kolkata/dr-mahesh-goenka",
+    "lastChecked": "2026-10-05",
+    "verificationStatus": "verified_official"
+  },
+  {
+    "id": "SRC_BALBIR_1",
+    "type": "official_provider_page",
+    "name": "Dr Balbir Singh",
+    "url": "https://www.maxhealthcare.in/doctor/dr-balbir-singh",
+    "lastChecked": "2026-10-05",
+    "verificationStatus": "verified_official"
+  },
+  {
+    "id": "SRC_BALLAL_1",
+    "type": "official_provider_page",
+    "name": "Dr H. Sudarshan Ballal",
+    "url": "https://www.manipalhospitals.com/oldairportroad/doctors/dr-h-sudarshan-ballal-kidney-transplant-physician-nephrology/",
+    "lastChecked": "2026-10-05",
+    "verificationStatus": "verified_official"
+  },
+  {
+    "id": "SRC_CURATED_APOLLO_KOL_SUMANTO",
+    "type": "official_doctor",
+    "name": "Dr Sumanto Mukhopadhyay",
+    "url": "https://www.apollohospitals.com/doctors/cardiologist/kolkata/dr-sumanto-mukhopadhyay",
+    "lastChecked": "2026-10-06",
+    "verificationStatus": "verified_official"
+  },
+  {
+    "id": "SRC_CURATED_APOLLO_KOL_UDAY_SHANKAR",
+    "type": "official_doctor",
+    "name": "Dr Uday Shankar Das",
+    "url": "https://www.apollohospitals.com/doctors/cardiologist/kolkata/dr-uday-shankar-das",
+    "lastChecked": "2026-10-06",
+    "verificationStatus": "verified_official"
+  },
+  {
+    "id": "SRC_CURATED_APOLLO_KOL_BHABATOSH",
+    "type": "official_doctor",
+    "name": "Dr Bhabatosh Biswas",
+    "url": "https://www.apollohospitals.com/doctors/cardiothoracic-and-vascular-surgery/kolkata/dr-bhabatosh-biswas",
+    "lastChecked": "2026-10-06",
+    "verificationStatus": "verified_official"
+  },
+  {
+    "id": "SRC_CURATED_APOLLO_KOL_SWAPAN_DE",
+    "type": "official_doctor",
+    "name": "Dr Swapan Kumar De",
+    "url": "https://www.apollohospitals.com/doctors/cardiologist/kolkata/dr-swapan-kumar-de",
+    "lastChecked": "2026-10-06",
+    "verificationStatus": "verified_official"
+  },
+  {
+    "id": "SRC_CURATED_APOLLO_KOL_SUSHAN_MUKHOPADHYAY",
+    "type": "official_doctor",
+    "name": "Dr Sushan Mukhopadhyay",
+    "url": "https://www.apollohospitals.com/doctors/cardiothoracic-and-vascular-surgery/kolkata/dr-sushan-mukhopadhyay",
+    "lastChecked": "2026-10-06",
+    "verificationStatus": "verified_official"
+  },
+  {
+    "id": "SRC_CURATED_APOLLO_KOL_TAMASHIS_MUKHERJEE",
+    "type": "official_doctor",
+    "name": "Dr Tamashis Mukherjee",
+    "url": "https://www.apollohospitals.com/doctors/cardiothoracic-and-vascular-surgery/kolkata/dr-tamashis-mukherjee",
+    "lastChecked": "2026-10-06",
+    "verificationStatus": "verified_official"
+  },
+  {
+    "id": "SRC_CURATED_APOLLO_KOL_SUVRO_BANERJEE",
+    "type": "official_doctor",
+    "name": "Dr Suvro Banerjee",
+    "url": "https://www.apollohospitals.com/doctors/cardiologist/kolkata/dr-suvro-banerjee",
+    "lastChecked": "2026-10-06",
+    "verificationStatus": "verified_official"
+  },
+  {
+    "id": "SRC_CURATED_APOLLO_KOL_DEBASHIS_GHOSH",
+    "type": "official_doctor",
+    "name": "Dr Debashis Ghosh",
+    "url": "https://www.apollohospitals.com/doctors/cardiologist/kolkata/dr-debashis-ghosh",
+    "lastChecked": "2026-10-06",
+    "verificationStatus": "verified_official"
+  },
+  {
+    "id": "SRC_CURATED_APOLLO_KOL_PC_MONDAL",
+    "type": "official_doctor",
+    "name": "Dr P C Mondal",
+    "url": "https://www.apollohospitals.com/doctors/cardiologist/kolkata/dr-p-c-mondal",
+    "lastChecked": "2026-10-06",
+    "verificationStatus": "verified_official"
+  },
+  {
+    "id": "SRC_CURATED_APOLLO_KOL_SANKHA_SUBHRA",
+    "type": "official_doctor",
+    "name": "Dr Sankha Subhra Das",
+    "url": "https://www.apollohospitals.com/doctors/cardiologist/kolkata/dr-sankha-subhra-das",
+    "lastChecked": "2026-10-06",
+    "verificationStatus": "verified_official"
+  },
+  {
+    "id": "SRC_CURATED_APOLLO_KOL_AFTAB_KHAN",
+    "type": "official_doctor",
+    "name": "Dr Aftab Khan",
+    "url": "https://www.apollohospitals.com/doctors/cardiologist/kolkata/dr-aftab-khan",
+    "lastChecked": "2026-10-06",
+    "verificationStatus": "verified_official"
+  },
+  {
+    "id": "SRC_CURATED_FORTIS_KOL_ADITYA_VERMA",
+    "type": "official_doctor",
+    "name": "Dr Aditya Verma",
+    "url": "https://www.fortishealthcare.com/doctors/dr-aditya-verma-8309",
+    "lastChecked": "2026-10-06",
+    "verificationStatus": "verified_official"
+  },
+  {
+    "id": "SRC_CURATED_FORTIS_KOL_BASABENDRA_CHOUDHURY",
+    "type": "official_doctor",
+    "name": "Dr Basabendra Choudhury",
+    "url": "https://www.fortishealthcare.com/doctors/dr-basabendra-choudhury-7210",
+    "lastChecked": "2026-10-06",
+    "verificationStatus": "verified_official"
+  },
+  {
+    "id": "SRC_CURATED_FORTIS_KOL_AZIZUL_HAQUE",
+    "type": "official_doctor",
+    "name": "Dr Azizul Haque",
+    "url": "https://www.fortishealthcare.com/doctors/dr-azizul-haque-871",
+    "lastChecked": "2026-10-06",
+    "verificationStatus": "verified_official"
+  },
+  {
+    "id": "SRC_CURATED_FORTIS_KOL_SIDDHARTHA_BANDYOPADHYAY",
+    "type": "official_doctor",
+    "name": "Dr Siddhartha Bandyopadhyay",
+    "url": "https://www.fortishealthcare.com/doctors/dr-siddhartha-bandyopadhyay-1556",
+    "lastChecked": "2026-10-06",
+    "verificationStatus": "verified_official"
+  },
+  {
+    "id": "SRC_CURATED_MEDANTA_GURUGRAM_GAUTAM_GAURAV",
+    "type": "official_doctor",
+    "name": "Dr Gautam Kumar Gaurav",
+    "url": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/cardiology/doctor/dr-gautam-kumar-gaurav",
+    "lastChecked": "2026-10-06",
+    "verificationStatus": "verified_official"
+  },
+  {
+    "id": "SRC_CURATED_MEDANTA_GURUGRAM_RAJNEESH_KAPOOR",
+    "type": "official_doctor",
+    "name": "Dr Rajneesh Kapoor",
+    "url": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/cardiology/doctor/dr-rajneesh-kapoor",
+    "lastChecked": "2026-10-06",
+    "verificationStatus": "verified_official"
+  },
+  {
+    "id": "SRC_CURATED_MEDANTA_GURUGRAM_PRAVEEN_CHANDRA",
+    "type": "official_doctor",
+    "name": "Dr Praveen Chandra",
+    "url": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/cardiology/doctor/dr-praveen-chandra",
+    "lastChecked": "2026-10-06",
+    "verificationStatus": "verified_official"
+  },
+  {
+    "id": "SRC_CURATED_MEDANTA_GURUGRAM_VINAY_GOYAL",
+    "type": "official_doctor",
+    "name": "Dr Vinay Goyal",
+    "url": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/neurology/doctor/dr-vinay-goyal",
+    "lastChecked": "2026-10-06",
+    "verificationStatus": "verified_official"
+  },
+  {
+    "id": "SRC_CURATED_HYATT_KOLKATA",
+    "type": "official_hotel",
+    "name": "Hyatt Regency Kolkata",
+    "url": "https://www.hyatt.com/hyatt-regency/en-US/kolka-hyatt-regency-kolkata",
+    "lastChecked": "2026-10-06",
+    "verificationStatus": "needs_review"
+  },
+  {
+    "id": "SRC_CURATED_VIVANTA_KOLKATA",
+    "type": "official_hotel",
+    "name": "Vivanta Kolkata, EM Bypass",
+    "url": "https://www.vivantahotels.com/en-in/hotels/vivanta-kolkata",
+    "lastChecked": "2026-10-06",
+    "verificationStatus": "needs_review"
+  },
+  {
+    "id": "SRC_CURATED_VIVANTA_KOLKATA",
+    "type": "official_hotel",
+    "name": "Vivanta Kolkata, EM Bypass",
+    "url": "https://www.hotelassociationofindia.com/pdf/Kolkata/Vivanta%20Kolkata%20EM%20Bypass.pdf",
+    "lastChecked": "2026-10-06",
+    "verificationStatus": "needs_review"
+  },
+  {
+    "id": "SRC_CURATED_HYATT_CHENNAI",
+    "type": "official_hotel",
+    "name": "Hyatt Regency Chennai",
+    "url": "https://www.hyatt.com/hyatt-regency/en-US/chenn-hyatt-regency-chennai",
+    "lastChecked": "2026-10-06",
+    "verificationStatus": "needs_review"
+  },
+  {
+    "id": "SRC_CURATED_LEMON_SHIMONA",
+    "type": "official_hotel",
+    "name": "Lemon Tree Hotel, Shimona",
+    "url": "https://www.lemontreehotels.com/lemon-tree-hotel/chennai/shimona-hotel-chennai",
+    "lastChecked": "2026-10-06",
+    "verificationStatus": "needs_review"
+  },
+  {
+    "id": "SRC_CURATED_LEMON_SHIMONA",
+    "type": "official_hotel",
+    "name": "Lemon Tree Hotel, Shimona",
+    "url": "https://www.lemontreehotels.com/chennai-hotels",
+    "lastChecked": "2026-10-06",
+    "verificationStatus": "needs_review"
+  },
+  {
+    "id": "SRC_CURATED_LEMON_SHIMONA",
+    "type": "official_hotel",
+    "name": "Lemon Tree Hotel, Shimona",
+    "url": "https://www.lemontreehotels.com/lemon-tree-hotel/chennai/shimona-hotel-chennai/contact-us",
+    "lastChecked": "2026-10-06",
+    "verificationStatus": "needs_review"
+  },
+  {
+    "id": "SRC_CURATED_ROYAL_ORCHID",
+    "type": "official_hotel",
+    "name": "Hotel Royal Orchid, Bangalore",
+    "url": "https://www.royalorchidhotels.com/hotel-royal-orchid-bangalore/overview",
+    "lastChecked": "2026-10-06",
+    "verificationStatus": "needs_review"
+  },
+  {
+    "id": "SRC_CURATED_HILTON_SAKET",
+    "type": "official_hotel",
+    "name": "Hilton Garden Inn New Delhi/Saket",
+    "url": "https://www.hilton.com/en-gb/hotels/delskgi-hilton-garden-inn-new-delhi-saket/",
+    "lastChecked": "2026-10-06",
+    "verificationStatus": "needs_review"
+  },
+  {
+    "id": "SRC_CURATED_TULIP_INN_GURUGRAM",
+    "type": "official_hotel",
+    "name": "Tulip Inn Gurugram",
+    "url": "https://www.sarovarhotels.com/tulip-inn-gurugram-near-medanta/special-offers.html",
+    "lastChecked": "2026-10-06",
+    "verificationStatus": "verified_official"
+  },
+  {
+    "id": "SRC_CURATED_ITC_KOHENUR_HYDERABAD",
+    "type": "official_hotel",
+    "name": "ITC Kohenur, Hyderabad",
+    "url": "https://www.itchotels.com/in/en/itckohenur-hyderabad",
+    "lastChecked": "2026-10-06",
+    "verificationStatus": "verified_official"
+  },
+  {
+    "id": "SRC_CURATED_TAJ_CLUB_HOUSE_CHENNAI",
+    "type": "official_hotel",
+    "name": "Taj Club House, Chennai",
+    "url": "https://www.tajhotels.com/en-in/hotels/taj-club-house-chennai",
+    "lastChecked": "2026-10-06",
+    "verificationStatus": "verified_official"
+  },
+  {
+    "id": "SRC_CURATED_HYATT_CENTRIC_HEBBAL",
+    "type": "official_hotel",
+    "name": "Hyatt Centric Hebbal Bengaluru",
+    "url": "https://www.hyatt.com/hyatt-centric/en-US/blrch-hyatt-centric-hebbal-bengaluru/hotel-info",
+    "lastChecked": "2026-10-06",
+    "verificationStatus": "verified_official"
+  },
+  {
+    "id": "SRC_CURATED_WESTIN_GURGAON",
+    "type": "official_hotel",
+    "name": "The Westin Gurgaon, New Delhi",
+    "url": "https://www.marriott.com/en-us/hotels/delwi-the-westin-gurgaon-new-delhi/overview/",
+    "lastChecked": "2026-10-06",
+    "verificationStatus": "verified_official"
   }
 ]

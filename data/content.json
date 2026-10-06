@@ -1,0 +1,667 @@
+{
+  "guides": [
+    {
+      "id": "choose",
+      "title": {
+        "en": "Choosing a hospital",
+        "bn": "হাসপাতাল বাছাই",
+        "hi": "अस्पताल चुनना"
+      },
+      "body": {
+        "en": "Begin with the department your doctor recommends. Check the exact hospital branch, the specialist who will review your records and how international-patient enquiries are handled. A familiar brand can have several locations with different services. Make a shortlist and ask each hospital the same questions. A directory match is a starting point, not proof that a hospital is right for your treatment. Confirm suitability with a qualified clinician.",
+        "bn": "নিজের ডাক্তারের পরামর্শ দেওয়া বিভাগ দিয়ে শুরু করুন। হাসপাতালের সঠিক শাখা, কে রিপোর্ট দেখবেন এবং আন্তর্জাতিক রোগীর প্রশ্ন কীভাবে নেওয়া হয়, তা নিশ্চিত করুন। একই প্রতিষ্ঠানের বিভিন্ন শাখায় ভিন্ন সেবা থাকতে পারে। কয়েকটি হাসপাতাল বাছুন এবং প্রত্যেককে একই প্রশ্ন করুন। তালিকায় মিল পাওয়া মানেই চিকিৎসার জন্য উপযুক্ত নয়। যোগ্য চিকিৎসকের সঙ্গে উপযোগিতা নিশ্চিত করুন।",
+        "hi": "अपने डॉक्टर के बताए विभाग से शुरुआत करें। सही अस्पताल शाखा, रिकॉर्ड देखने वाले विशेषज्ञ और अंतरराष्ट्रीय मरीज की पूछताछ की प्रक्रिया जांचें। एक संस्था की अलग शाखाओं में सेवाएं अलग हो सकती हैं। कुछ अस्पताल चुनकर सभी से समान प्रश्न पूछें। सूची में मेल होना उपचार की उपयुक्तता का प्रमाण नहीं है। योग्य चिकित्सक से पुष्टि करें।"
+      },
+      "category": "before",
+      "source": null
+    },
+    {
+      "id": "reports",
+      "title": {
+        "en": "Organising your documents",
+        "bn": "নথি গুছিয়ে রাখা",
+        "hi": "कागजात व्यवस्थित करना"
+      },
+      "body": {
+        "en": "Keep a dated list of your reports, prescriptions and previous treatment summaries. Ask the hospital which documents it needs and how to send them securely. Carry copies and keep the originals accessible. Include the generic names and doses of current medicines exactly as prescribed. This app does not upload or store your medical records. Share them directly with the hospital using a channel you have verified.",
+        "bn": "রিপোর্ট, প্রেসক্রিপশন এবং আগের চিকিৎসার সারসংক্ষেপ তারিখ অনুযায়ী রাখুন। হাসপাতালকে জিজ্ঞাসা করুন কোন নথি লাগবে এবং নিরাপদে কীভাবে পাঠাবেন। কপি সঙ্গে রাখুন, মূল নথি সহজে পাওয়ার ব্যবস্থা করুন। বর্তমান ওষুধের জেনেরিক নাম ও ডোজ প্রেসক্রিপশন অনুযায়ী লিখুন। এই অ্যাপ চিকিৎসার রিপোর্ট সংরক্ষণ বা আপলোড করে না। যাচাই করা মাধ্যমে হাসপাতালকে সরাসরি পাঠান।",
+        "hi": "रिपोर्ट, पर्चे और पुराने उपचार सारांश को तारीख के अनुसार रखें। अस्पताल से पूछें कौन से कागजात चाहिए और उन्हें सुरक्षित कैसे भेजें। प्रतियां साथ रखें और मूल दस्तावेज आसानी से उपलब्ध हों। वर्तमान दवा का सामान्य नाम और खुराक पर्चे के अनुसार लिखें। यह ऐप मेडिकल रिकॉर्ड अपलोड या संग्रहित नहीं करता। सत्यापित माध्यम से सीधे अस्पताल को भेजें।"
+      },
+      "category": "before",
+      "source": null
+    },
+    {
+      "id": "quote",
+      "title": {
+        "en": "Reading a treatment estimate",
+        "bn": "চিকিৎসার খরচের হিসাব বোঝা",
+        "hi": "उपचार का खर्च समझना"
+      },
+      "body": {
+        "en": "Request a written estimate that names the proposed procedure and hospital branch. Ask whether doctor fees, tests, medicines, implants, room category, intensive care and follow-up are included. Check what could change if the treatment plan or length of stay changes. Ask about deposits, refund terms and payment methods. Keep the estimate date and contact details. The budget planner uses your own numbers and cannot predict your final bill.",
+        "bn": "প্রস্তাবিত চিকিৎসা ও শাখার নামসহ লিখিত খরচের হিসাব নিন। ডাক্তার, পরীক্ষা, ওষুধ, ইমপ্লান্ট, রুম, নিবিড় পরিচর্যা ও ফলোআপের খরচ আছে কি না জিজ্ঞাসা করুন। চিকিৎসা পরিকল্পনা বা থাকার সময় বদলালে কী পরিবর্তন হবে, বুঝে নিন। অগ্রিম, ফেরত এবং পেমেন্টের নিয়ম জেনে রাখুন। তারিখ ও যোগাযোগের তথ্য রাখুন। অ্যাপের বাজেট আপনার দেওয়া সংখ্যায় চলে; চূড়ান্ত বিল নির্ধারণ করে না।",
+        "hi": "प्रस्तावित उपचार और शाखा के नाम सहित लिखित अनुमान लें। डॉक्टर, जांच, दवा, इम्प्लांट, कमरे, गहन देखभाल और फॉलो-अप शामिल हैं या नहीं पूछें। उपचार योजना या रहने की अवधि बदलने पर खर्च कैसे बदलेगा समझें। अग्रिम, वापसी और भुगतान नियम जानें। तारीख और संपर्क रखें। ऐप का बजट आपकी संख्याओं पर चलता है, अंतिम बिल नहीं बताता।"
+      },
+      "category": "before",
+      "source": null
+    },
+    {
+      "id": "appointment",
+      "title": {
+        "en": "Confirming an appointment",
+        "bn": "অ্যাপয়েন্টমেন্ট নিশ্চিত করা",
+        "hi": "अपॉइंटमेंट सुनिश्चित करना"
+      },
+      "body": {
+        "en": "A request is not a confirmed appointment. Obtain the doctor’s name, date, local time, hospital branch and confirmation reference from the provider. Ask how early to arrive, whether records must be sent beforehand and whether the appointment could change. Use the official website or verified hospital contact. Reconfirm shortly before travelling. Do not book non-refundable travel based only on an unanswered enquiry.",
+        "bn": "অনুরোধ পাঠানো আর নিশ্চিত অ্যাপয়েন্টমেন্ট এক নয়। প্রতিষ্ঠানের কাছ থেকে ডাক্তারের নাম, তারিখ, স্থানীয় সময়, শাখা এবং নিশ্চিতকরণের তথ্য নিন। কখন পৌঁছাবেন, আগে রিপোর্ট পাঠাবেন কি না এবং সময় বদলাতে পারে কি না জিজ্ঞাসা করুন। অফিসিয়াল সাইট বা যাচাই করা যোগাযোগ ব্যবহার করুন। ভ্রমণের আগে আবার নিশ্চিত করুন। উত্তর না পাওয়া প্রশ্নের ভিত্তিতে ফেরতযোগ্য নয় এমন টিকিট নেবেন না।",
+        "hi": "अनुरोध भेजना और पुष्टि वाला अपॉइंटमेंट अलग हैं। प्रदाता से डॉक्टर का नाम, तारीख, स्थानीय समय, शाखा और पुष्टि संदर्भ लें। कब पहुंचना है, पहले रिकॉर्ड भेजने हैं या नहीं और समय बदल सकता है या नहीं पूछें। आधिकारिक साइट या सत्यापित संपर्क उपयोग करें। यात्रा से पहले फिर पुष्टि करें। बिना जवाब वाली पूछताछ पर गैर-वापसी टिकट न लें।"
+      },
+      "category": "before",
+      "source": null
+    },
+    {
+      "id": "visa",
+      "title": {
+        "en": "Checking visa requirements",
+        "bn": "ভিসার প্রয়োজন যাচাই",
+        "hi": "वीजा जरूरत जांचना"
+      },
+      "body": {
+        "en": "Visa eligibility, application routes and document requirements can change. Check the Indian mission serving your location and the official India Visa Online portal. Ask the hospital whether it can issue the documents you need. Check requirements separately for the patient and each attendant. Do not assume an e-visa route is available for every nationality. A hospital letter does not guarantee a visa. Confirm permission to travel before making fixed arrangements.",
+        "bn": "ভিসার যোগ্যতা, আবেদনপথ ও নথির নিয়ম পরিবর্তিত হতে পারে। আপনার এলাকার ভারতীয় মিশন এবং অফিসিয়াল ইন্ডিয়া ভিসা অনলাইন পোর্টাল দেখুন। হাসপাতালকে প্রয়োজনীয় কাগজ দিতে পারে কি না জিজ্ঞাসা করুন। রোগী ও প্রত্যেক সহযাত্রীর শর্ত আলাদা করে যাচাই করুন। সব দেশের জন্য ই-ভিসা আছে ধরে নেবেন না। হাসপাতালের চিঠি ভিসার নিশ্চয়তা দেয় না। স্থায়ী বুকিংয়ের আগে ভ্রমণের অনুমতি নিশ্চিত করুন।",
+        "hi": "वीजा पात्रता, आवेदन और कागजात के नियम बदल सकते हैं। अपने क्षेत्र का भारतीय मिशन और आधिकारिक इंडिया वीजा ऑनलाइन पोर्टल देखें। अस्पताल से जरूरी दस्तावेज के बारे में पूछें। मरीज और हर सहयात्री की जरूरत अलग जांचें। हर राष्ट्रीयता के लिए ई-वीजा उपलब्ध न मानें। अस्पताल का पत्र वीजा की गारंटी नहीं है। निश्चित व्यवस्था से पहले यात्रा अनुमति जांचें।"
+      },
+      "category": "before",
+      "source": "https://www.indianvisaonline.gov.in/"
+    },
+    {
+      "id": "stay",
+      "title": {
+        "en": "A comfortable stay near care",
+        "bn": "চিকিৎসার কাছে আরামদায়ক থাকা",
+        "hi": "देखभाल के पास आरामदायक ठहराव"
+      },
+      "body": {
+        "en": "Ask the hotel for the actual route to your hospital entrance, not only a distance on a map. Check stairs, lifts, accessible bathrooms and whether an attendant can stay in the same room. Ask about quiet rooms, cancellation, extensions, meal arrangements and laundry. Request a written rate including taxes and deposits. This directory has no live rates or room availability. Confirm patient-specific needs directly before paying.",
+        "bn": "ম্যাপে দূরত্বের পাশাপাশি হাসপাতালের প্রবেশপথ পর্যন্ত আসল রাস্তা জেনে নিন। সিঁড়ি, লিফট, উপযোগী বাথরুম এবং একই রুমে সহযাত্রী থাকতে পারেন কি না দেখুন। শান্ত রুম, বাতিল, সময় বাড়ানো, খাবার ও কাপড় ধোয়ার ব্যবস্থা জিজ্ঞাসা করুন। কর ও অগ্রিমসহ লিখিত ভাড়া নিন। এই তালিকায় সরাসরি ভাড়া বা রুমের তথ্য নেই। পেমেন্টের আগে রোগীর প্রয়োজন সরাসরি নিশ্চিত করুন।",
+        "hi": "नक्शे की दूरी के साथ अस्पताल के प्रवेश तक वास्तविक मार्ग पूछें। सीढ़ी, लिफ्ट, सुलभ स्नानघर और एक कमरे में सहयात्री रहने की सुविधा जांचें। शांत कमरे, रद्द करने, अवधि बढ़ाने, भोजन और कपड़े धोने के बारे में पूछें। कर और जमा सहित लिखित दर लें। सूची में लाइव दर या कमरा उपलब्धता नहीं है। भुगतान से पहले मरीज की जरूरत सुनिश्चित करें।"
+      },
+      "category": "stay",
+      "source": null
+    },
+    {
+      "id": "transport",
+      "title": {
+        "en": "Planning the arrival route",
+        "bn": "পৌঁছানোর রাস্তা পরিকল্পনা",
+        "hi": "आगमन मार्ग की योजना"
+      },
+      "body": {
+        "en": "Keep the hospital and hotel addresses in both your preferred language and the official English spelling. Confirm the terminal, pickup location and vehicle details with your transport provider. Ask whether the vehicle suits your mobility needs and whether a companion can travel with you. Travel time depends on traffic and conditions. If special medical transport is needed, arrange it with the care team rather than relying on a regular cab.",
+        "bn": "হাসপাতাল ও হোটেলের ঠিকানা নিজের ভাষা এবং অফিসিয়াল ইংরেজি বানানে রাখুন। যাতায়াতের প্রতিষ্ঠানের সঙ্গে টার্মিনাল, ওঠার স্থান ও গাড়ির তথ্য নিশ্চিত করুন। চলাচলের প্রয়োজন অনুযায়ী গাড়ি এবং সঙ্গে স্বজনের ব্যবস্থা আছে কি না জিজ্ঞাসা করুন। ট্রাফিক ও অবস্থায় সময় বদলায়। বিশেষ চিকিৎসা পরিবহন লাগলে সাধারণ ট্যাক্সির বদলে চিকিৎসক দলের মাধ্যমে ব্যবস্থা করুন।",
+        "hi": "अस्पताल और होटल का पता अपनी भाषा और आधिकारिक अंग्रेजी नाम में रखें। परिवहन प्रदाता से टर्मिनल, मिलने की जगह और वाहन सुनिश्चित करें। वाहन आपकी गतिशीलता की जरूरत और साथी के लिए उपयुक्त है या नहीं पूछें। समय यातायात पर निर्भर है। विशेष चिकित्सा परिवहन चाहिए तो सामान्य टैक्सी के बजाय देखभाल टीम से व्यवस्था करें।"
+      },
+      "category": "travel",
+      "source": null
+    },
+    {
+      "id": "attendant",
+      "title": {
+        "en": "Planning with an attendant",
+        "bn": "সহযাত্রী নিয়ে পরিকল্পনা",
+        "hi": "सहयात्री के साथ योजना"
+      },
+      "body": {
+        "en": "Agree who will keep documents, contact the hospital and manage travel arrangements. Share the plan only with people you choose. Ask the hospital about visitor timings, attendant rules and overnight accommodation. Make sure the attendant has their own travel documents and required permission. Budget for meals, transport and extra stay. A checklist helps coordination, but it does not confirm admission or visitor eligibility.",
+        "bn": "নথি কে রাখবেন, হাসপাতালের সঙ্গে কে যোগাযোগ করবেন এবং ভ্রমণ কে দেখবেন, আগে ঠিক করুন। নিজের পছন্দের মানুষকেই পরিকল্পনা দিন। হাসপাতালকে দর্শনার্থীর সময়, সহযাত্রীর নিয়ম ও রাতে থাকার ব্যবস্থা জিজ্ঞাসা করুন। সহযাত্রীর নিজস্ব নথি ও প্রয়োজনীয় অনুমতি নিশ্চিত করুন। খাবার, যাতায়াত ও বাড়তি থাকার খরচ রাখুন। কাজের তালিকা সমন্বয়ে সাহায্য করে; ভর্তি বা দর্শনার্থীর অনুমতি নিশ্চিত করে না।",
+        "hi": "कागजात कौन रखेगा, अस्पताल से कौन बात करेगा और यात्रा कौन संभालेगा तय करें। चुने लोगों को ही योजना साझा करें। अस्पताल से मिलने का समय, सहयात्री नियम और रात में ठहराव पूछें। साथी के अपने कागजात और जरूरी अनुमति सुनिश्चित करें। भोजन, परिवहन और अतिरिक्त ठहराव का बजट रखें। सूची समन्वय में मदद करती है, प्रवेश या आगंतुक अनुमति की पुष्टि नहीं।"
+      },
+      "category": "travel",
+      "source": null
+    },
+    {
+      "id": "food",
+      "title": {
+        "en": "Meals during your stay",
+        "bn": "থাকার সময় খাবার",
+        "hi": "ठहराव के दौरान भोजन"
+      },
+      "body": {
+        "en": "Follow the diet instructions given by your treating team. Ask your hotel whether it can meet those instructions, whether ingredients can be checked and whether preparation facilities are available. Make separate arrangements for attendants when needed. Do not use a hotel’s general dining label as proof that it can provide a medical diet. Confirm meal costs and timings before arrival.",
+        "bn": "চিকিৎসক দলের খাবারের নির্দেশনা অনুসরণ করুন। হোটেল তা মানতে পারে কি না, উপকরণ জানা যাবে কি না এবং খাবার প্রস্তুতির সুবিধা আছে কি না জিজ্ঞাসা করুন। দরকার হলে সহযাত্রীর খাবার আলাদা পরিকল্পনা করুন। সাধারণ খাবারের ব্যবস্থা আছে মানেই চিকিৎসার উপযোগী খাবার পাওয়া যাবে না। পৌঁছানোর আগে খরচ ও সময় নিশ্চিত করুন।",
+        "hi": "देखभाल टीम के आहार निर्देश मानें। होटल से पूछें क्या वह निर्देश पूरा कर सकता है, सामग्री जांच सकते हैं और तैयारी की सुविधा है या नहीं। जरूरत पर सहयात्री का भोजन अलग तय करें। सामान्य भोजन सुविधा का अर्थ चिकित्सकीय आहार उपलब्ध होना नहीं है। पहुंचने से पहले भोजन का खर्च और समय सुनिश्चित करें।"
+      },
+      "category": "stay",
+      "source": null
+    },
+    {
+      "id": "questions",
+      "title": {
+        "en": "Questions to ask your doctor",
+        "bn": "ডাক্তারকে যেসব প্রশ্ন করবেন",
+        "hi": "डॉक्टर से पूछने वाले प्रश्न"
+      },
+      "body": {
+        "en": "Write your questions before the visit. Ask about the proposed plan, alternatives, expected stay and the next appointment. Ask which instructions need to be followed and whom to contact if you are unsure. If language is a barrier, request a qualified interpreter or language support from the hospital. Ask for explanations in writing and repeat your understanding back to the team. This guide does not choose a treatment.",
+        "bn": "দেখা করার আগে প্রশ্ন লিখে রাখুন। প্রস্তাবিত পরিকল্পনা, বিকল্প, থাকার সময় ও পরের অ্যাপয়েন্টমেন্ট নিয়ে জিজ্ঞাসা করুন। কোন নির্দেশ মানবেন এবং না বুঝলে কার সঙ্গে কথা বলবেন, জেনে নিন। ভাষায় সমস্যা হলে হাসপাতালের ভাষা সহায়তা বা উপযুক্ত দোভাষী চান। লিখিত ব্যাখ্যা নিন এবং নিজের বোঝা বিষয় দলকে আবার বলুন। এই নির্দেশিকা চিকিৎসা নির্বাচন করে না।",
+        "hi": "मुलाकात से पहले प्रश्न लिखें। प्रस्तावित योजना, विकल्प, रहने की अवधि और अगली मुलाकात पूछें। किन निर्देशों का पालन करना है और संदेह में किससे संपर्क करना है जानें। भाषा कठिन हो तो अस्पताल से योग्य दुभाषिया या भाषा सहायता मांगें। लिखित स्पष्टीकरण लें और अपनी समझ टीम को दोहराएं। यह गाइड उपचार नहीं चुनती।"
+      },
+      "category": "care",
+      "source": null
+    },
+    {
+      "id": "payment",
+      "title": {
+        "en": "Keeping bills and receipts",
+        "bn": "বিল ও রসিদ রাখা",
+        "hi": "बिल और रसीद रखना"
+      },
+      "body": {
+        "en": "Pay only through channels that you have confirmed with the hospital or hotel. Check the recipient’s identity and ask for an itemised receipt. Keep deposits, refunds and final bills together with dates. Ask for an explanation of any charge you do not understand. Never share a one-time banking code with a coordinator. This app does not receive payments or guarantee a quoted price.",
+        "bn": "হাসপাতাল বা হোটেলের সঙ্গে নিশ্চিত করা মাধ্যমেই পেমেন্ট করুন। প্রাপকের পরিচয় দেখে বিস্তারিত রসিদ চান। অগ্রিম, ফেরত ও চূড়ান্ত বিল তারিখসহ একসঙ্গে রাখুন। অজানা খরচের ব্যাখ্যা চান। ব্যাংকের একবার ব্যবহারযোগ্য কোড কোনো সমন্বয়কারীকে দেবেন না। এই অ্যাপ পেমেন্ট নেয় না বা কোটেশনের মূল্যের নিশ্চয়তা দেয় না।",
+        "hi": "अस्पताल या होटल से पुष्टि किए माध्यम से ही भुगतान करें। प्राप्तकर्ता की पहचान जांचकर मदवार रसीद लें। जमा, वापसी और अंतिम बिल तारीख सहित रखें। अनजान शुल्क का स्पष्टीकरण मांगें। बैंक का एक बार का कोड किसी समन्वयक को न दें। ऐप भुगतान नहीं लेता और उद्धृत दर की गारंटी नहीं देता।"
+      },
+      "category": "care",
+      "source": null
+    },
+    {
+      "id": "discharge",
+      "title": {
+        "en": "Before leaving the hospital",
+        "bn": "হাসপাতাল ছাড়ার আগে",
+        "hi": "अस्पताल छोड़ने से पहले"
+      },
+      "body": {
+        "en": "Ask the care team for your discharge summary, prescriptions, test reports and written follow-up plan. Confirm whom to contact and how to arrange the next visit. Ask the treating doctor about safe travel timing and any assistance you may need. Keep the documents with you during the journey. Do not change medicines or follow-up instructions based on an app checklist.",
+        "bn": "ছাড়পত্রের সারসংক্ষেপ, প্রেসক্রিপশন, পরীক্ষার রিপোর্ট ও লিখিত ফলোআপ পরিকল্পনা চিকিৎসক দলের কাছ থেকে নিন। যোগাযোগের ব্যক্তি ও পরের দেখা কীভাবে করবেন, নিশ্চিত করুন। নিরাপদ ভ্রমণের সময় ও প্রয়োজনীয় সহায়তা নিজের ডাক্তারকে জিজ্ঞাসা করুন। যাত্রায় নথি সঙ্গে রাখুন। অ্যাপের তালিকা দেখে ওষুধ বা ফলোআপের নির্দেশ বদলাবেন না।",
+        "hi": "देखभाल टीम से छुट्टी का सारांश, पर्चे, जांच रिपोर्ट और लिखित फॉलो-अप योजना लें। संपर्क व्यक्ति और अगली मुलाकात की प्रक्रिया सुनिश्चित करें। सुरक्षित यात्रा समय और जरूरी सहायता डॉक्टर से पूछें। यात्रा में कागजात साथ रखें। ऐप सूची के आधार पर दवा या फॉलो-अप निर्देश न बदलें।"
+      },
+      "category": "after",
+      "source": null
+    },
+    {
+      "id": "followup",
+      "title": {
+        "en": "Continuing care at home",
+        "bn": "বাড়ি ফিরে চিকিৎসার ধারাবাহিকতা",
+        "hi": "घर पर देखभाल जारी रखना"
+      },
+      "body": {
+        "en": "Before returning, ask whether follow-up can be done remotely or with a local clinician. Clarify what documents the next doctor needs and the date of review. Add the appointment to your own calendar. Keep the hospital contact and discharge instructions accessible to your chosen attendant. If you need urgent help, contact local emergency services or a hospital directly. This app does not monitor symptoms or alert a care team.",
+        "bn": "ফেরার আগে ফলোআপ দূর থেকে বা স্থানীয় ডাক্তারের কাছে করা যাবে কি না জিজ্ঞাসা করুন। পরের ডাক্তারের কী নথি লাগবে এবং কবে দেখা করবেন, বুঝে নিন। নিজের ক্যালেন্ডারে অ্যাপয়েন্টমেন্ট রাখুন। হাসপাতালের যোগাযোগ ও ছাড়পত্রের নির্দেশ স্বজনের কাছে রাখুন। জরুরি প্রয়োজনে স্থানীয় জরুরি সেবা বা হাসপাতালে সরাসরি যোগাযোগ করুন। অ্যাপ লক্ষণ পর্যবেক্ষণ করে না বা চিকিৎসক দলকে জানায় না।",
+        "hi": "लौटने से पहले पूछें क्या फॉलो-अप दूर से या स्थानीय डॉक्टर से हो सकता है। अगले डॉक्टर के कागजात और समीक्षा की तारीख जानें। अपने कैलेंडर में मुलाकात रखें। अस्पताल संपर्क और छुट्टी निर्देश चुने सहयात्री के पास रखें। तुरंत मदद चाहिए तो स्थानीय आपात सेवा या अस्पताल से सीधे संपर्क करें। ऐप लक्षण नहीं देखता और टीम को सूचना नहीं भेजता।"
+      },
+      "category": "after",
+      "source": null
+    },
+    {
+      "id": "audiohelp",
+      "title": {
+        "en": "Listening in your language",
+        "bn": "নিজের ভাষায় শুনুন",
+        "hi": "अपनी भाषा में सुनें"
+      },
+      "body": {
+        "en": "Choose Bengali, English or Hindi from the language menu. Tap Listen on a guide or phrase to hear it with an installed offline voice. If no matching voice is available, install one using your phone’s text-to-speech settings. Voice quality and availability depend on the device. You can slow down playback or stop it at any time. All written content remains available even without a voice.",
+        "bn": "ভাষার মেনু থেকে বাংলা, ইংরেজি বা হিন্দি বাছুন। নির্দেশিকা বা কথায় শুনুন চাপলে ফোনের অফলাইন কণ্ঠে শোনা যাবে। কণ্ঠ না থাকলে ফোনের টেক্সট-টু-স্পিচ সেটিংস থেকে ইনস্টল করুন। কণ্ঠের মান ও প্রাপ্যতা ফোনের ওপর নির্ভর করে। গতি কমাতে বা যেকোনো সময় বন্ধ করতে পারবেন। কণ্ঠ না থাকলেও সব লেখা পড়া যাবে।",
+        "hi": "भाषा मेनू से बांग्ला, अंग्रेजी या हिंदी चुनें। गाइड या वाक्य पर सुनें दबाकर स्थापित ऑफलाइन आवाज सुनें। आवाज न हो तो फोन की टेक्स्ट-टू-स्पीच सेटिंग से स्थापित करें। आवाज की गुणवत्ता और उपलब्धता डिवाइस पर निर्भर है। गति कम करें या कभी भी रोकें। आवाज न हो तब भी लेख उपलब्ध रहता है।"
+      },
+      "category": "help",
+      "source": null
+    },
+    {
+      "id": "privacy",
+      "title": {
+        "en": "Keeping control of your plan",
+        "bn": "পরিকল্পনার নিয়ন্ত্রণ আপনার হাতে",
+        "hi": "योजना का नियंत्रण आपके पास"
+      },
+      "body": {
+        "en": "This version stores your shortlist, checklist and budget on this device. It has no account, advertising, analytics or medical-report upload. Export a backup if you need to keep the plan after changing phones. Anyone using an unlocked device may be able to view it. Opening an external hospital, hotel or map site uses that service and its own privacy rules. Read its policy before sending personal information.",
+        "bn": "এই সংস্করণে পছন্দের তালিকা, কাজের তালিকা ও বাজেট ফোনে থাকে। অ্যাকাউন্ট, বিজ্ঞাপন, ট্র্যাকিং বা রিপোর্ট আপলোড নেই। ফোন বদলালে পরিকল্পনা রাখতে ব্যাকআপ ডাউনলোড করুন। আনলক করা ফোন ব্যবহারকারী এটি দেখতে পারেন। বাইরের হাসপাতাল, হোটেল বা ম্যাপ খুললে সেই সেবার গোপনীয়তার নিয়ম চলে। ব্যক্তিগত তথ্য দেওয়ার আগে তাদের নীতি পড়ুন।",
+        "hi": "इस संस्करण में पसंद, सूची और बजट डिवाइस में रहते हैं। खाता, विज्ञापन, ट्रैकिंग या रिपोर्ट अपलोड नहीं है। फोन बदलने पर योजना रखने के लिए बैकअप डाउनलोड करें। अनलॉक फोन उपयोग करने वाला इसे देख सकता है। बाहरी अस्पताल, होटल या मैप खोलने पर उसकी गोपनीयता के नियम लागू होते हैं। निजी जानकारी भेजने से पहले नीति पढ़ें।"
+      },
+      "category": "help",
+      "source": null
+    }
+  ],
+  "phrases": [
+    {
+      "id": "phrase-1",
+      "text": {
+        "en": "Where is the international-patient desk?",
+        "bn": "আন্তর্জাতিক রোগীর ডেস্ক কোথায়?",
+        "hi": "अंतरराष्ट्रीय मरीज डेस्क कहां है?"
+      }
+    },
+    {
+      "id": "phrase-2",
+      "text": {
+        "en": "I have a confirmed appointment.",
+        "bn": "আমার নিশ্চিত অ্যাপয়েন্টমেন্ট আছে।",
+        "hi": "मेरा अपॉइंटमेंट तय है।"
+      }
+    },
+    {
+      "id": "phrase-3",
+      "text": {
+        "en": "Please check my appointment reference.",
+        "bn": "আমার অ্যাপয়েন্টমেন্টের তথ্য দেখুন।",
+        "hi": "कृपया मेरा अपॉइंटमेंट संदर्भ देखें।"
+      }
+    },
+    {
+      "id": "phrase-4",
+      "text": {
+        "en": "Can I speak with a Bengali interpreter?",
+        "bn": "আমি কি বাংলা দোভাষীর সঙ্গে কথা বলতে পারি?",
+        "hi": "क्या मैं बांग्ला दुभाषिए से बात कर सकता हूं?"
+      }
+    },
+    {
+      "id": "phrase-5",
+      "text": {
+        "en": "Please speak slowly.",
+        "bn": "দয়া করে ধীরে বলুন।",
+        "hi": "कृपया धीरे बोलें।"
+      }
+    },
+    {
+      "id": "phrase-6",
+      "text": {
+        "en": "Please write down the instructions.",
+        "bn": "নির্দেশনা লিখে দিন।",
+        "hi": "कृपया निर्देश लिख दें।"
+      }
+    },
+    {
+      "id": "phrase-7",
+      "text": {
+        "en": "Which hospital block should I go to?",
+        "bn": "হাসপাতালের কোন ব্লকে যাব?",
+        "hi": "अस्पताल के किस ब्लॉक में जाना है?"
+      }
+    },
+    {
+      "id": "phrase-8",
+      "text": {
+        "en": "Where should I submit my reports?",
+        "bn": "রিপোর্ট কোথায় জমা দেব?",
+        "hi": "रिपोर्ट कहां जमा करनी है?"
+      }
+    },
+    {
+      "id": "phrase-9",
+      "text": {
+        "en": "Is an attendant allowed here?",
+        "bn": "এখানে সহযাত্রী থাকতে পারবেন?",
+        "hi": "क्या यहां सहयात्री को अनुमति है?"
+      }
+    },
+    {
+      "id": "phrase-10",
+      "text": {
+        "en": "Please give me an itemised bill.",
+        "bn": "দয়া করে বিস্তারিত বিল দিন।",
+        "hi": "कृपया मदवार बिल दें।"
+      }
+    },
+    {
+      "id": "phrase-11",
+      "text": {
+        "en": "What does this estimate include?",
+        "bn": "এই খরচের হিসাবে কী কী আছে?",
+        "hi": "इस अनुमान में क्या शामिल है?"
+      }
+    },
+    {
+      "id": "phrase-12",
+      "text": {
+        "en": "What costs are not included?",
+        "bn": "কোন খরচগুলো অন্তর্ভুক্ত নয়?",
+        "hi": "कौन से खर्च शामिल नहीं हैं?"
+      }
+    },
+    {
+      "id": "phrase-13",
+      "text": {
+        "en": "I need a room with easy lift access.",
+        "bn": "লিফটে সহজে যাওয়া যায় এমন রুম চাই।",
+        "hi": "मुझे लिफ्ट तक आसान पहुंच वाला कमरा चाहिए।"
+      }
+    },
+    {
+      "id": "phrase-14",
+      "text": {
+        "en": "Can my attendant stay in the same room?",
+        "bn": "আমার সহযাত্রী একই রুমে থাকতে পারবেন?",
+        "hi": "क्या मेरा सहयात्री इसी कमरे में रह सकता है?"
+      }
+    },
+    {
+      "id": "phrase-15",
+      "text": {
+        "en": "What is the cancellation policy?",
+        "bn": "বুকিং বাতিলের নিয়ম কী?",
+        "hi": "बुकिंग रद्द करने की नीति क्या है?"
+      }
+    },
+    {
+      "id": "phrase-16",
+      "text": {
+        "en": "Please confirm the rate including taxes.",
+        "bn": "করসহ ভাড়া নিশ্চিত করুন।",
+        "hi": "कृपया कर सहित दर सुनिश्चित करें।"
+      }
+    },
+    {
+      "id": "phrase-17",
+      "text": {
+        "en": "Can I extend my stay if needed?",
+        "bn": "প্রয়োজন হলে থাকার সময় বাড়াতে পারব?",
+        "hi": "क्या जरूरत होने पर ठहराव बढ़ा सकता हूं?"
+      }
+    },
+    {
+      "id": "phrase-18",
+      "text": {
+        "en": "Please show the route to the hospital entrance.",
+        "bn": "হাসপাতালের প্রবেশপথের রাস্তা দেখান।",
+        "hi": "कृपया अस्पताल प्रवेश का मार्ग दिखाएं।"
+      }
+    },
+    {
+      "id": "phrase-19",
+      "text": {
+        "en": "I need help contacting the hospital.",
+        "bn": "হাসপাতালে যোগাযোগ করতে সাহায্য চাই।",
+        "hi": "मुझे अस्पताल से संपर्क में मदद चाहिए।"
+      }
+    },
+    {
+      "id": "phrase-20",
+      "text": {
+        "en": "Please give me the discharge summary.",
+        "bn": "দয়া করে ছাড়পত্রের সারসংক্ষেপ দিন।",
+        "hi": "कृपया छुट्टी का सारांश दें।"
+      }
+    },
+    {
+      "id": "phrase-21",
+      "text": {
+        "en": "When is my next follow-up appointment?",
+        "bn": "পরের ফলোআপ অ্যাপয়েন্টমেন্ট কবে?",
+        "hi": "मेरा अगला फॉलो-अप कब है?"
+      }
+    },
+    {
+      "id": "phrase-22",
+      "text": {
+        "en": "Who should I contact with questions?",
+        "bn": "প্রশ্ন থাকলে কার সঙ্গে যোগাযোগ করব?",
+        "hi": "प्रश्न होने पर किससे संपर्क करूं?"
+      }
+    },
+    {
+      "id": "phrase-23",
+      "text": {
+        "en": "Please help me contact emergency services.",
+        "bn": "জরুরি সেবায় যোগাযোগ করতে সাহায্য করুন।",
+        "hi": "कृपया आपात सेवा से संपर्क में मदद करें।"
+      }
+    },
+    {
+      "id": "phrase-24",
+      "text": {
+        "en": "I do not understand. Please explain again.",
+        "bn": "আমি বুঝিনি। আবার বুঝিয়ে বলুন।",
+        "hi": "मैं समझा नहीं। कृपया फिर समझाएं।"
+      }
+    }
+  ],
+  "checklist": [
+    {
+      "id": "records",
+      "text": {
+        "en": "Organise reports and prescriptions",
+        "bn": "রিপোর্ট ও প্রেসক্রিপশন গুছিয়ে রাখুন",
+        "hi": "रिपोर्ट और पर्चे व्यवस्थित करें"
+      }
+    },
+    {
+      "id": "department",
+      "text": {
+        "en": "Confirm department with your clinician",
+        "bn": "ডাক্তারের সঙ্গে বিভাগ নিশ্চিত করুন",
+        "hi": "डॉक्टर से विभाग सुनिश्चित करें"
+      }
+    },
+    {
+      "id": "shortlist",
+      "text": {
+        "en": "Shortlist hospital branches",
+        "bn": "হাসপাতালের শাখা বাছুন",
+        "hi": "अस्पताल शाखाएं चुनें"
+      }
+    },
+    {
+      "id": "opinion",
+      "text": {
+        "en": "Ask the hospital to review your case",
+        "bn": "হাসপাতালকে আপনার রিপোর্ট দেখতে বলুন",
+        "hi": "अस्पताल से अपने मामले की समीक्षा कहें"
+      }
+    },
+    {
+      "id": "appointment",
+      "text": {
+        "en": "Receive appointment confirmation",
+        "bn": "অ্যাপয়েন্টমেন্টের নিশ্চিতকরণ নিন",
+        "hi": "अपॉइंटमेंट पुष्टि लें"
+      }
+    },
+    {
+      "id": "estimate",
+      "text": {
+        "en": "Get a written treatment estimate",
+        "bn": "লিখিত চিকিৎসার খরচ নিন",
+        "hi": "लिखित उपचार अनुमान लें"
+      }
+    },
+    {
+      "id": "visa",
+      "text": {
+        "en": "Check patient and attendant visa requirements",
+        "bn": "রোগী ও সহযাত্রীর ভিসার শর্ত দেখুন",
+        "hi": "मरीज और साथी की वीजा जरूरत जांचें"
+      }
+    },
+    {
+      "id": "permission",
+      "text": {
+        "en": "Receive required travel permission",
+        "bn": "প্রয়োজনীয় ভ্রমণের অনুমতি নিন",
+        "hi": "जरूरी यात्रा अनुमति लें"
+      }
+    },
+    {
+      "id": "hotel",
+      "text": {
+        "en": "Confirm hotel rate, room and access",
+        "bn": "হোটেলের ভাড়া, রুম ও সুবিধা নিশ্চিত করুন",
+        "hi": "होटल दर, कमरा और पहुंच सुनिश्चित करें"
+      }
+    },
+    {
+      "id": "route",
+      "text": {
+        "en": "Plan airport or station transfer",
+        "bn": "বিমানবন্দর বা স্টেশন থেকে যাতায়াত ঠিক করুন",
+        "hi": "हवाई अड्डे या स्टेशन से परिवहन तय करें"
+      }
+    },
+    {
+      "id": "budget",
+      "text": {
+        "en": "Save a personal travel budget",
+        "bn": "নিজের ভ্রমণ বাজেট রাখুন",
+        "hi": "निजी यात्रा बजट रखें"
+      }
+    },
+    {
+      "id": "copies",
+      "text": {
+        "en": "Carry document copies and contacts",
+        "bn": "নথির কপি ও যোগাযোগের তথ্য নিন",
+        "hi": "कागजात की प्रतियां और संपर्क रखें"
+      }
+    },
+    {
+      "id": "arrival",
+      "text": {
+        "en": "Reconfirm appointment before arrival",
+        "bn": "পৌঁছানোর আগে অ্যাপয়েন্টমেন্ট আবার নিশ্চিত করুন",
+        "hi": "पहुंचने से पहले मुलाकात फिर जांचें"
+      }
+    },
+    {
+      "id": "discussion",
+      "text": {
+        "en": "Ask questions and get written instructions",
+        "bn": "প্রশ্ন করুন ও লিখিত নির্দেশনা নিন",
+        "hi": "प्रश्न पूछें और लिखित निर्देश लें"
+      }
+    },
+    {
+      "id": "receipts",
+      "text": {
+        "en": "Keep itemised bills and receipts",
+        "bn": "বিস্তারিত বিল ও রসিদ রাখুন",
+        "hi": "मदवार बिल और रसीद रखें"
+      }
+    },
+    {
+      "id": "discharge",
+      "text": {
+        "en": "Collect discharge records",
+        "bn": "ছাড়পত্র ও চিকিৎসার নথি নিন",
+        "hi": "छुट्टी और उपचार रिकॉर्ड लें"
+      }
+    },
+    {
+      "id": "travelready",
+      "text": {
+        "en": "Ask your doctor about return travel",
+        "bn": "ফেরার ভ্রমণ সম্পর্কে ডাক্তারকে জিজ্ঞাসা করুন",
+        "hi": "वापसी यात्रा के बारे में डॉक्टर से पूछें"
+      }
+    },
+    {
+      "id": "followup",
+      "text": {
+        "en": "Arrange the follow-up visit",
+        "bn": "ফলোআপের দেখা ঠিক করুন",
+        "hi": "फॉलो-अप मुलाकात तय करें"
+      }
+    }
+  ],
+  "faq": [
+    {
+      "question": {
+        "en": "Can I book treatment inside this app?",
+        "bn": "অ্যাপে চিকিৎসা বুক করতে পারি?",
+        "hi": "क्या ऐप में उपचार बुक कर सकता हूं?"
+      },
+      "answer": {
+        "en": "This version is a directory and planning companion. Appointments and hotel reservations are made directly with the provider.",
+        "bn": "এই সংস্করণ তথ্য ও পরিকল্পনার সহায়ক। অ্যাপয়েন্টমেন্ট ও হোটেল বুকিং সরাসরি প্রতিষ্ঠানে করবেন।",
+        "hi": "यह संस्करण सूची और योजना सहायक है। मुलाकात और होटल आरक्षण सीधे प्रदाता से करें।"
+      }
+    },
+    {
+      "question": {
+        "en": "Are these the best hospitals?",
+        "bn": "এগুলো কি সেরা হাসপাতাল?",
+        "hi": "क्या ये सबसे अच्छे अस्पताल हैं?"
+      },
+      "answer": {
+        "en": "There is no clinical ranking. Results show selected official-source information and your preference filters.",
+        "bn": "চিকিৎসার মান অনুযায়ী র‍্যাঙ্কিং নেই। ফলাফলে উৎসের তথ্য ও আপনার পছন্দের ফিল্টার দেখা যায়।",
+        "hi": "चिकित्सकीय रैंकिंग नहीं है। परिणाम चुने आधिकारिक स्रोत और आपकी पसंद के फ़िल्टर दिखाते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "Does an official source mean accreditation?",
+        "bn": "অফিসিয়াল উৎস মানেই কি স্বীকৃতি আছে?",
+        "hi": "क्या आधिकारिक स्रोत का अर्थ मान्यता है?"
+      },
+      "answer": {
+        "en": "No. The label refers to the information source. Accreditation and current licensing should be checked independently.",
+        "bn": "না। লেবেলটি তথ্যের উৎস বোঝায়। বর্তমান স্বীকৃতি ও অনুমোদন আলাদাভাবে যাচাই করতে হবে।",
+        "hi": "नहीं। लेबल जानकारी के स्रोत को बताता है। वर्तमान मान्यता और लाइसेंस अलग जांचने चाहिए।"
+      }
+    },
+    {
+      "question": {
+        "en": "Are hotel prices live?",
+        "bn": "হোটেলের ভাড়া কি সরাসরি হালনাগাদ?",
+        "hi": "क्या होटल की दरें लाइव हैं?"
+      },
+      "answer": {
+        "en": "No prices are supplied. Ask the hotel for current rates, availability, cancellation and patient access needs.",
+        "bn": "এখানে ভাড়া দেওয়া নেই। বর্তমান ভাড়া, রুম, বাতিলের নিয়ম ও রোগীর সুবিধা হোটেলকে জিজ্ঞাসা করুন।",
+        "hi": "दरें नहीं दी गई हैं। वर्तमान दर, कमरा, रद्द करने और मरीज की पहुंच होटल से पूछें।"
+      }
+    },
+    {
+      "question": {
+        "en": "Where is my plan stored?",
+        "bn": "আমার পরিকল্পনা কোথায় থাকে?",
+        "hi": "मेरी योजना कहां रहती है?"
+      },
+      "answer": {
+        "en": "On this device. It is not synced to a server. Export a backup before uninstalling or changing phones.",
+        "bn": "এই ফোনে। সার্ভারে পাঠানো হয় না। অ্যাপ মুছলে বা ফোন বদলালে আগে ব্যাকআপ নিন।",
+        "hi": "इसी डिवाइस में। सर्वर पर नहीं भेजी जाती। ऐप हटाने या फोन बदलने से पहले बैकअप लें।"
+      }
+    },
+    {
+      "question": {
+        "en": "Does matching use AI?",
+        "bn": "সাজেশন কি এআই দিয়ে চলে?",
+        "hi": "क्या मिलान में एआई है?"
+      },
+      "answer": {
+        "en": "No. A fixed set of rules filters cities and departments and checks for linked stay options.",
+        "bn": "না। নির্দিষ্ট নিয়মে শহর, বিভাগ ও যুক্ত থাকার বিকল্প দেখা হয়।",
+        "hi": "नहीं। तय नियम शहर, विभाग और जुड़े ठहराव जांचते हैं।"
+      }
+    },
+    {
+      "question": {
+        "en": "Why is audio missing?",
+        "bn": "অডিও পাওয়া যাচ্ছে না কেন?",
+        "hi": "ऑडियो क्यों नहीं मिल रहा?"
+      },
+      "answer": {
+        "en": "The matching offline voice may not be installed. Install a Bengali, English or Hindi voice in text-to-speech settings.",
+        "bn": "মিল থাকা অফলাইন কণ্ঠ ইনস্টল নাও থাকতে পারে। টেক্সট-টু-স্পিচ সেটিংসে বাংলা, ইংরেজি বা হিন্দি কণ্ঠ ইনস্টল করুন।",
+        "hi": "संबंधित ऑफलाइन आवाज स्थापित नहीं हो सकती। टेक्स्ट-टू-स्पीच सेटिंग में बांग्ला, अंग्रेजी या हिंदी आवाज स्थापित करें।"
+      }
+    },
+    {
+      "question": {
+        "en": "Can this app help in an emergency?",
+        "bn": "জরুরি অবস্থায় অ্যাপ সাহায্য করবে?",
+        "hi": "क्या ऐप आपातस्थिति में सहायता करता है?"
+      },
+      "answer": {
+        "en": "It does not diagnose or dispatch emergency help. Contact local emergency services or a hospital directly.",
+        "bn": "রোগ নির্ণয় বা জরুরি সহায়তা পাঠায় না। স্থানীয় জরুরি সেবা বা হাসপাতালে সরাসরি যোগাযোগ করুন।",
+        "hi": "यह निदान या आपात मदद नहीं भेजता। स्थानीय आपात सेवा या अस्पताल से सीधे संपर्क करें।"
+      }
+    }
+  ]
+}
