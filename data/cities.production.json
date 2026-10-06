@@ -57,41 +57,5 @@
       "Kannada",
       "Hindi"
     ]
-  },
-  {
-    "id": "CITY-MUM",
-    "name": "Mumbai",
-    "state": "Maharashtra",
-    "country": "India",
-    "priorityForBangladesh": "medium",
-    "languagePriority": [
-      "Marathi",
-      "Hindi",
-      "English"
-    ]
-  },
-  {
-    "id": "CITY-KOC",
-    "name": "Kochi",
-    "state": "Kerala",
-    "country": "India",
-    "priorityForBangladesh": "medium",
-    "languagePriority": [
-      "Malayalam",
-      "English",
-      "Hindi"
-    ]
-  },
-  {
-    "id": "CITY-AHM",
-    "name": "Ahmedabad",
-    "state": "Gujarat",
-    "country": "India",
-    "priorityForBangladesh": "medium",
-    "languagePriority": [
-      "Gujarati",
-      "Hindi",
-      "English"
-    ]
   }
 ]

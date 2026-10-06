@@ -1,14 +1,18 @@
 [
   {
-    "date": "2026-10-06",
-    "action": "Expanded checked-in curated doctor profiles and hotel source records; no synthetic records or images.",
-    "counts": {
-      "hospitals": 43,
-      "doctors": 69,
-      "stays": 11,
+    "date": "2026-10-05",
+    "version": "production-db-v1.2",
+    "scope": {
+      "hospitals": 19,
+      "doctors": 42,
       "treatments": 15,
-      "phrases": 24,
-      "sources": 99
-    }
+      "cities": 5,
+      "hostels": 8,
+      "phrases": 17,
+      "sources": 35
+    },
+    "method": "Official pages primary. Doctor enrichment from hospital specialty pages & reputable directories. Hostels are directory-style suggestions only. Images illustrative/avatar per policy.",
+    "status": "enriched_batch",
+    "nextReviewDue": "2026-12-05"
   }
 ]

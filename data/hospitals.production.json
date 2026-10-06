@@ -1,906 +1,139 @@
 [
   {
-    "id": "apollo-kolkata",
-    "city": "kolkata",
-    "name": {
-      "en": "Apollo Multispeciality Hospitals",
-      "bn": "অ্যাপোলো মাল্টিস্পেশালিটি হাসপাতাল",
-      "hi": "अपोलो मल्टीस्पेशलिटी हॉस्पिटल"
-    },
-    "branch": {
-      "en": "EM Bypass · Kolkata",
-      "bn": "ইএম বাইপাস · কলকাতা",
-      "hi": "ईएम बाइपास · कोलकाता"
-    },
-    "address": {
-      "en": "58, Canal Circular Road, Kadapara, Phoolbagan, Kankurgachi, Kolkata 700054",
-      "bn": "৫৮, ক্যানাল সার্কুলার রোড, কাদাপাড়া, ফুলবাগান, কাঁকুড়গাছি, কলকাতা ৭০০০৫৪",
-      "hi": "५८, कैनाल सर्कुलर रोड, कदापारा, फूलबागान, कांकरगाछी, कोलकाता ७०००५४"
-    },
+    "id": "H-KOL-001",
+    "name": "Apollo Multispeciality Hospitals, EM Bypass, Kolkata",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "country": "India",
+    "address": "58, Canal Circular Rd, Kadapara, Phoolbagan, Kankurgachi, Kolkata, West Bengal 700054",
+    "phone": "033 4420 2122",
+    "internationalSupport": true,
+    "internationalContact": null,
     "specialties": [
-      "cardiac",
-      "cancer",
-      "neuro",
-      "ortho",
-      "gastro",
-      "kidney"
+      "Cardiac Sciences",
+      "Oncology",
+      "Neurosciences",
+      "Gastroenterology",
+      "Orthopaedics",
+      "Transplants",
+      "Nephrology",
+      "Urology"
     ],
-    "source": "https://www.apollohospitals.com/hospitals/apollo-hospitals-embypass-kolkata",
-    "directory": "https://www.apollohospitals.com/kolkata",
-    "phone": null,
-    "hotels": [
-      "hyatt-kolkata"
+    "accreditation": [
+      "JCI"
     ],
-    "sourceMode": "search",
-    "note": {
-      "en": "Multispeciality care at the EM Bypass branch. Confirm the department, treating doctor and international-patient process directly with the hospital.",
-      "bn": "ইএম বাইপাস শাখায় বিভিন্ন বিভাগের চিকিৎসা রয়েছে। বিভাগ, সংশ্লিষ্ট ডাক্তার এবং আন্তর্জাতিক রোগীর প্রক্রিয়া হাসপাতালের সঙ্গে সরাসরি নিশ্চিত করুন।",
-      "hi": "ईएम बाइपास शाखा में कई विशेषज्ञ विभाग हैं। विभाग, संबंधित डॉक्टर और अंतरराष्ट्रीय मरीज की प्रक्रिया अस्पताल से सीधे सुनिश्चित करें।"
-    },
-    "reviewedAt": "2026-10-05",
-    "photo": null,
-    "sources": [
-      "https://www.apollohospitals.com/hospitals/apollo-hospitals-embypass-kolkata",
-      "https://www.apollohospitals.com/region/kolkata/contact-us/",
-      "https://www.apollohospitals.com/kolkata"
-    ],
+    "beds": 750,
+    "website": "https://www.apollohospitals.com/kolkata",
+    "appOrPortal": "Apollo digital booking / patient services",
     "verificationStatus": "verified_official",
-    "active": true
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_APOLLO_KOL",
+      "SRC_APOLLO_KOL_CONTACT"
+    ],
+    "secondarySources": [],
+    "image": {
+      "status": "needs_license_review",
+      "sourcePage": "https://www.apollohospitals.com/kolkata",
+      "isIllustrative": false,
+      "url": "assets/hospital-cover.svg"
+    }
   },
   {
-    "id": "fortis-kolkata",
-    "city": "kolkata",
-    "name": {
-      "en": "Fortis Hospital",
-      "bn": "ফোর্টিস হাসপাতাল",
-      "hi": "फोर्टिस हॉस्पिटल"
-    },
-    "branch": {
-      "en": "Anandapur · Kolkata",
-      "bn": "আনন্দপুর · কলকাতা",
-      "hi": "आनंदपुर · कोलकाता"
-    },
-    "address": {
-      "en": "730, Anandapur, EM Bypass Road, Kolkata 700107",
-      "bn": "৭৩০, আনন্দপুর, ইএম বাইপাস রোড, কলকাতা ৭০০১০৭",
-      "hi": "७३०, आनंदपुर, ईएम बाइपास रोड, कोलकाता ७००१०७"
-    },
+    "id": "H-KOL-002",
+    "name": "Fortis Hospital Anandapur, Kolkata",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "country": "India",
+    "address": "730, Eastern Metropolitan Bypass, Anandapur, Kolkata, West Bengal 700107",
+    "phone": "033-6628 4444",
+    "internationalSupport": true,
+    "internationalContact": "ips@fortishealthcare.com",
     "specialties": [
-      "cardiac",
-      "cancer",
-      "neuro",
-      "ortho",
-      "gastro",
-      "kidney"
+      "Urology",
+      "GI & Bariatric Surgery",
+      "Orthopaedics",
+      "Neurology",
+      "Cardiology",
+      "Nephrology",
+      "Pulmonology",
+      "Critical Care"
     ],
-    "source": "https://www.fortishealthcare.com/location/fortis-hospital-anandapur-kolkata",
-    "directory": "https://www.fortishealthcare.com/doctors/hospital/fortis-hospital-anandpur-kolkata",
-    "phone": null,
-    "hotels": [
-      "vivanta-kolkata"
+    "accreditation": [
+      "NABH",
+      "NABL"
     ],
-    "sourceMode": "page",
-    "note": {
-      "en": "Hospital departments include cardiac sciences, oncology, orthopaedics and neurology. Use the official directory to confirm your specialist and appointment.",
-      "bn": "হাসপাতালে হৃদরোগ, ক্যান্সার, হাড় ও জয়েন্ট এবং স্নায়ুরোগের বিভাগ রয়েছে। বিশেষজ্ঞ ও অ্যাপয়েন্টমেন্ট নিশ্চিত করতে অফিসিয়াল তালিকা দেখুন।",
-      "hi": "अस्पताल में हृदय, कैंसर, हड्डी एवं जोड़ों और तंत्रिका रोगों के विभाग हैं। विशेषज्ञ और अपॉइंटमेंट की पुष्टि के लिए आधिकारिक सूची देखें।"
-    },
-    "reviewedAt": "2026-10-05",
-    "photo": null,
-    "sources": [
-      "https://www.fortishealthcare.com/location/fortis-hospital-anandapur-kolkata"
-    ],
+    "beds": 320,
+    "website": "https://www.fortishealthcare.com/location/fortis-hospital-anandapur-kolkata",
+    "appOrPortal": "Fortis online booking",
     "verificationStatus": "verified_official",
-    "active": true
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_FORTIS_KOL"
+    ],
+    "secondarySources": [
+      "SRC_PRACTO_FORTIS_KOL"
+    ],
+    "image": {
+      "status": "needs_license_review",
+      "sourcePage": "https://www.fortishealthcare.com/location/fortis-hospital-anandapur-kolkata",
+      "isIllustrative": false,
+      "url": "assets/hospital-cover.svg"
+    }
   },
   {
-    "id": "apollo-chennai",
-    "city": "chennai",
-    "name": {
-      "en": "Apollo Hospitals",
-      "bn": "অ্যাপোলো হাসপাতাল",
-      "hi": "अपोलो हॉस्पिटल"
-    },
-    "branch": {
-      "en": "Greams Road · Chennai",
-      "bn": "গ্রিমস রোড · চেন্নাই",
-      "hi": "ग्रीम्स रोड · चेन्नई"
-    },
-    "address": {
-      "en": "21, Greams Lane, off Greams Road, Thousand Lights, Chennai 600006",
-      "bn": "২১, গ্রিমস লেন, গ্রিমস রোডের পাশে, থাউজ্যান্ড লাইটস, চেন্নাই ৬০০০০৬",
-      "hi": "२१, ग्रीम्स लेन, ग्रीम्स रोड के पास, थाउजेंड लाइट्स, चेन्नई ६००००६"
-    },
+    "id": "H-CHN-001",
+    "name": "Apollo Hospitals, Greams Road, Chennai",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "address": "21, Greams Rd, Thousand Lights West, Chennai, Tamil Nadu 600006",
+    "phone": "08069049756",
+    "internationalSupport": true,
+    "internationalContact": null,
     "specialties": [
-      "cardiac",
-      "cancer",
-      "neuro",
-      "ortho",
-      "gastro",
-      "kidney",
-      "ent"
+      "Cardiac Sciences",
+      "Oncology",
+      "Neurology",
+      "Nephrology",
+      "Gastroenterology & Hepatology",
+      "Orthopaedics",
+      "Urology",
+      "Transplants"
     ],
-    "source": "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai",
-    "directory": "https://www.apollohospitals.com/book-doctor-appointment/chennai",
-    "phone": "+918069049756",
-    "hotels": [
-      "hyatt-chennai"
+    "accreditation": [
+      "JCI",
+      "NABH"
     ],
-    "sourceMode": "page",
-    "note": {
-      "en": "Apollo’s Greams Road hospital lists multiple specialty departments and an official doctor directory. Ask for a written estimate for your individual case.",
-      "bn": "অ্যাপোলোর গ্রিমস রোড হাসপাতালে বিভিন্ন বিশেষজ্ঞ বিভাগ ও অফিসিয়াল ডাক্তারের তালিকা রয়েছে। নিজের চিকিৎসার জন্য লিখিত খরচের হিসাব চেয়ে নিন।",
-      "hi": "अपोलो के ग्रीम्स रोड अस्पताल में कई विशेषज्ञ विभाग और आधिकारिक डॉक्टर सूची है। अपने उपचार के लिए लिखित खर्च का अनुमान मांगें।"
-    },
-    "reviewedAt": "2026-10-05",
-    "photo": null,
-    "sources": [
-      "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai"
-    ],
+    "beds": 560,
+    "website": "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai",
+    "appOrPortal": "Apollo digital booking / patient services",
     "verificationStatus": "verified_official",
-    "active": true
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_APOLLO_CHN"
+    ],
+    "secondarySources": [
+      "SRC_PRACTO_APOLLO_CHN"
+    ],
+    "image": {
+      "status": "needs_license_review",
+      "sourcePage": "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai",
+      "isIllustrative": false,
+      "url": "assets/hospital-cover.svg"
+    }
   },
   {
-    "id": "miot-chennai",
-    "city": "chennai",
-    "name": {
-      "en": "MIOT International",
-      "bn": "এমআইওটি ইন্টারন্যাশনাল",
-      "hi": "एमआईओटी इंटरनेशनल"
-    },
-    "branch": {
-      "en": "Manapakkam · Chennai",
-      "bn": "মনাপাক্কম · চেন্নাই",
-      "hi": "मनपक्कम · चेन्नई"
-    },
-    "address": {
-      "en": "4/112, Mount Poonamalle Road, Manapakkam, Chennai 600089",
-      "bn": "৪/১১২, মাউন্ট পুনামাল্লে রোড, মনাপাক্কম, চেন্নাই ৬০০০৮৯",
-      "hi": "४/११२, माउंट पूनमल्ली रोड, मनपक्कम, चेन्नई ६०००८९"
-    },
+    "id": "H-CHN-002",
+    "name": "MGM Healthcare",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "address": "No 72, Old No 54, Nelson Manickam Road, Aminjikarai, Chennai 600029",
+    "phone": "+91 44 4524 2407",
+    "internationalSupport": true,
+    "internationalContact": null,
     "specialties": [
-      "ortho",
-      "gastro",
-      "cardiac"
-    ],
-    "source": "https://www.miotinternational.com/contact-us/get-in-touch/",
-    "directory": "https://www.miotinternational.com/",
-    "phone": "+914442002288",
-    "hotels": [
-      "lemon-shimona"
-    ],
-    "sourceMode": "page",
-    "note": {
-      "en": "Official hospital contact details and international-patient services are available on MIOT’s website. Confirm your department and travel readiness with the care team.",
-      "bn": "এমআইওটির ওয়েবসাইটে হাসপাতালের যোগাযোগ ও আন্তর্জাতিক রোগীর সেবার তথ্য রয়েছে। বিভাগ এবং ভ্রমণের উপযোগিতা চিকিৎসক দলের সঙ্গে নিশ্চিত করুন।",
-      "hi": "एमआईओटी की वेबसाइट पर अस्पताल के संपर्क और अंतरराष्ट्रीय मरीज सेवाओं की जानकारी है। विभाग और यात्रा की तैयारी देखभाल टीम से सुनिश्चित करें।"
-    },
-    "reviewedAt": "2026-10-05",
-    "photo": null,
-    "sources": [
-      "https://www.miotinternational.com/contact-us/get-in-touch/",
-      "https://www.miotinternational.com/"
-    ],
-    "verificationStatus": "verified_official",
-    "active": true
-  },
-  {
-    "id": "manipal-bengaluru",
-    "city": "bengaluru",
-    "name": {
-      "en": "Manipal Hospitals",
-      "bn": "মণিপাল হাসপাতাল",
-      "hi": "मणिपाल हॉस्पिटल"
-    },
-    "branch": {
-      "en": "Old Airport Road · Bengaluru",
-      "bn": "ওল্ড এয়ারপোর্ট রোড · বেঙ্গালুরু",
-      "hi": "ओल्ड एयरपोर्ट रोड · बेंगलुरु"
-    },
-    "address": {
-      "en": "98, HAL Old Airport Road, Kodihalli, Bengaluru 560017",
-      "bn": "৯৮, এইচএএল ওল্ড এয়ারপোর্ট রোড, কোডিহাল্লি, বেঙ্গালুরু ৫৬০০১৭",
-      "hi": "९८, एचएएल ओल्ड एयरपोर्ट रोड, कोडिहल्ली, बेंगलुरु ५६००१७"
-    },
-    "specialties": [
-      "cardiac",
-      "kidney",
-      "eye"
-    ],
-    "source": "https://www.manipalhospitals.com/oldairportroad/contact-us/",
-    "directory": "https://www.manipalhospitals.com/oldairportroad/",
-    "phone": "+918022221111",
-    "hotels": [
-      "royal-orchid"
-    ],
-    "sourceMode": "search",
-    "note": {
-      "en": "Use the Old Airport Road branch address when arranging a visit. This directory lists selected departments, not the hospital’s full service catalogue.",
-      "bn": "ভ্রমণ পরিকল্পনার সময় ওল্ড এয়ারপোর্ট রোড শাখার ঠিকানা ব্যবহার করুন। এখানে কয়েকটি বিভাগ দেখানো হয়েছে; হাসপাতালের সম্পূর্ণ সেবার তালিকা নয়।",
-      "hi": "यात्रा की योजना बनाते समय ओल्ड एयरपोर्ट रोड शाखा का पता उपयोग करें। यहां कुछ विभाग दिखाए गए हैं, अस्पताल की सभी सेवाओं की सूची नहीं।"
-    },
-    "reviewedAt": "2026-10-05",
-    "photo": null,
-    "sources": [
-      "https://www.manipalhospitals.com/oldairportroad/contact-us/",
-      "https://www.manipalhospitals.com/oldairportroad/specialities/cardiology/",
-      "https://www.manipalhospitals.com/oldairportroad/specialities/ophthalmology/"
-    ],
-    "verificationStatus": "verified_official",
-    "active": true
-  },
-  {
-    "id": "max-delhi",
-    "city": "delhi",
-    "name": {
-      "en": "Max Super Speciality Hospital",
-      "bn": "ম্যাক্স সুপার স্পেশালিটি হাসপাতাল",
-      "hi": "मैक्स सुपर स्पेशलिटी हॉस्पिटल"
-    },
-    "branch": {
-      "en": "Saket · New Delhi",
-      "bn": "সাকেত · নতুন দিল্লি",
-      "hi": "साकेत · नई दिल्ली"
-    },
-    "address": {
-      "en": "1–2, Press Enclave Marg, Saket Institutional Area, New Delhi 110017",
-      "bn": "১–২, প্রেস এনক্লেভ মার্গ, সাকেত ইনস্টিটিউশনাল এরিয়া, নতুন দিল্লি ১১০০১৭",
-      "hi": "१–२, प्रेस एन्क्लेव मार्ग, साकेत इंस्टिट्यूशनल एरिया, नई दिल्ली ११००१७"
-    },
-    "specialties": [
-      "cardiac",
-      "cancer",
-      "neuro",
-      "gastro",
-      "kidney"
-    ],
-    "source": "https://www.maxhealthcare.in/hospital-network/max-super-speciality-hospital-saket",
-    "directory": "https://www.maxhealthcare.in/doctor/saket",
-    "phone": null,
-    "hotels": [
-      "hilton-saket"
-    ],
-    "sourceMode": "search",
-    "note": {
-      "en": "The Saket campus has East and West blocks. Confirm the exact block, specialist and arrival instructions before arranging transport.",
-      "bn": "সাকেত ক্যাম্পাসে পূর্ব ও পশ্চিম ব্লক রয়েছে। যাতায়াত ঠিক করার আগে নির্দিষ্ট ব্লক, বিশেষজ্ঞ এবং পৌঁছানোর নির্দেশনা নিশ্চিত করুন।",
-      "hi": "साकेत परिसर में पूर्व और पश्चिम ब्लॉक हैं। परिवहन तय करने से पहले सही ब्लॉक, विशेषज्ञ और पहुंचने के निर्देश सुनिश्चित करें।"
-    },
-    "reviewedAt": "2026-10-05",
-    "photo": null,
-    "sources": [
-      "https://www.maxhealthcare.in/hospital-network/max-super-speciality-hospital-saket"
-    ],
-    "verificationStatus": "verified_official",
-    "active": true
-  },
-  {
-    "id": "apollo-delhi",
-    "city": "delhi",
-    "name": {
-      "en": "Apollo Hospitals, Delhi",
-      "bn": "Apollo Hospitals, Delhi",
-      "hi": "Apollo Hospitals, Delhi"
-    },
-    "branch": {
-      "en": "Jasola Vihar",
-      "bn": "Jasola Vihar",
-      "hi": "Jasola Vihar"
-    },
-    "address": {
-      "en": "NH-19, Jasola Vihar, New Delhi, Delhi 110020",
-      "bn": "NH-19, Jasola Vihar, New Delhi, Delhi 110020",
-      "hi": "NH-19, Jasola Vihar, New Delhi, Delhi 110020"
-    },
-    "specialties": [],
-    "source": "https://www.apollohospitals.com/hospitals/apollo-hospitals-delhi",
-    "directory": "https://www.apollohospitals.com/facilities/hospitals",
-    "phone": "+918069049768",
-    "hotels": [],
-    "hotelSearch": true,
-    "sourceMode": "page",
-    "note": {
-      "en": "The official directory confirms this hospital listing and address. Branch-specific departments are not confirmed in this record. Call the hospital to verify services, doctors, eligibility and availability. The phone shown for Medanta is its central enquiry line.",
-      "bn": "অফিসিয়াল ডিরেক্টরিতে হাসপাতাল ও ঠিকানা নিশ্চিত। এই রেকর্ডে শাখার বিভাগ যাচাই করা হয়নি। সেবা, ডাক্তার, যোগ্যতা ও প্রাপ্যতা হাসপাতালকে ফোন করে নিশ্চিত করুন। Medanta-র নম্বরটি কেন্দ্রীয় অনুসন্ধান নম্বর।",
-      "hi": "आधिकारिक निर्देशिका में अस्पताल और पता दर्ज हैं। इस रिकॉर्ड में शाखा के विभागों की पुष्टि नहीं है। सेवाएँ, डॉक्टर, पात्रता और उपलब्धता अस्पताल से पूछें। Medanta का नंबर केंद्रीय पूछताछ लाइन है।"
-    },
-    "reviewedAt": "2026-10-05",
-    "photo": null,
-    "sources": [
-      "https://www.apollohospitals.com/hospitals/apollo-hospitals-delhi"
-    ],
-    "verificationStatus": "verified_official",
-    "active": true
-  },
-  {
-    "id": "apollo-mumbai",
-    "city": "mumbai",
-    "name": {
-      "en": "Apollo Hospitals, Mumbai",
-      "bn": "Apollo Hospitals, Mumbai",
-      "hi": "Apollo Hospitals, Mumbai"
-    },
-    "branch": {
-      "en": "CBD Belapur · Navi Mumbai",
-      "bn": "CBD Belapur · Navi Mumbai",
-      "hi": "CBD Belapur · Navi Mumbai"
-    },
-    "address": {
-      "en": "Plot No. 13, Parsik Hill Road, CBD Belapur, Navi Mumbai, Maharashtra 400614",
-      "bn": "Plot No. 13, Parsik Hill Road, CBD Belapur, Navi Mumbai, Maharashtra 400614",
-      "hi": "Plot No. 13, Parsik Hill Road, CBD Belapur, Navi Mumbai, Maharashtra 400614"
-    },
-    "specialties": [],
-    "source": "https://www.apollohospitals.com/hospitals/apollo-hospitals-mumbai",
-    "directory": "https://www.apollohospitals.com/facilities/hospitals",
-    "phone": "+918062972766",
-    "hotels": [],
-    "hotelSearch": true,
-    "sourceMode": "page",
-    "note": {
-      "en": "The official directory confirms this hospital listing and address. Branch-specific departments are not confirmed in this record. Call the hospital to verify services, doctors, eligibility and availability. The phone shown for Medanta is its central enquiry line.",
-      "bn": "অফিসিয়াল ডিরেক্টরিতে হাসপাতাল ও ঠিকানা নিশ্চিত। এই রেকর্ডে শাখার বিভাগ যাচাই করা হয়নি। সেবা, ডাক্তার, যোগ্যতা ও প্রাপ্যতা হাসপাতালকে ফোন করে নিশ্চিত করুন। Medanta-র নম্বরটি কেন্দ্রীয় অনুসন্ধান নম্বর।",
-      "hi": "आधिकारिक निर्देशिका में अस्पताल और पता दर्ज हैं। इस रिकॉर्ड में शाखा के विभागों की पुष्टि नहीं है। सेवाएँ, डॉक्टर, पात्रता और उपलब्धता अस्पताल से पूछें। Medanta का नंबर केंद्रीय पूछताछ लाइन है।"
-    },
-    "reviewedAt": "2026-10-05",
-    "photo": null,
-    "sources": [
-      "https://www.apollohospitals.com/hospitals/apollo-hospitals-mumbai"
-    ],
-    "verificationStatus": "verified_official",
-    "active": true
-  },
-  {
-    "id": "apollo-lucknow",
-    "city": "lucknow",
-    "name": {
-      "en": "Apollo Medics Super Speciality Hospitals",
-      "bn": "Apollo Medics Super Speciality Hospitals",
-      "hi": "Apollo Medics Super Speciality Hospitals"
-    },
-    "branch": {
-      "en": "LDA Colony",
-      "bn": "LDA Colony",
-      "hi": "LDA Colony"
-    },
-    "address": {
-      "en": "Kanpur-Lucknow Road, Sector B, Bargawan, LDA Colony, Lucknow, Uttar Pradesh 226012",
-      "bn": "Kanpur-Lucknow Road, Sector B, Bargawan, LDA Colony, Lucknow, Uttar Pradesh 226012",
-      "hi": "Kanpur-Lucknow Road, Sector B, Bargawan, LDA Colony, Lucknow, Uttar Pradesh 226012"
-    },
-    "specialties": [],
-    "source": "https://www.apollohospitals.com/hospitals/apollo-hospitals-lucknow",
-    "directory": "https://www.apollohospitals.com/facilities/hospitals",
-    "phone": "+915226788888",
-    "hotels": [],
-    "hotelSearch": true,
-    "sourceMode": "page",
-    "note": {
-      "en": "The official directory confirms this hospital listing and address. Branch-specific departments are not confirmed in this record. Call the hospital to verify services, doctors, eligibility and availability. The phone shown for Medanta is its central enquiry line.",
-      "bn": "অফিসিয়াল ডিরেক্টরিতে হাসপাতাল ও ঠিকানা নিশ্চিত। এই রেকর্ডে শাখার বিভাগ যাচাই করা হয়নি। সেবা, ডাক্তার, যোগ্যতা ও প্রাপ্যতা হাসপাতালকে ফোন করে নিশ্চিত করুন। Medanta-র নম্বরটি কেন্দ্রীয় অনুসন্ধান নম্বর।",
-      "hi": "आधिकारिक निर्देशिका में अस्पताल और पता दर्ज हैं। इस रिकॉर्ड में शाखा के विभागों की पुष्टि नहीं है। सेवाएँ, डॉक्टर, पात्रता और उपलब्धता अस्पताल से पूछें। Medanta का नंबर केंद्रीय पूछताछ लाइन है।"
-    },
-    "reviewedAt": "2026-10-05",
-    "photo": null,
-    "sources": [
-      "https://www.apollohospitals.com/hospitals/apollo-hospitals-lucknow"
-    ],
-    "verificationStatus": "verified_official",
-    "active": true
-  },
-  {
-    "id": "apollo-vizag",
-    "city": "visakhapatnam",
-    "name": {
-      "en": "Apollo Hospitals Health City",
-      "bn": "Apollo Hospitals Health City",
-      "hi": "Apollo Hospitals Health City"
-    },
-    "branch": {
-      "en": "Arilova · Visakhapatnam",
-      "bn": "Arilova · Visakhapatnam",
-      "hi": "Arilova · Visakhapatnam"
-    },
-    "address": {
-      "en": "Plot No. 1, Arilova, Chinagadali, Visakhapatnam, Andhra Pradesh 530040",
-      "bn": "Plot No. 1, Arilova, Chinagadali, Visakhapatnam, Andhra Pradesh 530040",
-      "hi": "Plot No. 1, Arilova, Chinagadali, Visakhapatnam, Andhra Pradesh 530040"
-    },
-    "specialties": [],
-    "source": "https://www.apollohospitals.com/hospitals/apollo-hospitals-health-city-arilova-vizag",
-    "directory": "https://www.apollohospitals.com/facilities/hospitals",
-    "phone": "+918062972806",
-    "hotels": [],
-    "hotelSearch": true,
-    "sourceMode": "page",
-    "note": {
-      "en": "The official directory confirms this hospital listing and address. Branch-specific departments are not confirmed in this record. Call the hospital to verify services, doctors, eligibility and availability. The phone shown for Medanta is its central enquiry line.",
-      "bn": "অফিসিয়াল ডিরেক্টরিতে হাসপাতাল ও ঠিকানা নিশ্চিত। এই রেকর্ডে শাখার বিভাগ যাচাই করা হয়নি। সেবা, ডাক্তার, যোগ্যতা ও প্রাপ্যতা হাসপাতালকে ফোন করে নিশ্চিত করুন। Medanta-র নম্বরটি কেন্দ্রীয় অনুসন্ধান নম্বর।",
-      "hi": "आधिकारिक निर्देशिका में अस्पताल और पता दर्ज हैं। इस रिकॉर्ड में शाखा के विभागों की पुष्टि नहीं है। सेवाएँ, डॉक्टर, पात्रता और उपलब्धता अस्पताल से पूछें। Medanta का नंबर केंद्रीय पूछताछ लाइन है।"
-    },
-    "reviewedAt": "2026-10-05",
-    "photo": null,
-    "sources": [
-      "https://www.apollohospitals.com/hospitals/apollo-hospitals-health-city-arilova-vizag"
-    ],
-    "verificationStatus": "verified_official",
-    "active": true
-  },
-  {
-    "id": "apollo-guwahati",
-    "city": "guwahati",
-    "name": {
-      "en": "Apollo Hospitals, Guwahati",
-      "bn": "Apollo Hospitals, Guwahati",
-      "hi": "Apollo Hospitals, Guwahati"
-    },
-    "branch": {
-      "en": "Christian Basti",
-      "bn": "Christian Basti",
-      "hi": "Christian Basti"
-    },
-    "address": {
-      "en": "Lotus Tower, Christian Basti, G.S. Road, Guwahati, Assam 781005",
-      "bn": "Lotus Tower, Christian Basti, G.S. Road, Guwahati, Assam 781005",
-      "hi": "Lotus Tower, Christian Basti, G.S. Road, Guwahati, Assam 781005"
-    },
-    "specialties": [],
-    "source": "https://www.apollohospitals.com/hospitals/apollo-hospitals-guwahati",
-    "directory": "https://www.apollohospitals.com/facilities/hospitals",
-    "phone": "+918062972762",
-    "hotels": [],
-    "hotelSearch": true,
-    "sourceMode": "page",
-    "note": {
-      "en": "The official directory confirms this hospital listing and address. Branch-specific departments are not confirmed in this record. Call the hospital to verify services, doctors, eligibility and availability. The phone shown for Medanta is its central enquiry line.",
-      "bn": "অফিসিয়াল ডিরেক্টরিতে হাসপাতাল ও ঠিকানা নিশ্চিত। এই রেকর্ডে শাখার বিভাগ যাচাই করা হয়নি। সেবা, ডাক্তার, যোগ্যতা ও প্রাপ্যতা হাসপাতালকে ফোন করে নিশ্চিত করুন। Medanta-র নম্বরটি কেন্দ্রীয় অনুসন্ধান নম্বর।",
-      "hi": "आधिकारिक निर्देशिका में अस्पताल और पता दर्ज हैं। इस रिकॉर्ड में शाखा के विभागों की पुष्टि नहीं है। सेवाएँ, डॉक्टर, पात्रता और उपलब्धता अस्पताल से पूछें। Medanta का नंबर केंद्रीय पूछताछ लाइन है।"
-    },
-    "reviewedAt": "2026-10-05",
-    "photo": null,
-    "sources": [
-      "https://www.apollohospitals.com/hospitals/apollo-hospitals-guwahati"
-    ],
-    "verificationStatus": "verified_official",
-    "active": true
-  },
-  {
-    "id": "apollo-bhubaneswar",
-    "city": "bhubaneswar",
-    "name": {
-      "en": "Apollo Hospitals, Bhubaneswar",
-      "bn": "Apollo Hospitals, Bhubaneswar",
-      "hi": "Apollo Hospitals, Bhubaneswar"
-    },
-    "branch": {
-      "en": "Gajapati Nagar",
-      "bn": "Gajapati Nagar",
-      "hi": "Gajapati Nagar"
-    },
-    "address": {
-      "en": "Plot No. 251, Sainik School Road, Unit 15, Gajapati Nagar, Bhubaneswar, Odisha 751005",
-      "bn": "Plot No. 251, Sainik School Road, Unit 15, Gajapati Nagar, Bhubaneswar, Odisha 751005",
-      "hi": "Plot No. 251, Sainik School Road, Unit 15, Gajapati Nagar, Bhubaneswar, Odisha 751005"
-    },
-    "specialties": [],
-    "source": "https://www.apollohospitals.com/hospitals/apollo-hospitals-bhubaneswar",
-    "directory": "https://www.apollohospitals.com/facilities/hospitals",
-    "phone": "+918069049752",
-    "hotels": [],
-    "hotelSearch": true,
-    "sourceMode": "page",
-    "note": {
-      "en": "The official directory confirms this hospital listing and address. Branch-specific departments are not confirmed in this record. Call the hospital to verify services, doctors, eligibility and availability. The phone shown for Medanta is its central enquiry line.",
-      "bn": "অফিসিয়াল ডিরেক্টরিতে হাসপাতাল ও ঠিকানা নিশ্চিত। এই রেকর্ডে শাখার বিভাগ যাচাই করা হয়নি। সেবা, ডাক্তার, যোগ্যতা ও প্রাপ্যতা হাসপাতালকে ফোন করে নিশ্চিত করুন। Medanta-র নম্বরটি কেন্দ্রীয় অনুসন্ধান নম্বর।",
-      "hi": "आधिकारिक निर्देशिका में अस्पताल और पता दर्ज हैं। इस रिकॉर्ड में शाखा के विभागों की पुष्टि नहीं है। सेवाएँ, डॉक्टर, पात्रता और उपलब्धता अस्पताल से पूछें। Medanta का नंबर केंद्रीय पूछताछ लाइन है।"
-    },
-    "reviewedAt": "2026-10-05",
-    "photo": null,
-    "sources": [
-      "https://www.apollohospitals.com/hospitals/apollo-hospitals-bhubaneswar"
-    ],
-    "verificationStatus": "verified_official",
-    "active": true
-  },
-  {
-    "id": "apollo-pune",
-    "city": "pune",
-    "name": {
-      "en": "Apollo Speciality Hospital, Pune",
-      "bn": "Apollo Speciality Hospital, Pune",
-      "hi": "Apollo Speciality Hospital, Pune"
-    },
-    "branch": {
-      "en": "Mahatma Phule Peth",
-      "bn": "Mahatma Phule Peth",
-      "hi": "Mahatma Phule Peth"
-    },
-    "address": {
-      "en": "Plot No. 1, Shankar Sheth Road, Mahatma Phule Peth, Swargate, Pune, Maharashtra 411042",
-      "bn": "Plot No. 1, Shankar Sheth Road, Mahatma Phule Peth, Swargate, Pune, Maharashtra 411042",
-      "hi": "Plot No. 1, Shankar Sheth Road, Mahatma Phule Peth, Swargate, Pune, Maharashtra 411042"
-    },
-    "specialties": [],
-    "source": "https://www.apollohospitals.com/hospitals/pune",
-    "directory": "https://www.apollohospitals.com/facilities/hospitals",
-    "phone": "+918062972814",
-    "hotels": [],
-    "hotelSearch": true,
-    "sourceMode": "page",
-    "note": {
-      "en": "The official directory confirms this hospital listing and address. Branch-specific departments are not confirmed in this record. Call the hospital to verify services, doctors, eligibility and availability. The phone shown for Medanta is its central enquiry line.",
-      "bn": "অফিসিয়াল ডিরেক্টরিতে হাসপাতাল ও ঠিকানা নিশ্চিত। এই রেকর্ডে শাখার বিভাগ যাচাই করা হয়নি। সেবা, ডাক্তার, যোগ্যতা ও প্রাপ্যতা হাসপাতালকে ফোন করে নিশ্চিত করুন। Medanta-র নম্বরটি কেন্দ্রীয় অনুসন্ধান নম্বর।",
-      "hi": "आधिकारिक निर्देशिका में अस्पताल और पता दर्ज हैं। इस रिकॉर्ड में शाखा के विभागों की पुष्टि नहीं है। सेवाएँ, डॉक्टर, पात्रता और उपलब्धता अस्पताल से पूछें। Medanta का नंबर केंद्रीय पूछताछ लाइन है।"
-    },
-    "reviewedAt": "2026-10-05",
-    "photo": null,
-    "sources": [
-      "https://www.apollohospitals.com/hospitals/pune"
-    ],
-    "verificationStatus": "verified_official",
-    "active": true
-  },
-  {
-    "id": "apollo-gurugram",
-    "city": "gurugram",
-    "name": {
-      "en": "Apollo Hospitals, Gurugram",
-      "bn": "Apollo Hospitals, Gurugram",
-      "hi": "Apollo Hospitals, Gurugram"
-    },
-    "branch": {
-      "en": "Sector 28",
-      "bn": "Sector 28",
-      "hi": "Sector 28"
-    },
-    "address": {
-      "en": "Plots 1202, 1203 and 1204, Phase 1, Sector 28, Gurugram, Haryana 122002",
-      "bn": "Plots 1202, 1203 and 1204, Phase 1, Sector 28, Gurugram, Haryana 122002",
-      "hi": "Plots 1202, 1203 and 1204, Phase 1, Sector 28, Gurugram, Haryana 122002"
-    },
-    "specialties": [],
-    "source": "https://www.apollohospitals.com/hospitals/gurugram",
-    "directory": "https://www.apollohospitals.com/facilities/hospitals",
-    "phone": "+919266022919",
-    "hotels": [],
-    "hotelSearch": true,
-    "sourceMode": "page",
-    "note": {
-      "en": "The official directory confirms this hospital listing and address. Branch-specific departments are not confirmed in this record. Call the hospital to verify services, doctors, eligibility and availability. The phone shown for Medanta is its central enquiry line.",
-      "bn": "অফিসিয়াল ডিরেক্টরিতে হাসপাতাল ও ঠিকানা নিশ্চিত। এই রেকর্ডে শাখার বিভাগ যাচাই করা হয়নি। সেবা, ডাক্তার, যোগ্যতা ও প্রাপ্যতা হাসপাতালকে ফোন করে নিশ্চিত করুন। Medanta-র নম্বরটি কেন্দ্রীয় অনুসন্ধান নম্বর।",
-      "hi": "आधिकारिक निर्देशिका में अस्पताल और पता दर्ज हैं। इस रिकॉर्ड में शाखा के विभागों की पुष्टि नहीं है। सेवाएँ, डॉक्टर, पात्रता और उपलब्धता अस्पताल से पूछें। Medanta का नंबर केंद्रीय पूछताछ लाइन है।"
-    },
-    "reviewedAt": "2026-10-05",
-    "photo": null,
-    "sources": [
-      "https://www.apollohospitals.com/hospitals/gurugram"
-    ],
-    "verificationStatus": "verified_official",
-    "active": true
-  },
-  {
-    "id": "apollo-noida",
-    "city": "noida",
-    "name": {
-      "en": "Apollo Hospitals, Noida",
-      "bn": "Apollo Hospitals, Noida",
-      "hi": "Apollo Hospitals, Noida"
-    },
-    "branch": {
-      "en": "Sector 26",
-      "bn": "Sector 26",
-      "hi": "Sector 26"
-    },
-    "address": {
-      "en": "E-2, Sector 26, Noida, Uttar Pradesh 201301",
-      "bn": "E-2, Sector 26, Noida, Uttar Pradesh 201301",
-      "hi": "E-2, Sector 26, Noida, Uttar Pradesh 201301"
-    },
-    "specialties": [],
-    "source": "https://www.apollohospitals.com/hospitals/apollo-hospitals-noida",
-    "directory": "https://www.apollohospitals.com/facilities/hospitals",
-    "phone": "+918069049757",
-    "hotels": [],
-    "hotelSearch": true,
-    "sourceMode": "page",
-    "note": {
-      "en": "The official directory confirms this hospital listing and address. Branch-specific departments are not confirmed in this record. Call the hospital to verify services, doctors, eligibility and availability. The phone shown for Medanta is its central enquiry line.",
-      "bn": "অফিসিয়াল ডিরেক্টরিতে হাসপাতাল ও ঠিকানা নিশ্চিত। এই রেকর্ডে শাখার বিভাগ যাচাই করা হয়নি। সেবা, ডাক্তার, যোগ্যতা ও প্রাপ্যতা হাসপাতালকে ফোন করে নিশ্চিত করুন। Medanta-র নম্বরটি কেন্দ্রীয় অনুসন্ধান নম্বর।",
-      "hi": "आधिकारिक निर्देशिका में अस्पताल और पता दर्ज हैं। इस रिकॉर्ड में शाखा के विभागों की पुष्टि नहीं है। सेवाएँ, डॉक्टर, पात्रता और उपलब्धता अस्पताल से पूछें। Medanta का नंबर केंद्रीय पूछताछ लाइन है।"
-    },
-    "reviewedAt": "2026-10-05",
-    "photo": null,
-    "sources": [
-      "https://www.apollohospitals.com/hospitals/apollo-hospitals-noida"
-    ],
-    "verificationStatus": "verified_official",
-    "active": true
-  },
-  {
-    "id": "apollo-indore",
-    "city": "indore",
-    "name": {
-      "en": "Apollo Hospitals, Indore",
-      "bn": "Apollo Hospitals, Indore",
-      "hi": "Apollo Hospitals, Indore"
-    },
-    "branch": {
-      "en": "Vijay Nagar",
-      "bn": "Vijay Nagar",
-      "hi": "Vijay Nagar"
-    },
-    "address": {
-      "en": "Scheme No. 74C, Sector D, Vijay Nagar, Indore, Madhya Pradesh 452010",
-      "bn": "Scheme No. 74C, Sector D, Vijay Nagar, Indore, Madhya Pradesh 452010",
-      "hi": "Scheme No. 74C, Sector D, Vijay Nagar, Indore, Madhya Pradesh 452010"
-    },
-    "specialties": [],
-    "source": "https://www.apollohospitals.com/hospitals/apollo-hospitals-indore",
-    "directory": "https://www.apollohospitals.com/facilities/hospitals",
-    "phone": "+918069049755",
-    "hotels": [],
-    "hotelSearch": true,
-    "sourceMode": "page",
-    "note": {
-      "en": "The official directory confirms this hospital listing and address. Branch-specific departments are not confirmed in this record. Call the hospital to verify services, doctors, eligibility and availability. The phone shown for Medanta is its central enquiry line.",
-      "bn": "অফিসিয়াল ডিরেক্টরিতে হাসপাতাল ও ঠিকানা নিশ্চিত। এই রেকর্ডে শাখার বিভাগ যাচাই করা হয়নি। সেবা, ডাক্তার, যোগ্যতা ও প্রাপ্যতা হাসপাতালকে ফোন করে নিশ্চিত করুন। Medanta-র নম্বরটি কেন্দ্রীয় অনুসন্ধান নম্বর।",
-      "hi": "आधिकारिक निर्देशिका में अस्पताल और पता दर्ज हैं। इस रिकॉर्ड में शाखा के विभागों की पुष्टि नहीं है। सेवाएँ, डॉक्टर, पात्रता और उपलब्धता अस्पताल से पूछें। Medanta का नंबर केंद्रीय पूछताछ लाइन है।"
-    },
-    "reviewedAt": "2026-10-05",
-    "photo": null,
-    "sources": [
-      "https://www.apollohospitals.com/hospitals/apollo-hospitals-indore"
-    ],
-    "verificationStatus": "verified_official",
-    "active": true
-  },
-  {
-    "id": "apollo-firstmed-chennai",
-    "city": "chennai",
-    "name": {
-      "en": "Apollo Firstmed Hospital",
-      "bn": "Apollo Firstmed Hospital",
-      "hi": "Apollo Firstmed Hospital"
-    },
-    "branch": {
-      "en": "Kilpauk · Chennai",
-      "bn": "Kilpauk · Chennai",
-      "hi": "Kilpauk · Chennai"
-    },
-    "address": {
-      "en": "154, Poonamallee High Road, Kilpauk, Chennai, Tamil Nadu 600010",
-      "bn": "154, Poonamallee High Road, Kilpauk, Chennai, Tamil Nadu 600010",
-      "hi": "154, Poonamallee High Road, Kilpauk, Chennai, Tamil Nadu 600010"
-    },
-    "specialties": [],
-    "source": "https://www.apollohospitals.com/hospitals/apollo-firstmed-hospital-chennai",
-    "directory": "https://www.apollohospitals.com/facilities/hospitals",
-    "phone": "+918062972772",
-    "hotels": [],
-    "hotelSearch": true,
-    "sourceMode": "page",
-    "note": {
-      "en": "The official directory confirms this hospital listing and address. Branch-specific departments are not confirmed in this record. Call the hospital to verify services, doctors, eligibility and availability. The phone shown for Medanta is its central enquiry line.",
-      "bn": "অফিসিয়াল ডিরেক্টরিতে হাসপাতাল ও ঠিকানা নিশ্চিত। এই রেকর্ডে শাখার বিভাগ যাচাই করা হয়নি। সেবা, ডাক্তার, যোগ্যতা ও প্রাপ্যতা হাসপাতালকে ফোন করে নিশ্চিত করুন। Medanta-র নম্বরটি কেন্দ্রীয় অনুসন্ধান নম্বর।",
-      "hi": "आधिकारिक निर्देशिका में अस्पताल और पता दर्ज हैं। इस रिकॉर्ड में शाखा के विभागों की पुष्टि नहीं है। सेवाएँ, डॉक्टर, पात्रता और उपलब्धता अस्पताल से पूछें। Medanta का नंबर केंद्रीय पूछताछ लाइन है।"
-    },
-    "reviewedAt": "2026-10-05",
-    "photo": null,
-    "sources": [
-      "https://www.apollohospitals.com/hospitals/apollo-firstmed-hospital-chennai"
-    ],
-    "verificationStatus": "verified_official",
-    "active": true
-  },
-  {
-    "id": "apollo-jayanagar",
-    "city": "bengaluru",
-    "name": {
-      "en": "Apollo Speciality Hospital, Jayanagar",
-      "bn": "Apollo Speciality Hospital, Jayanagar",
-      "hi": "Apollo Speciality Hospital, Jayanagar"
-    },
-    "branch": {
-      "en": "Jayanagar · Bengaluru",
-      "bn": "Jayanagar · Bengaluru",
-      "hi": "Jayanagar · Bengaluru"
-    },
-    "address": {
-      "en": "14th Cross Road, 212 Dr Parvathamma Rajkumar Road, near Madhavan Park Circle, 3rd Block, Jayanagar, Bengaluru, Karnataka 560011",
-      "bn": "14th Cross Road, 212 Dr Parvathamma Rajkumar Road, near Madhavan Park Circle, 3rd Block, Jayanagar, Bengaluru, Karnataka 560011",
-      "hi": "14th Cross Road, 212 Dr Parvathamma Rajkumar Road, near Madhavan Park Circle, 3rd Block, Jayanagar, Bengaluru, Karnataka 560011"
-    },
-    "specialties": [],
-    "source": "https://www.apollohospitals.com/hospitals/apollo-speciality-hospital-jayanagar",
-    "directory": "https://www.apollohospitals.com/facilities/hospitals",
-    "phone": "+918062972760",
-    "hotels": [],
-    "hotelSearch": true,
-    "sourceMode": "page",
-    "note": {
-      "en": "The official directory confirms this hospital listing and address. Branch-specific departments are not confirmed in this record. Call the hospital to verify services, doctors, eligibility and availability. The phone shown for Medanta is its central enquiry line.",
-      "bn": "অফিসিয়াল ডিরেক্টরিতে হাসপাতাল ও ঠিকানা নিশ্চিত। এই রেকর্ডে শাখার বিভাগ যাচাই করা হয়নি। সেবা, ডাক্তার, যোগ্যতা ও প্রাপ্যতা হাসপাতালকে ফোন করে নিশ্চিত করুন। Medanta-র নম্বরটি কেন্দ্রীয় অনুসন্ধান নম্বর।",
-      "hi": "आधिकारिक निर्देशिका में अस्पताल और पता दर्ज हैं। इस रिकॉर्ड में शाखा के विभागों की पुष्टि नहीं है। सेवाएँ, डॉक्टर, पात्रता और उपलब्धता अस्पताल से पूछें। Medanta का नंबर केंद्रीय पूछताछ लाइन है।"
-    },
-    "reviewedAt": "2026-10-05",
-    "photo": null,
-    "sources": [
-      "https://www.apollohospitals.com/hospitals/apollo-speciality-hospital-jayanagar"
-    ],
-    "verificationStatus": "verified_official",
-    "active": true
-  },
-  {
-    "id": "medanta-gurugram",
-    "city": "gurugram",
-    "name": {
-      "en": "Medanta – The Medicity",
-      "bn": "Medanta – The Medicity",
-      "hi": "Medanta – The Medicity"
-    },
-    "branch": {
-      "en": "Sector 38",
-      "bn": "Sector 38",
-      "hi": "Sector 38"
-    },
-    "address": {
-      "en": "CH Baktawar Singh Road, Sector 38, Gurugram, Haryana 122001",
-      "bn": "CH Baktawar Singh Road, Sector 38, Gurugram, Haryana 122001",
-      "hi": "CH Baktawar Singh Road, Sector 38, Gurugram, Haryana 122001"
-    },
-    "specialties": [],
-    "source": "https://www.medanta.org/contact-us",
-    "directory": "https://www.medanta.org/contact-us",
-    "phone": "+918800001068",
-    "hotels": [],
-    "hotelSearch": true,
-    "sourceMode": "page",
-    "note": {
-      "en": "The official directory confirms this hospital listing and address. Branch-specific departments are not confirmed in this record. Call the hospital to verify services, doctors, eligibility and availability. The phone shown for Medanta is its central enquiry line.",
-      "bn": "অফিসিয়াল ডিরেক্টরিতে হাসপাতাল ও ঠিকানা নিশ্চিত। এই রেকর্ডে শাখার বিভাগ যাচাই করা হয়নি। সেবা, ডাক্তার, যোগ্যতা ও প্রাপ্যতা হাসপাতালকে ফোন করে নিশ্চিত করুন। Medanta-র নম্বরটি কেন্দ্রীয় অনুসন্ধান নম্বর।",
-      "hi": "आधिकारिक निर्देशिका में अस्पताल और पता दर्ज हैं। इस रिकॉर्ड में शाखा के विभागों की पुष्टि नहीं है। सेवाएँ, डॉक्टर, पात्रता और उपलब्धता अस्पताल से पूछें। Medanta का नंबर केंद्रीय पूछताछ लाइन है।"
-    },
-    "reviewedAt": "2026-10-05",
-    "photo": null,
-    "sources": [
-      "https://www.medanta.org/contact-us"
-    ],
-    "verificationStatus": "verified_official",
-    "active": true
-  },
-  {
-    "id": "medanta-lucknow",
-    "city": "lucknow",
-    "name": {
-      "en": "Medanta Super Speciality Hospital",
-      "bn": "Medanta Super Speciality Hospital",
-      "hi": "Medanta Super Speciality Hospital"
-    },
-    "branch": {
-      "en": "Sushant Golf City",
-      "bn": "Sushant Golf City",
-      "hi": "Sushant Golf City"
-    },
-    "address": {
-      "en": "Sector A, Pocket 1, Sushant Golf City, Amar Shaheed Path, Lucknow, Uttar Pradesh 226030",
-      "bn": "Sector A, Pocket 1, Sushant Golf City, Amar Shaheed Path, Lucknow, Uttar Pradesh 226030",
-      "hi": "Sector A, Pocket 1, Sushant Golf City, Amar Shaheed Path, Lucknow, Uttar Pradesh 226030"
-    },
-    "specialties": [],
-    "source": "https://www.medanta.org/contact-us",
-    "directory": "https://www.medanta.org/contact-us",
-    "phone": "+918800001068",
-    "hotels": [],
-    "hotelSearch": true,
-    "sourceMode": "page",
-    "note": {
-      "en": "The official directory confirms this hospital listing and address. Branch-specific departments are not confirmed in this record. Call the hospital to verify services, doctors, eligibility and availability. The phone shown for Medanta is its central enquiry line.",
-      "bn": "অফিসিয়াল ডিরেক্টরিতে হাসপাতাল ও ঠিকানা নিশ্চিত। এই রেকর্ডে শাখার বিভাগ যাচাই করা হয়নি। সেবা, ডাক্তার, যোগ্যতা ও প্রাপ্যতা হাসপাতালকে ফোন করে নিশ্চিত করুন। Medanta-র নম্বরটি কেন্দ্রীয় অনুসন্ধান নম্বর।",
-      "hi": "आधिकारिक निर्देशिका में अस्पताल और पता दर्ज हैं। इस रिकॉर्ड में शाखा के विभागों की पुष्टि नहीं है। सेवाएँ, डॉक्टर, पात्रता और उपलब्धता अस्पताल से पूछें। Medanta का नंबर केंद्रीय पूछताछ लाइन है।"
-    },
-    "reviewedAt": "2026-10-05",
-    "photo": null,
-    "sources": [
-      "https://www.medanta.org/contact-us"
-    ],
-    "verificationStatus": "verified_official",
-    "active": true
-  },
-  {
-    "id": "medanta-patna",
-    "city": "patna",
-    "name": {
-      "en": "Jay Prabha Medanta Super Speciality Hospital",
-      "bn": "Jay Prabha Medanta Super Speciality Hospital",
-      "hi": "Jay Prabha Medanta Super Speciality Hospital"
-    },
-    "branch": {
-      "en": "Kankarbagh · Patna",
-      "bn": "Kankarbagh · Patna",
-      "hi": "Kankarbagh · Patna"
-    },
-    "address": {
-      "en": "Housing Board Colony, Kankarbagh, Patrakar Nagar, Patna, Bihar 800020",
-      "bn": "Housing Board Colony, Kankarbagh, Patrakar Nagar, Patna, Bihar 800020",
-      "hi": "Housing Board Colony, Kankarbagh, Patrakar Nagar, Patna, Bihar 800020"
-    },
-    "specialties": [],
-    "source": "https://www.medanta.org/contact-us",
-    "directory": "https://www.medanta.org/contact-us",
-    "phone": "+918800001068",
-    "hotels": [],
-    "hotelSearch": true,
-    "sourceMode": "page",
-    "note": {
-      "en": "The official directory confirms this hospital listing and address. Branch-specific departments are not confirmed in this record. Call the hospital to verify services, doctors, eligibility and availability. The phone shown for Medanta is its central enquiry line.",
-      "bn": "অফিসিয়াল ডিরেক্টরিতে হাসপাতাল ও ঠিকানা নিশ্চিত। এই রেকর্ডে শাখার বিভাগ যাচাই করা হয়নি। সেবা, ডাক্তার, যোগ্যতা ও প্রাপ্যতা হাসপাতালকে ফোন করে নিশ্চিত করুন। Medanta-র নম্বরটি কেন্দ্রীয় অনুসন্ধান নম্বর।",
-      "hi": "आधिकारिक निर्देशिका में अस्पताल और पता दर्ज हैं। इस रिकॉर्ड में शाखा के विभागों की पुष्टि नहीं है। सेवाएँ, डॉक्टर, पात्रता और उपलब्धता अस्पताल से पूछें। Medanta का नंबर केंद्रीय पूछताछ लाइन है।"
-    },
-    "reviewedAt": "2026-10-05",
-    "photo": null,
-    "sources": [
-      "https://www.medanta.org/contact-us"
-    ],
-    "verificationStatus": "verified_official",
-    "active": true
-  },
-  {
-    "id": "medanta-indore",
-    "city": "indore",
-    "name": {
-      "en": "Medanta Super Speciality Hospital",
-      "bn": "Medanta Super Speciality Hospital",
-      "hi": "Medanta Super Speciality Hospital"
-    },
-    "branch": {
-      "en": "Vijay Nagar · Indore",
-      "bn": "Vijay Nagar · Indore",
-      "hi": "Vijay Nagar · Indore"
-    },
-    "address": {
-      "en": "Plot 8, PU04, Commercial Scheme 54, Rasoma Square, Vijay Nagar, AB Road, Indore, Madhya Pradesh 452010",
-      "bn": "Plot 8, PU04, Commercial Scheme 54, Rasoma Square, Vijay Nagar, AB Road, Indore, Madhya Pradesh 452010",
-      "hi": "Plot 8, PU04, Commercial Scheme 54, Rasoma Square, Vijay Nagar, AB Road, Indore, Madhya Pradesh 452010"
-    },
-    "specialties": [],
-    "source": "https://www.medanta.org/contact-us",
-    "directory": "https://www.medanta.org/contact-us",
-    "phone": "+918800001068",
-    "hotels": [],
-    "hotelSearch": true,
-    "sourceMode": "page",
-    "note": {
-      "en": "The official directory confirms this hospital listing and address. Branch-specific departments are not confirmed in this record. Call the hospital to verify services, doctors, eligibility and availability. The phone shown for Medanta is its central enquiry line.",
-      "bn": "অফিসিয়াল ডিরেক্টরিতে হাসপাতাল ও ঠিকানা নিশ্চিত। এই রেকর্ডে শাখার বিভাগ যাচাই করা হয়নি। সেবা, ডাক্তার, যোগ্যতা ও প্রাপ্যতা হাসপাতালকে ফোন করে নিশ্চিত করুন। Medanta-র নম্বরটি কেন্দ্রীয় অনুসন্ধান নম্বর।",
-      "hi": "आधिकारिक निर्देशिका में अस्पताल और पता दर्ज हैं। इस रिकॉर्ड में शाखा के विभागों की पुष्टि नहीं है। सेवाएँ, डॉक्टर, पात्रता और उपलब्धता अस्पताल से पूछें। Medanta का नंबर केंद्रीय पूछताछ लाइन है।"
-    },
-    "reviewedAt": "2026-10-05",
-    "photo": null,
-    "sources": [
-      "https://www.medanta.org/contact-us"
-    ],
-    "verificationStatus": "verified_official",
-    "active": true
-  },
-  {
-    "id": "h-chn-002",
-    "city": "chennai",
-    "name": {
-      "en": "MGM Healthcare"
-    },
-    "branch": {
-      "en": "Chennai"
-    },
-    "address": {
-      "en": "No 72, Old No 54, Nelson Manickam Road, Aminjikarai, Chennai 600029"
-    },
-    "specialties": [
-      "cardiac",
-      "neuro",
-      "ortho",
-      "cancer"
-    ],
-    "specialtyNames": [
       "Cardiac Sciences",
       "Heart & Lung Transplantation",
       "Liver Care",
@@ -910,43 +143,74 @@
       "Orthopaedics",
       "Oncology"
     ],
-    "source": "https://mgmhealthcare.in/",
-    "directory": "https://mgmhealthcare.in/",
-    "phone": "+91 44 4524 2407",
-    "hotels": [],
-    "hotelSearch": true,
-    "sourceMode": "page",
-    "note": {
-      "en": "Confirm the exact department, appointment, international-patient process and current contact details directly with the hospital."
-    },
-    "reviewedAt": "2026-10-05",
-    "photo": null,
+    "accreditation": [],
+    "beds": 400,
+    "website": "https://mgmhealthcare.in/",
+    "appOrPortal": "Patient portal / video consultation",
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
     "sources": [
-      "https://mgmhealthcare.in/"
+      "SRC_MGM"
     ],
-    "verificationStatus": "needs_review",
-    "active": true
+    "secondarySources": [],
+    "image": {
+      "status": "needs_license_review",
+      "sourcePage": "https://mgmhealthcare.in/",
+      "isIllustrative": false,
+      "url": "assets/hospital-cover.svg"
+    }
   },
   {
-    "id": "h-chn-004",
-    "city": "chennai",
-    "name": {
-      "en": "Kauvery Hospital"
-    },
-    "branch": {
-      "en": "Chennai"
-    },
-    "address": {
-      "en": "No.199, Luz Church Road, Mylapore, Chennai, Tamil Nadu, India"
-    },
+    "id": "H-CHN-003",
+    "name": "MIOT International",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "address": "4/112, Mount Poonamallee Road, Manapakkam, Chennai 600089",
+    "phone": "+91 44 42002288",
+    "internationalSupport": true,
+    "internationalContact": null,
     "specialties": [
-      "cardiac",
-      "neuro",
-      "ortho",
-      "gastro",
-      "kidney"
+      "Orthopaedics",
+      "Cardiac Sciences",
+      "Transplants",
+      "Oncology",
+      "Neurology",
+      "Gastroenterology",
+      "Nephrology"
     ],
-    "specialtyNames": [
+    "accreditation": [
+      "NABH",
+      "NABL"
+    ],
+    "beds": 1000,
+    "website": "https://www.miotinternational.com/",
+    "appOrPortal": "International Patient Care",
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_MIOT",
+      "SRC_MIOT_ACC"
+    ],
+    "secondarySources": [],
+    "image": {
+      "status": "needs_license_review",
+      "sourcePage": "https://www.miotinternational.com/",
+      "isIllustrative": false,
+      "url": "assets/hospital-cover.svg"
+    }
+  },
+  {
+    "id": "H-CHN-004",
+    "name": "Kauvery Hospital, Chennai",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "address": "No.199, Luz Church Road, Mylapore, Chennai, Tamil Nadu, India",
+    "phone": "044 4000 6000",
+    "internationalSupport": true,
+    "internationalContact": null,
+    "specialties": [
       "Cardiology",
       "Neurology",
       "Orthopaedics",
@@ -954,43 +218,34 @@
       "Nephrology",
       "Critical Care"
     ],
-    "source": "https://www.kauveryhospital.com/our-locations/chennai/",
-    "directory": "https://www.kauveryhospital.com/our-locations/chennai/",
-    "phone": "044 4000 6000",
-    "hotels": [],
-    "hotelSearch": true,
-    "sourceMode": "page",
-    "note": {
-      "en": "Confirm the exact department, appointment, international-patient process and current contact details directly with the hospital."
-    },
-    "reviewedAt": "2026-10-05",
-    "photo": null,
+    "accreditation": [],
+    "beds": 300,
+    "website": "https://www.kauveryhospital.com/our-locations/chennai/",
+    "appOrPortal": "Online appointment services",
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
     "sources": [
-      "https://www.kauveryhospital.com/our-locations/chennai/"
+      "SRC_KAUVERY_CHN"
     ],
-    "verificationStatus": "needs_review",
-    "active": true
+    "secondarySources": [],
+    "image": {
+      "status": "needs_license_review",
+      "sourcePage": "https://www.kauveryhospital.com/our-locations/chennai/",
+      "isIllustrative": false,
+      "url": "assets/hospital-cover.svg"
+    }
   },
   {
-    "id": "h-hyd-001",
-    "city": "hyderabad",
-    "name": {
-      "en": "Yashoda Hospitals"
-    },
-    "branch": {
-      "en": "Hitec City"
-    },
-    "address": {
-      "en": "Survey No. 41/14, JNTU to Hitech City Main Rd, Khanamet Village, Serilingampally, Hyderabad, Telangana"
-    },
+    "id": "H-HYD-001",
+    "name": "Yashoda Hospitals, Hitec City",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "address": "Survey No. 41/14, JNTU to Hitech City Main Rd, Khanamet Village, Serilingampally, Hyderabad, Telangana",
+    "phone": "040 6723 2348",
+    "internationalSupport": true,
+    "internationalContact": "+91 80659 06200",
     "specialties": [
-      "cardiac",
-      "cancer",
-      "neuro",
-      "kidney",
-      "ortho"
-    ],
-    "specialtyNames": [
       "Cardiology",
       "Cardiac Surgery",
       "Oncology",
@@ -1000,43 +255,34 @@
       "Transplants",
       "Orthopaedics"
     ],
-    "source": "https://www.yashodahospitals.com/locations/hitec-city/",
-    "directory": "https://www.yashodahospitals.com/locations/hitec-city/",
-    "phone": "040 6723 2348",
-    "hotels": [],
-    "hotelSearch": true,
-    "sourceMode": "page",
-    "note": {
-      "en": "Confirm the exact department, appointment, international-patient process and current contact details directly with the hospital."
-    },
-    "reviewedAt": "2026-10-05",
-    "photo": null,
+    "accreditation": [],
+    "beds": 600,
+    "website": "https://www.yashodahospitals.com/locations/hitec-city/",
+    "appOrPortal": "Online appointment / video consultation",
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
     "sources": [
-      "https://www.yashodahospitals.com/locations/hitec-city/"
+      "SRC_YASHODA_HTC"
     ],
-    "verificationStatus": "needs_review",
-    "active": true
+    "secondarySources": [],
+    "image": {
+      "status": "needs_license_review",
+      "sourcePage": "https://www.yashodahospitals.com/locations/hitec-city/",
+      "isIllustrative": false,
+      "url": "assets/hospital-cover.svg"
+    }
   },
   {
-    "id": "h-hyd-002",
-    "city": "hyderabad",
-    "name": {
-      "en": "CARE Hospitals"
-    },
-    "branch": {
-      "en": "Banjara Hills"
-    },
-    "address": {
-      "en": "Road No.1, Banjara Hills, Hyderabad, Telangana 500034"
-    },
+    "id": "H-HYD-002",
+    "name": "CARE Hospitals, Banjara Hills",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "address": "Road No.1, Banjara Hills, Hyderabad, Telangana 500034",
+    "phone": "+91-40-68106529",
+    "internationalSupport": true,
+    "internationalContact": null,
     "specialties": [
-      "cardiac",
-      "kidney",
-      "neuro",
-      "cancer",
-      "ortho"
-    ],
-    "specialtyNames": [
       "Cardiac Sciences",
       "Gastro Sciences",
       "Nephrology",
@@ -1046,42 +292,35 @@
       "Transplants",
       "Urology"
     ],
-    "source": "https://www.carehospitals.com/hospitals/hyderabad/care-hospital-banjara-hills",
-    "directory": "https://www.carehospitals.com/hospitals/hyderabad/care-hospital-banjara-hills",
-    "phone": "+91-40-68106529",
-    "hotels": [],
-    "hotelSearch": true,
-    "sourceMode": "page",
-    "note": {
-      "en": "Confirm the exact department, appointment, international-patient process and current contact details directly with the hospital."
-    },
-    "reviewedAt": "2026-10-05",
-    "photo": null,
+    "accreditation": [],
+    "beds": 435,
+    "website": "https://www.carehospitals.com/hospitals/hyderabad/care-hospital-banjara-hills",
+    "appOrPortal": "Online appointment / second opinion",
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
     "sources": [
-      "https://www.carehospitals.com/hospitals/hyderabad/care-hospital-banjara-hills",
-      "https://www.carehospitals.com/speciality-and-treatments/hyderabad/care-hospital-banjara-hills"
+      "SRC_CARE_BH",
+      "SRC_CARE_SPEC"
     ],
-    "verificationStatus": "needs_review",
-    "active": true
+    "secondarySources": [],
+    "image": {
+      "status": "needs_license_review",
+      "sourcePage": "https://www.carehospitals.com/hospitals/hyderabad/care-hospital-banjara-hills",
+      "isIllustrative": false,
+      "url": "assets/hospital-cover.svg"
+    }
   },
   {
-    "id": "h-hyd-003",
-    "city": "hyderabad",
-    "name": {
-      "en": "AIG Hospitals"
-    },
-    "branch": {
-      "en": "Gachibowli"
-    },
-    "address": {
-      "en": "1-66/AIG/2 to 5, Mindspace Road, Gachibowli, Hyderabad, Telangana 500032"
-    },
+    "id": "H-HYD-003",
+    "name": "AIG Hospitals, Gachibowli",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "address": "1-66/AIG/2 to 5, Mindspace Road, Gachibowli, Hyderabad, Telangana 500032",
+    "phone": "+91 40 4244 4222",
+    "internationalSupport": true,
+    "internationalContact": null,
     "specialties": [
-      "gastro",
-      "cancer",
-      "cardiac"
-    ],
-    "specialtyNames": [
       "Gastroenterology",
       "Liver Sciences",
       "Organ Transplant",
@@ -1091,40 +330,39 @@
       "Pulmonary Sciences",
       "Emergency & Critical Care"
     ],
-    "source": "https://aighospitals.com/",
-    "directory": "https://aighospitals.com/",
-    "phone": "+91 40 4244 4222",
-    "hotels": [],
-    "hotelSearch": true,
-    "sourceMode": "page",
-    "note": {
-      "en": "Confirm the exact department, appointment, international-patient process and current contact details directly with the hospital."
-    },
-    "reviewedAt": "2026-10-05",
-    "photo": null,
-    "sources": [
-      "https://aighospitals.com/"
+    "accreditation": [
+      "NABH",
+      "JCI",
+      "NABL",
+      "ISO 9001"
     ],
-    "verificationStatus": "needs_review",
-    "active": true
+    "beds": 800,
+    "website": "https://aighospitals.com/",
+    "appOrPortal": "AIG Mitr App",
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_AIG"
+    ],
+    "secondarySources": [],
+    "image": {
+      "status": "needs_license_review",
+      "sourcePage": "https://aighospitals.com/",
+      "isIllustrative": false,
+      "url": "assets/hospital-cover.svg"
+    }
   },
   {
-    "id": "h-ncr-001",
-    "city": "gurugram",
-    "name": {
-      "en": "Medanta – The Medicity"
-    },
-    "branch": {
-      "en": "Gurugram"
-    },
-    "address": {
-      "en": "CH Baktawar Singh Road, Sector 38, Gurugram, Haryana 122001"
-    },
+    "id": "H-NCR-001",
+    "name": "Medanta – The Medicity, Gurugram",
+    "city": "Gurugram",
+    "state": "Haryana",
+    "country": "India",
+    "address": "CH Baktawar Singh Road, Sector 38, Gurugram, Haryana 122001",
+    "phone": "+91-880-000-1068",
+    "internationalSupport": true,
+    "internationalContact": null,
     "specialties": [
-      "neuro",
-      "ortho"
-    ],
-    "specialtyNames": [
       "Cardiac Care",
       "Cancer Care",
       "Neurosciences",
@@ -1135,45 +373,39 @@
       "Lung Transplant",
       "Bone Marrow Transplant"
     ],
-    "source": "https://www.medanta.org/hospitals-near-me/gurugram-hospital",
-    "directory": "https://www.medanta.org/hospitals-near-me/gurugram-hospital",
-    "phone": "+91-880-000-1068",
-    "hotels": [],
-    "hotelSearch": true,
-    "sourceMode": "page",
-    "note": {
-      "en": "Confirm the exact department, appointment, international-patient process and current contact details directly with the hospital."
-    },
-    "reviewedAt": "2026-10-05",
-    "photo": null,
-    "sources": [
-      "https://www.medanta.org/hospitals-near-me/gurugram-hospital",
-      "https://portal.nabh.co/Documents/AccreditedList/Hospitals/H-2011-0073_5th%20Edition.pdf"
+    "accreditation": [
+      "JCI",
+      "NABH",
+      "NABL"
     ],
-    "verificationStatus": "needs_review",
-    "active": true
+    "beds": 1440,
+    "website": "https://www.medanta.org/hospitals-near-me/gurugram-hospital",
+    "appOrPortal": "Telemedicine / digital patient services",
+    "verificationStatus": "verified_official_plus_nabh",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_MEDANTA",
+      "SRC_MEDANTA_NABH"
+    ],
+    "secondarySources": [],
+    "image": {
+      "status": "needs_license_review",
+      "sourcePage": "https://www.medanta.org/hospitals-near-me/gurugram-hospital",
+      "isIllustrative": false,
+      "url": "assets/hospital-cover.svg"
+    }
   },
   {
-    "id": "h-ncr-002",
-    "city": "gurugram",
-    "name": {
-      "en": "Fortis Memorial Research Institute"
-    },
-    "branch": {
-      "en": "Gurugram"
-    },
-    "address": {
-      "en": "Sector 44, Opposite HUDA City Centre, Gurugram, Haryana 122002"
-    },
+    "id": "H-NCR-002",
+    "name": "Fortis Memorial Research Institute, Gurugram",
+    "city": "Gurugram",
+    "state": "Haryana",
+    "country": "India",
+    "address": "Sector 44, Opposite HUDA City Centre, Gurugram, Haryana 122002",
+    "phone": "0124-4962200",
+    "internationalSupport": true,
+    "internationalContact": "assist.fmri@fortishealthcare.com",
     "specialties": [
-      "cancer",
-      "cardiac",
-      "neuro",
-      "kidney",
-      "ortho",
-      "gastro"
-    ],
-    "specialtyNames": [
       "Oncology",
       "Cardiology",
       "Cardiac Surgery",
@@ -1184,42 +416,79 @@
       "Orthopaedics",
       "Gastroenterology"
     ],
-    "source": "https://www.fortishealthcare.com/location/fortis-memorial-research-institute-gurgaon",
-    "directory": "https://www.fortishealthcare.com/location/fortis-memorial-research-institute-gurgaon",
-    "phone": "0124-4962200",
-    "hotels": [],
-    "hotelSearch": true,
-    "sourceMode": "page",
-    "note": {
-      "en": "Confirm the exact department, appointment, international-patient process and current contact details directly with the hospital."
-    },
-    "reviewedAt": "2026-10-05",
-    "photo": null,
-    "sources": [
-      "https://www.fortishealthcare.com/location/fortis-memorial-research-institute-gurgaon"
+    "accreditation": [
+      "JCI",
+      "NABH"
     ],
-    "verificationStatus": "needs_review",
-    "active": true
+    "beds": 330,
+    "website": "https://www.fortishealthcare.com/location/fortis-memorial-research-institute-gurgaon",
+    "appOrPortal": "Fortis online booking",
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_FMRI"
+    ],
+    "secondarySources": [],
+    "image": {
+      "status": "needs_license_review",
+      "sourcePage": "https://www.fortishealthcare.com/location/fortis-memorial-research-institute-gurgaon",
+      "isIllustrative": false,
+      "url": "assets/hospital-cover.svg"
+    }
   },
   {
-    "id": "h-ncr-004",
-    "city": "delhi",
-    "name": {
-      "en": "BLK-Max Super Speciality Hospital"
-    },
-    "branch": {
-      "en": "New Delhi"
-    },
-    "address": {
-      "en": "Pusa Rd, Radha Soami Satsang, Rajendra Place, New Delhi, Delhi 110005"
-    },
+    "id": "H-NCR-003",
+    "name": "Max Super Speciality Hospital, Saket",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "country": "India",
+    "address": "1,2, Press Enclave Road, Saket Institutional Area, Saket, New Delhi, Delhi 110017",
+    "phone": "011-26515050",
+    "internationalSupport": true,
+    "internationalContact": "int.query@maxhealthcare.com",
     "specialties": [
-      "cardiac",
-      "gastro",
-      "neuro",
-      "ortho"
+      "Cancer Care",
+      "Cardiac Sciences",
+      "Neurology",
+      "Neurosurgery",
+      "Nephrology",
+      "Kidney Transplant",
+      "Gastroenterology",
+      "Liver Transplant",
+      "Orthopaedics"
     ],
-    "specialtyNames": [
+    "accreditation": [
+      "JCI",
+      "NABH"
+    ],
+    "beds": 514,
+    "website": "https://www.maxhealthcare.in/hospital-network/max-super-speciality-hospital-saket",
+    "appOrPortal": "Max online appointment / video consultation",
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_MAX_SAKET",
+      "SRC_MAX_CONTACT"
+    ],
+    "secondarySources": [],
+    "image": {
+      "status": "needs_license_review",
+      "sourcePage": "https://www.maxhealthcare.in/hospital-network/max-super-speciality-hospital-saket",
+      "isIllustrative": false,
+      "url": "assets/hospital-cover.svg"
+    }
+  },
+  {
+    "id": "H-NCR-004",
+    "name": "BLK-Max Super Speciality Hospital",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "country": "India",
+    "address": "Pusa Rd, Radha Soami Satsang, Rajendra Place, New Delhi, Delhi 110005",
+    "phone": "011-30403040",
+    "internationalSupport": true,
+    "internationalContact": "int.query@maxhealthcare.com",
+    "specialties": [
       "Cancer Care",
       "Cardiac Sciences",
       "Gastroenterology",
@@ -1228,41 +497,35 @@
       "Kidney Transplant",
       "Bariatric Surgery"
     ],
-    "source": "https://www.maxhealthcare.in/international/en/hospital/blk-max-super-speciality-hospital",
-    "directory": "https://www.maxhealthcare.in/international/en/hospital/blk-max-super-speciality-hospital",
-    "phone": "011-30403040",
-    "hotels": [],
-    "hotelSearch": true,
-    "sourceMode": "page",
-    "note": {
-      "en": "Confirm the exact department, appointment, international-patient process and current contact details directly with the hospital."
-    },
-    "reviewedAt": "2026-10-05",
-    "photo": null,
+    "accreditation": [],
+    "beds": 539,
+    "website": "https://www.maxhealthcare.in/international/en/hospital/blk-max-super-speciality-hospital",
+    "appOrPortal": "Max international patient services",
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
     "sources": [
-      "https://www.maxhealthcare.in/international/en/hospital/blk-max-super-speciality-hospital",
-      "https://www.maxhealthcare.in/contact-us"
+      "SRC_BLK_MAX",
+      "SRC_MAX_CONTACT"
     ],
-    "verificationStatus": "needs_review",
-    "active": true
+    "secondarySources": [],
+    "image": {
+      "status": "needs_license_review",
+      "sourcePage": "https://www.maxhealthcare.in/international/en/hospital/blk-max-super-speciality-hospital",
+      "isIllustrative": false,
+      "url": "assets/hospital-cover.svg"
+    }
   },
   {
-    "id": "h-ncr-005",
-    "city": "gurugram",
-    "name": {
-      "en": "Artemis Hospital"
-    },
-    "branch": {
-      "en": "Gurugram"
-    },
-    "address": {
-      "en": "Sector 51, Gurugram, Haryana 122001"
-    },
+    "id": "H-NCR-005",
+    "name": "Artemis Hospital, Gurugram",
+    "city": "Gurugram",
+    "state": "Haryana",
+    "country": "India",
+    "address": "Sector 51, Gurugram, Haryana 122001",
+    "phone": "+91-124-4511111",
+    "internationalSupport": true,
+    "internationalContact": "+91 9711209940",
     "specialties": [
-      "neuro",
-      "ortho"
-    ],
-    "specialtyNames": [
       "Heart Centre",
       "Cancer Centre",
       "Neurosciences",
@@ -1271,42 +534,81 @@
       "Gastrosciences",
       "Pulmonology & Critical Care"
     ],
-    "source": "https://www.artemishospitals.com/",
-    "directory": "https://www.artemishospitals.com/",
-    "phone": "+91-124-4511111",
-    "hotels": [],
-    "hotelSearch": true,
-    "sourceMode": "page",
-    "note": {
-      "en": "Confirm the exact department, appointment, international-patient process and current contact details directly with the hospital."
-    },
-    "reviewedAt": "2026-10-05",
-    "photo": null,
-    "sources": [
-      "https://www.artemishospitals.com/",
-      "https://www.artemishospitals.com/contact-us"
+    "accreditation": [
+      "JCI",
+      "NABH"
     ],
-    "verificationStatus": "needs_review",
-    "active": true
+    "beds": 750,
+    "website": "https://www.artemishospitals.com/",
+    "appOrPortal": "ArtemisPHR App",
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_ARTEMIS",
+      "SRC_ARTEMIS_CONTACT"
+    ],
+    "secondarySources": [],
+    "image": {
+      "status": "needs_license_review",
+      "sourcePage": "https://www.artemishospitals.com/",
+      "isIllustrative": false,
+      "url": "assets/hospital-cover.svg"
+    }
   },
   {
-    "id": "h-blr-002",
-    "city": "bengaluru",
-    "name": {
-      "en": "Aster CMI Hospital"
-    },
-    "branch": {
-      "en": "Bengaluru"
-    },
-    "address": {
-      "en": "No. 43/2, New Airport Road, NH 44, Sahakar Nagar, Hebbal, Bengaluru, Karnataka 560092"
-    },
+    "id": "H-BLR-001",
+    "name": "Manipal Hospital, Old Airport Road",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "address": "98, HAL Old Airport Road, Kodihalli, Bengaluru, Karnataka 560017",
+    "phone": "1800 102 5555",
+    "internationalSupport": true,
+    "internationalContact": null,
     "specialties": [
-      "cardiac",
-      "neuro",
-      "kidney"
+      "Cancer Care",
+      "Cardiology",
+      "CTVS",
+      "Gastrointestinal Science",
+      "Liver Transplant",
+      "Nephrology",
+      "Neurology",
+      "Neurosurgery",
+      "Orthopaedics",
+      "Urology"
     ],
-    "specialtyNames": [
+    "accreditation": [
+      "NABH",
+      "NABL"
+    ],
+    "beds": 650,
+    "website": "https://www.manipalhospitals.com/oldairportroad/hospitals/",
+    "appOrPortal": "Manipal online appointment / patient services",
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_MANIPAL_OAR",
+      "SRC_MANIPAL_ABOUT"
+    ],
+    "secondarySources": [],
+    "image": {
+      "status": "needs_license_review",
+      "sourcePage": "https://www.manipalhospitals.com/oldairportroad/hospitals/",
+      "isIllustrative": false,
+      "url": "assets/hospital-cover.svg"
+    }
+  },
+  {
+    "id": "H-BLR-002",
+    "name": "Aster CMI Hospital",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "address": "No. 43/2, New Airport Road, NH 44, Sahakar Nagar, Hebbal, Bengaluru, Karnataka 560092",
+    "phone": "080-4342-0100",
+    "internationalSupport": true,
+    "internationalContact": null,
+    "specialties": [
       "Cardiology",
       "Cardiac Surgery",
       "Medical Oncology",
@@ -1317,120 +619,105 @@
       "Urology",
       "Liver Transplant"
     ],
-    "source": "https://www.asterhospitals.in/hospitals/aster-cmi-bangalore",
-    "directory": "https://www.asterhospitals.in/hospitals/aster-cmi-bangalore",
-    "phone": "080-4342-0100",
-    "hotels": [],
-    "hotelSearch": true,
-    "sourceMode": "page",
-    "note": {
-      "en": "Confirm the exact department, appointment, international-patient process and current contact details directly with the hospital."
-    },
-    "reviewedAt": "2026-10-05",
-    "photo": null,
+    "accreditation": [],
+    "beds": 500,
+    "website": "https://www.asterhospitals.in/hospitals/aster-cmi-bangalore",
+    "appOrPortal": "Aster online appointment / patient services",
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
     "sources": [
-      "https://www.asterhospitals.in/hospitals/aster-cmi-bangalore"
+      "SRC_ASTER_CMI"
     ],
-    "verificationStatus": "needs_review",
-    "active": true
+    "secondarySources": [],
+    "image": {
+      "status": "needs_license_review",
+      "sourcePage": "https://www.asterhospitals.in/hospitals/aster-cmi-bangalore",
+      "isIllustrative": false,
+      "url": "assets/hospital-cover.svg"
+    }
   },
   {
-    "id": "h-blr-003",
-    "city": "bengaluru",
-    "name": {
-      "en": "Narayana Institute of Cardiac Sciences"
-    },
-    "branch": {
-      "en": "Bangalore"
-    },
-    "address": {
-      "en": "258/A, Bommasandra Industrial Area, Anekal Taluk, Hosur Road, Bangalore, Karnataka 560099"
-    },
+    "id": "H-BLR-003",
+    "name": "Narayana Institute of Cardiac Sciences, Bangalore",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "address": "258/A, Bommasandra Industrial Area, Anekal Taluk, Hosur Road, Bangalore, Karnataka 560099",
+    "phone": "080-7122 2222",
+    "internationalSupport": true,
+    "internationalContact": "international@narayanahealth.org",
     "specialties": [
-      "cardiac"
-    ],
-    "specialtyNames": [
       "Cardiac Sciences",
       "Cardiac Surgery",
       "Critical Care"
     ],
-    "source": "https://www.narayanahealth.org/hospitals-clinics/bangalore",
-    "directory": "https://www.narayanahealth.org/hospitals-clinics/bangalore",
-    "phone": "080-7122 2222",
-    "hotels": [],
-    "hotelSearch": true,
-    "sourceMode": "page",
-    "note": {
-      "en": "Confirm the exact department, appointment, international-patient process and current contact details directly with the hospital."
-    },
-    "reviewedAt": "2026-10-05",
-    "photo": null,
-    "sources": [
-      "https://www.narayanahealth.org/hospitals-clinics/bangalore"
+    "accreditation": [
+      "JCI",
+      "NABH"
     ],
-    "verificationStatus": "needs_review",
-    "active": true
+    "beds": 606,
+    "website": "https://www.narayanahealth.org/hospitals-clinics/bangalore",
+    "appOrPortal": "Narayana Health digital patient services",
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_NARAYANA_BLR"
+    ],
+    "secondarySources": [],
+    "image": {
+      "status": "needs_license_review",
+      "sourcePage": "https://www.narayanahealth.org/hospitals-clinics/bangalore",
+      "isIllustrative": false,
+      "url": "assets/hospital-cover.svg"
+    }
   },
   {
-    "id": "h-chn-005",
-    "city": "chennai",
-    "name": {
-      "en": "Apollo Proton Cancer Centre"
-    },
-    "branch": {
-      "en": "Chennai"
-    },
-    "address": {
-      "en": "4/661, Dr. Vikram Sarabhai Instronic Estate 7th St, Phase II, Vandalur–Kelambakkam Road, Chennai 600126"
-    },
+    "id": "H-CHN-005",
+    "name": "Apollo Proton Cancer Centre, Chennai",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "address": "4/661, Dr. Vikram Sarabhai Instronic Estate 7th St, Phase II, Vandalur–Kelambakkam Road, Chennai 600126",
+    "phone": "044 7177 1000",
+    "internationalSupport": true,
+    "internationalContact": null,
     "specialties": [
-      "cancer"
-    ],
-    "specialtyNames": [
       "Proton Therapy",
       "Oncology",
       "Radiation Oncology",
       "Surgical Oncology",
       "Medical Oncology"
     ],
-    "source": "https://www.apollohospitals.com/chennai/apollo-proton-cancer-centre",
-    "directory": "https://www.apollohospitals.com/chennai/apollo-proton-cancer-centre",
-    "phone": "044 7177 1000",
-    "hotels": [],
-    "hotelSearch": true,
-    "sourceMode": "page",
-    "note": {
-      "en": "Confirm the exact department, appointment, international-patient process and current contact details directly with the hospital."
-    },
-    "reviewedAt": "2026-10-05",
-    "photo": null,
-    "sources": [
-      "https://www.apollohospitals.com/chennai/apollo-proton-cancer-centre",
-      "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai"
+    "accreditation": [
+      "JCI",
+      "NABH"
     ],
-    "verificationStatus": "needs_review",
-    "active": true
+    "beds": 150,
+    "website": "https://www.apollohospitals.com/chennai/apollo-proton-cancer-centre",
+    "appOrPortal": "Apollo digital booking",
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
+    "sources": [
+      "SRC_APOLLO_CHN"
+    ],
+    "secondarySources": [],
+    "image": {
+      "status": "illustrative",
+      "isIllustrative": true,
+      "url": "assets/hospital-cover.svg"
+    }
   },
   {
-    "id": "h-ncr-006",
-    "city": "delhi",
-    "name": {
-      "en": "Indraprastha Apollo Hospitals"
-    },
-    "branch": {
-      "en": "New Delhi"
-    },
-    "address": {
-      "en": "Sarita Vihar, Delhi Mathura Road, New Delhi 110076"
-    },
+    "id": "H-NCR-006",
+    "name": "Indraprastha Apollo Hospitals, New Delhi",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "country": "India",
+    "address": "Sarita Vihar, Delhi Mathura Road, New Delhi 110076",
+    "phone": "011 2692 5858",
+    "internationalSupport": true,
+    "internationalContact": null,
     "specialties": [
-      "cardiac",
-      "cancer",
-      "neuro",
-      "ortho",
-      "gastro"
-    ],
-    "specialtyNames": [
       "Cardiac Sciences",
       "Oncology",
       "Transplants",
@@ -1438,270 +725,23 @@
       "Orthopaedics",
       "Gastroenterology"
     ],
-    "source": "https://www.apollohospitals.com/delhi",
-    "directory": "https://www.apollohospitals.com/delhi",
-    "phone": "011 2692 5858",
-    "hotels": [],
-    "hotelSearch": true,
-    "sourceMode": "page",
-    "note": {
-      "en": "Confirm the exact department, appointment, international-patient process and current contact details directly with the hospital."
-    },
-    "reviewedAt": "2026-10-05",
-    "photo": null,
-    "sources": [
-      "https://www.apollohospitals.com/delhi",
-      "https://www.apollohospitals.com/hospitals/apollo-hospitals-greams-road-chennai"
+    "accreditation": [
+      "JCI",
+      "NABH"
     ],
-    "verificationStatus": "needs_review",
-    "active": true
-  },
-  {
-    "id": "apollo-secunderabad",
-    "city": "hyderabad",
-    "name": {
-      "en": "Apollo Hospitals"
-    },
-    "branch": {
-      "en": "Secunderabad · Hyderabad"
-    },
-    "address": {
-      "en": "Pollicetty Towers, St Johns Road, Regimental Bazaar, Secunderabad, Telangana 500003"
-    },
-    "specialties": [],
-    "specialtyNames": [],
-    "source": "https://www.apollohospitals.com/hospitals/apollo-hospitals-secunderabad",
-    "directory": "https://www.apollohospitals.com/hospitals/apollo-hospitals-secunderabad",
-    "phone": "04027718888",
-    "hotels": [],
-    "hotelSearch": true,
-    "sourceMode": "page",
-    "note": {
-      "en": "Confirm services, current contact details, availability and international-patient arrangements directly with the hospital."
-    },
-    "reviewedAt": "2026-10-05",
-    "photo": null,
+    "beds": 710,
+    "website": "https://www.apollohospitals.com/delhi",
+    "appOrPortal": "Apollo digital booking",
+    "verificationStatus": "verified_official",
+    "lastVerified": "2026-10-05",
     "sources": [
-      "https://www.apollohospitals.com/hospitals/apollo-hospitals-secunderabad"
+      "SRC_APOLLO_CHN"
     ],
-    "verificationStatus": "needs_review",
-    "active": true
-  },
-  {
-    "id": "apollo-hyderguda",
-    "city": "hyderabad",
-    "name": {
-      "en": "Apollo Hospitals"
-    },
-    "branch": {
-      "en": "Hyderguda · Hyderabad"
-    },
-    "address": {
-      "en": "Plot 3-5-836 to 838, Hyderguda-Basheerbagh Road, Hyderabad 500029"
-    },
-    "specialties": [],
-    "specialtyNames": [],
-    "source": "https://www.apollohospitals.com/hospitals/apollo-hospitals-hyderguda",
-    "directory": "https://www.apollohospitals.com/hospitals/apollo-hospitals-hyderguda",
-    "phone": "04023231380",
-    "hotels": [],
-    "hotelSearch": true,
-    "sourceMode": "page",
-    "note": {
-      "en": "Confirm services, current contact details, availability and international-patient arrangements directly with the hospital."
-    },
-    "reviewedAt": "2026-10-05",
-    "photo": null,
-    "sources": [
-      "https://www.apollohospitals.com/hospitals/apollo-hospitals-hyderguda"
-    ],
-    "verificationStatus": "needs_review",
-    "active": true
-  },
-  {
-    "id": "apollo-drdo",
-    "city": "hyderabad",
-    "name": {
-      "en": "Apollo Hospitals"
-    },
-    "branch": {
-      "en": "DRDO · Hyderabad"
-    },
-    "address": {
-      "en": "DRDO DMRL Cross Road, Kanchanbagh, Hyderabad 500058"
-    },
-    "specialties": [],
-    "specialtyNames": [],
-    "source": "https://www.apollohospitals.com/hospitals/apollo-hospitals-drdo-kanchanbagh",
-    "directory": "https://www.apollohospitals.com/hospitals/apollo-hospitals-drdo-kanchanbagh",
-    "phone": "04024342202",
-    "hotels": [],
-    "hotelSearch": true,
-    "sourceMode": "page",
-    "note": {
-      "en": "Confirm services, current contact details, availability and international-patient arrangements directly with the hospital."
-    },
-    "reviewedAt": "2026-10-05",
-    "photo": null,
-    "sources": [
-      "https://www.apollohospitals.com/hospitals/apollo-hospitals-drdo-kanchanbagh"
-    ],
-    "verificationStatus": "needs_review",
-    "active": true
-  },
-  {
-    "id": "apollo-financial-district",
-    "city": "hyderabad",
-    "name": {
-      "en": "Apollo Hospitals"
-    },
-    "branch": {
-      "en": "Financial District · Hyderabad"
-    },
-    "address": {
-      "en": "D.No. 2-105/6/SE, Nanakramguda, Serilingampally, Hyderabad 500032"
-    },
-    "specialties": [],
-    "specialtyNames": [],
-    "source": "https://www.apollohospitals.com/hospitals/apollo-hospitals-financial-district",
-    "directory": "https://www.apollohospitals.com/hospitals/apollo-hospitals-financial-district",
-    "phone": "04023606666",
-    "hotels": [],
-    "hotelSearch": true,
-    "sourceMode": "page",
-    "note": {
-      "en": "Confirm services, current contact details, availability and international-patient arrangements directly with the hospital."
-    },
-    "reviewedAt": "2026-10-05",
-    "photo": null,
-    "sources": [
-      "https://www.apollohospitals.com/hospitals/apollo-hospitals-financial-district"
-    ],
-    "verificationStatus": "needs_review",
-    "active": true
-  },
-  {
-    "id": "apollo-jubilee-city",
-    "city": "hyderabad",
-    "name": {
-      "en": "Apollo Health City"
-    },
-    "branch": {
-      "en": "Jubilee Hills · Hyderabad"
-    },
-    "address": {
-      "en": "Jubilee Hills, Film Nagar, Hyderabad, Telangana"
-    },
-    "specialties": [],
-    "specialtyNames": [],
-    "source": "https://www.apollohospitals.com/hospitals/apollo-health-city-jubilee-hills",
-    "directory": "https://www.apollohospitals.com/hospitals/apollo-health-city-jubilee-hills",
-    "phone": "04069071200",
-    "hotels": [],
-    "hotelSearch": true,
-    "sourceMode": "page",
-    "note": {
-      "en": "Confirm services, current contact details, availability and international-patient arrangements directly with the hospital."
-    },
-    "reviewedAt": "2026-10-05",
-    "photo": null,
-    "sources": [
-      "https://www.apollohospitals.com/hospitals/apollo-health-city-jubilee-hills"
-    ],
-    "verificationStatus": "needs_review",
-    "active": true
-  },
-  {
-    "id": "apollo-cancer-electronic-city",
-    "city": "bengaluru",
-    "name": {
-      "en": "Apollo Cancer Centre"
-    },
-    "branch": {
-      "en": "Electronic City · Bengaluru"
-    },
-    "address": {
-      "en": "47/8 SJR Equinox, 3393/GF Doddathogur Road, Electronic City Phase 1, Bengaluru 560100"
-    },
-    "specialties": [],
-    "specialtyNames": [],
-    "source": "https://www.apollohospitals.com/hospitals/apollo-cancer-centre-electronic-city-bangalore",
-    "directory": "https://www.apollohospitals.com/hospitals/apollo-cancer-centre-electronic-city-bangalore",
-    "phone": "08123692363",
-    "hotels": [],
-    "hotelSearch": true,
-    "sourceMode": "page",
-    "note": {
-      "en": "Confirm services, current contact details, availability and international-patient arrangements directly with the hospital."
-    },
-    "reviewedAt": "2026-10-05",
-    "photo": null,
-    "sources": [
-      "https://www.apollohospitals.com/hospitals/apollo-cancer-centre-electronic-city-bangalore"
-    ],
-    "verificationStatus": "needs_review",
-    "active": true
-  },
-  {
-    "id": "apollo-sarjapur",
-    "city": "bengaluru",
-    "name": {
-      "en": "Apollo Hospitals"
-    },
-    "branch": {
-      "en": "Sarjapur Road · Bengaluru"
-    },
-    "address": {
-      "en": "Opposite Decathlon, Sarjapur Road, Mulluru Hobli, Bengaluru 560035"
-    },
-    "specialties": [],
-    "specialtyNames": [],
-    "source": "https://www.apollohospitals.com/hospitals/apollo-hospitals-sarjapur-road",
-    "directory": "https://www.apollohospitals.com/hospitals/apollo-hospitals-sarjapur-road",
-    "phone": "08069366936",
-    "hotels": [],
-    "hotelSearch": true,
-    "sourceMode": "page",
-    "note": {
-      "en": "Confirm services, current contact details, availability and international-patient arrangements directly with the hospital."
-    },
-    "reviewedAt": "2026-10-05",
-    "photo": null,
-    "sources": [
-      "https://www.apollohospitals.com/hospitals/apollo-hospitals-sarjapur-road"
-    ],
-    "verificationStatus": "needs_review",
-    "active": true
-  },
-  {
-    "id": "fortis-kidney-kolkata",
-    "city": "kolkata",
-    "name": {
-      "en": "Fortis Hospital & Kidney Institute"
-    },
-    "branch": {
-      "en": "Rash Behari Avenue · Kolkata"
-    },
-    "address": {
-      "en": "111A, Rash Behari Avenue, Kolkata, West Bengal"
-    },
-    "specialties": [],
-    "specialtyNames": [],
-    "source": "https://www.fortishealthcare.com/location/fortis-hospital-kidney-institute-kolkata",
-    "directory": "https://www.fortishealthcare.com/location/fortis-hospital-kidney-institute-kolkata",
-    "phone": null,
-    "hotels": [],
-    "hotelSearch": true,
-    "sourceMode": "page",
-    "note": {
-      "en": "Confirm services, current contact details, availability and international-patient arrangements directly with the hospital."
-    },
-    "reviewedAt": "2026-10-05",
-    "photo": null,
-    "sources": [
-      "https://www.fortishealthcare.com/location/fortis-hospital-kidney-institute-kolkata"
-    ],
-    "verificationStatus": "needs_review",
-    "active": true
+    "secondarySources": [],
+    "image": {
+      "status": "illustrative",
+      "isIllustrative": true,
+      "url": "assets/hospital-cover.svg"
+    }
   }
 ]
